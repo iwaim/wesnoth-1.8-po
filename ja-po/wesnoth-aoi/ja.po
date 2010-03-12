@@ -3,6 +3,7 @@
 # Automatically generated, 2006.
 # BlueStar, 2006.
 # Nobuhito Okada <okyada@gmail.com>, 2006.
+# <P2295417919104729@hotmail.co.jp>, 2010.
 #
 msgid ""
 msgstr ""

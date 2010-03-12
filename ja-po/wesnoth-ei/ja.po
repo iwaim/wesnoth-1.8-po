@@ -6,6 +6,7 @@
 # Q <quel_ro@excite.co.jp>, 2005.
 # Nobuhito Okada <okyada@gmail.com>, 2006.
 # BlueStar, 2006.
+# R.N <dragonfly65th@yahoo.co.jp>, 
 # 
 msgid ""
 msgstr ""
