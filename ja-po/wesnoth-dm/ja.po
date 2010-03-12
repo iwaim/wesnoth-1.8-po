@@ -1,12 +1,13 @@
 # IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-12-27 12:27+0100\n"
-"PO-Revision-Date: 2010-03-11 01:50+0900\n"
+"PO-Revision-Date: 2010-03-13 08:25+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -52,7 +53,7 @@ msgid ""
 "night. Who is the shadowy Iliah-Malal? Can you defeat him before he destroys "
 "all life in Wesnoth?\n"
 "\n"
-msgstr ""
+msgstr "Great River の南側から殺到してきているオーク族からの襲撃や、夜に徘徊している得体も知れず生命もない生物のため、Wesnoth は無情にも混沌に陥ろうとしています。正体不明な Iliah-Malal とは一体誰なのか？Wesnoth の一切衆生が破壊されてしまう前に Iliah-Malal を破ることができるでしょうか？\n\n"
 
 #. [about]
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:41
@@ -72,7 +73,7 @@ msgstr ""
 #. [about]
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:79
 msgid "Graphics"
-msgstr ""
+msgstr "グラフィックス"
 
 #. [about]
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:85
@@ -87,27 +88,27 @@ msgstr ""
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:26
 msgid "Marshal"
-msgstr ""
+msgstr "Marshal"
 
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:32
 msgid "First Oracle"
-msgstr ""
+msgstr "第一の賢人"
 
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:36
 msgid "Second Oracle"
-msgstr ""
+msgstr "第二の賢人"
 
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:40
 msgid "Third Oracle"
-msgstr ""
+msgstr "第三の賢人"
 
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:44
 msgid "Fourth Oracle"
-msgstr ""
+msgstr "第四の賢人"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:56
@@ -115,41 +116,41 @@ msgid ""
 "This is the true story of Delfador the Great from his humble beginnings; the "
 "tale of how he became the most famous and powerful of all the mages of "
 "Wesnoth."
-msgstr ""
+msgstr "これは、偉大なる Delfador の実話です。ただの見習い魔術師に過ぎなかった彼が、いかにして Wesnoth のすべての魔術師の中で最も強く、最も有名になったのかが綴られています。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:59
 msgid ""
 "It begins on the Isle of Alduin, at the Academy which trains mages from "
 "throughout the Great Continent."
-msgstr ""
+msgstr "このお話は、大陸全土から魔術師になるために学びにくるアカデミーのある Alduin の小島から始まります。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:62
 msgid ""
 "After ten years of training, two tests stand between that apprentice and "
 "attainment of the degree of Mage:"
-msgstr ""
+msgstr "10年もの修行のあと、2 つの試験が行われます。これによって、魔術師見習いが魔術師というべき力を得るのです。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:65
 msgid " The New Mage Ceremony"
-msgstr ""
+msgstr " 新しい魔術師の儀式"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:68
 msgid " and"
-msgstr ""
+msgstr " そして"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:71
 msgid " The Name Journey"
-msgstr ""
+msgstr " 名前の旅"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:90
 msgid "Academy of Magic, Isle of Alduin."
-msgstr ""
+msgstr "Alduin の小島の魔術師アカデミー"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:96
@@ -164,7 +165,7 @@ msgstr ""
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:101
 msgid "Come, O aspirant. The Oracles await you."
-msgstr ""
+msgstr "志望者はこちらへ。賢人たちがお待ちです。"
 
 #. [message]: speaker=First Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:123
@@ -173,7 +174,7 @@ msgid ""
 "very heart. Darkness is coming soon. The world will be changed. And you will "
 "be among the champions of our brotherhood of mages. I give you the first "
 "syllable of power, the beginning of your name: DEL"
-msgstr ""
+msgstr "平和な時代は過ぎ去った。邪悪はまさしく邪悪な存在として大陸に根付いてしまう。混沌の時代になりつつある。暗闇はすぐに訪れる。世界は変わってしまう。そして、お前は魔術師の中でも先頭に立つ者の一人となるであろう。力を持つ名前を授けよう。お前の名前の最初の音節は、DEL"
 
 #. [message]: speaker=Second Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:132
@@ -181,7 +182,7 @@ msgid ""
 "You will not be least among those champions. Nay; you will be called 'The "
 "Great' before your days are through. I give you the second syllable of "
 "power, the second part of your name: FA"
-msgstr ""
+msgstr "お前は先頭に立つ者の中でも後塵を拝すことはない。否、存命中に「偉大なる」と呼ばれるようになるだろう。お前の名前、力を持つ第二音節は、FA"
 
 #. [message]: speaker=Third Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:141
@@ -189,39 +190,39 @@ msgid ""
 "Yes. Peace is broken, but hope is not extinguished. There is always hope. "
 "And you will be the father of it. I call the power of the Bright Gods into "
 "the second part of your name. FA"
-msgstr ""
+msgstr "その通りだ。平和は破壊された。されど、望みは失われていない。望みは常にある。そして、お前はその望みの父となるのだ。我は、お前の名前の第二音節「FA」に知性の神々の力を与えよう。"
 
 #. [message]: speaker=Fourth Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:150
 msgid ""
 "After the battle, peace. After the darkness, dawn. From death springs new "
 "life. I give you the last part of your name, the final syllable of power. DOR"
-msgstr ""
+msgstr "戦いの後に平和が訪れる。暗闇の後に夜明けが訪れる。死は新しい生命を生む。お前の名前の最後、力を持つ最後の音節は、DOR"
 
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:159
 msgid "DELFADOR, open your eyes. And open them again!"
-msgstr ""
+msgstr "DELFADOR、目を開けてください。そして、もう一度開くのです！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:164
 msgid ". ."
-msgstr ""
+msgstr ". ."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:168
 msgid "o o"
-msgstr ""
+msgstr "o o"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:172
 msgid "O O"
-msgstr ""
+msgstr "O O"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:176
 msgid "The light fills me!"
-msgstr ""
+msgstr "光が満ち溢れている！"
 
 #. [message]: speaker=First Oracle
 #. [message]: speaker=Second Oracle
@@ -232,34 +233,34 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:188
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:192
 msgid "It is well."
-msgstr ""
+msgstr "それで良い。"
 
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:196
 msgid "Now, go forth!"
-msgstr ""
+msgstr "次は先に進んでください！"
 
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:200
 msgid "Your name journey begins. Methor will lead you from this place."
-msgstr ""
+msgstr "あなたの名前の旅は始まりました。Methor がここからあなたを導くでしょう。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:216
 msgid "But I will not see you to its end, for that is yours alone."
-msgstr ""
+msgstr "しかし、それはあなた自身とも言える。最後のときまで会うことはないでしょう。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:227
 msgid ""
 "Dangers and trials await us. When you have truly claimed the name you have "
 "been given, I will depart."
-msgstr ""
+msgstr "危険と苦難が我々を待ち受けている。あなたが、あなたに与えられた名前を真に求めたとき、私は旅立つであろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:231
 msgid "I am ready."
-msgstr ""
+msgstr "準備ができました。"
 
 #. [scenario]: id=02_this_valley_belongs_to_me
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:3
@@ -269,7 +270,7 @@ msgstr ""
 #. [side]: type=Goblin Pillager, id=Grogor-Tuk
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:35
 msgid "Grogor-Tuk"
-msgstr ""
+msgstr "Grogor-Tuk"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:49
@@ -372,12 +373,12 @@ msgstr "時間切れ"
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:112
 msgid "Grooar! Burn! Burn! Ahahaha..."
-msgstr ""
+msgstr "グオー！燃やせ！燃やせ！アハハハ……"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:123
 msgid "No! Methor... Don't die!"
-msgstr ""
+msgstr "ああ！Methor……死なないで！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:127
@@ -412,7 +413,7 @@ msgstr ""
 #. [scenario]: id=03_road_to_weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
-msgstr ""
+msgstr "Weldyn への道"
 
 #. [side]: type=Journeyman Mage
 #. [side]
@@ -482,7 +483,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:113
 msgid "Derrin"
-msgstr ""
+msgstr "Derrin"
 
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:120
@@ -996,14 +997,13 @@ msgstr ""
 #. [scenario]: id=08_ur_thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:3
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:46
-#, fuzzy
 msgid "Ur-Thorodor"
-msgstr "Delfador の死"
+msgstr "Ur-Thorodor"
 
 #. [side]: type=Orcish Warrior, id=Tan-Garthak
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:66
 msgid "Tan-Garthak"
-msgstr ""
+msgstr "Tan-Garthak"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:87
@@ -1064,9 +1064,8 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:128
-#, fuzzy
 msgid "Death of Ur-Thorodor"
-msgstr "Delfador の死"
+msgstr "Ur-Thorodor の死"
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:153
@@ -1476,12 +1475,12 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:136
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_showdown_in_the_northern_swamp.cfg:66
 msgid "Iliah-Malal"
-msgstr ""
+msgstr "Iliah-Malal"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_the_gate_between_worlds.cfg:57
 msgid "Defeat Iliah-Malal"
-msgstr ""
+msgstr "Iliah-Malal を倒す"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_the_gate_between_worlds.cfg:93
@@ -1710,9 +1709,8 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:113
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:100
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_face_of_the_enemy.cfg:84
-#, fuzzy
 msgid "Death of Chantal"
-msgstr "Delfador の死"
+msgstr "Chantal の死"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_wasteland.cfg:255
@@ -1753,30 +1751,28 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:655
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_the_return_of_trouble.cfg:182
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_showdown_in_the_northern_swamp.cfg:145
-#, fuzzy
 msgid "Defeat all enemies"
-msgstr "敵のリーダーを倒せ"
+msgstr "すべての敵を倒す"
 
 #. [side]: type=Orcish Warlord, id=Upgar
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:107
 msgid "Upgar"
-msgstr ""
+msgstr "Upgar"
 
 #. [side]: type=Death Knight, id=Dirator
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:131
 msgid "Dirator"
-msgstr ""
+msgstr "Dirator"
 
 #. [side]: type=Lieutenant, id=Niktor
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:160
 msgid "Niktor"
-msgstr ""
+msgstr "Niktor"
 
 #. [side]: type=White Mage, id=Arpus
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:186
-#, fuzzy
 msgid "Arpus"
-msgstr "粉砕"
+msgstr "Arpus"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:225
@@ -2119,9 +2115,8 @@ msgstr ""
 
 #. [unit]: type=Draug, id=Dreadred
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:1000
-#, fuzzy
 msgid "Dreadred"
-msgstr "Delfador"
+msgstr "Dreadred"
 
 #. [message]: speaker=Dreadred
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:1011
@@ -2315,9 +2310,8 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:109
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:96
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_face_of_the_enemy.cfg:80
-#, fuzzy
 msgid "Death of Kalenz"
-msgstr "Delfador の死"
+msgstr "Kalenz の死"
 
 #. [message]: id=Tan-drul
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_the_return_of_trouble.cfg:201
@@ -2472,9 +2466,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:115
-#, fuzzy
 msgid "Defeat all enemy leaders"
-msgstr "敵のリーダーを倒せ"
+msgstr "敵のリーダーをすべて倒せ"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:143
@@ -2613,9 +2606,8 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:320
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:349
-#, fuzzy
 msgid "New Objective: Defeat all enemies"
-msgstr "敵のリーダーを倒せ"
+msgstr "新しい目標: すべての敵を倒せ"
 
 #. [unit]: id=Krumful, type=Draug
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:360
@@ -2711,9 +2703,8 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:203
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:369
-#, fuzzy
 msgid "Death of Garard"
-msgstr "Delfador の死"
+msgstr "Garard の死"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:246
@@ -2950,7 +2941,7 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_showdown_in_the_northern_swamp.cfg:55
 #: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:70
 msgid "Lionel"
-msgstr ""
+msgstr "Lionel"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_dark_sky_over_weldyn.cfg:32
@@ -2999,7 +2990,7 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_dark_sky_over_weldyn.cfg:48
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_face_of_the_enemy.cfg:40
 msgid "Sagus"
-msgstr ""
+msgstr "Sagus"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_dark_sky_over_weldyn.cfg:52
@@ -3163,24 +3154,22 @@ msgstr ""
 #. [side]: type=Necromancer, id=Gruv-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:64
 msgid "Gruv-Malal"
-msgstr ""
+msgstr "Gruv-Malal"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:104
 msgid "Defeat Gruv-Malal"
-msgstr ""
+msgstr "Gruv-Malal を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:112
-#, fuzzy
 msgid "Death of Ulrek"
-msgstr "Delfador の死"
+msgstr "Ulrek の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:116
-#, fuzzy
 msgid "Death of Relgorn"
-msgstr "Delfador の死"
+msgstr "Relgorn の死"
 
 #. [message]: speaker=Gruv-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:134
@@ -3743,9 +3732,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:105
-#, fuzzy
 msgid "Defeat Eldred"
-msgstr "敵のリーダーを倒せ"
+msgstr "Eldred を倒す"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:133
@@ -4092,7 +4080,7 @@ msgstr ""
 #. [unit_type]: id=Journeyman Mage
 #: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:7
 msgid "Journeyman Mage"
-msgstr ""
+msgstr "熟練魔術師"
 
 #. [unit_type]: id=Journeyman Mage
 #: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:13
@@ -4100,7 +4088,7 @@ msgid ""
 "A mage who has just finished his or her apprenticeship is known as a "
 "journeyman. Journeyman mages travel far in search of employment and "
 "experience."
-msgstr ""
+msgstr "見習い期間を終え、一人前として知られる魔術師です。熟練魔術師は、その能力と経験により遠くまで見通せ、遠くまで移動することができます。"
 
 #. [unit_type]: id=King of Wesnoth
 #: data/campaigns/Delfadors_Memoirs/units/King_of_Wesnoth.cfg:7
@@ -4114,12 +4102,12 @@ msgid ""
 "His lords held their property only with his agreement, and had to pay him "
 "tribute. In return, the king would defend the realm against invaders, and "
 "redistribute wealth in times of need."
-msgstr ""
+msgstr "結局のところ、封建主義の下では主権者に全ての権威がありました。被支配者は、支配者の許諾の下でのみ資産を許され、また、年貢を支払わねばなりませんでした。その代わり、王は侵略者から領地を守り抜き、貧窮の際には富の再分配を行います。"
 
 #. [unit_type]: id=Mage Commander
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:7
 msgid "Mage Commander"
-msgstr ""
+msgstr "魔術師の指揮官"
 
 #. [unit_type]: id=Mage Commander
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:16
@@ -4127,7 +4115,7 @@ msgid ""
 "This mage has gained much experience leading others into battle. As a "
 "result, level 1 and 2 units fight more effectively when they are adjacent to "
 "him. He also has the power to heal others during combat."
-msgstr ""
+msgstr "戦いの中で多くの経験を重ねた魔術師です。その結果、隣接したレベル 1 ユニット、レベル 2 ユニットは効果的に戦うことができるようになります。また、戦闘中に他のユニットを回復する力も持ちます。"
 
 #. [attack]: type=impact
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:20
@@ -4139,38 +4127,38 @@ msgstr "杖"
 #. [unit_type]: id=Mage Leader
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:7
 msgid "Mage Leader"
-msgstr ""
+msgstr "魔術師の先導者"
 
 #. [unit_type]: id=Mage Leader
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:15
 msgid ""
 "This mage has gained some experience leading others into battle. As a "
 "result, level 1 units fight more effectively when they are adjacent to him."
-msgstr ""
+msgstr "戦いの中でいくつもの経験を重ねた魔術師です。その結果、隣接したレベル 1 ユニットは効果的に戦うことができるようになります。"
 
 #. [unit_type]: id=Mage Magister
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:7
 msgid "Mage Magister"
-msgstr ""
+msgstr "魔導士"
 
 #. [unit_type]: id=Mage Magister
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:19
 msgid ""
 "A Mage Magister, though equivalent in degree to a Great Mage, has special "
 "abilities of command and healing derived from extensive experience of battle."
-msgstr ""
+msgstr "魔導士は、偉大な魔術師となった者たちです。無数の戦闘経験から、統率と回復の特殊能力を持ちます。"
 
 #. [unit_type]: id=Wose Shaman, race=wose
 #: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
-msgstr ""
+msgstr "呪術師ウーズ"
 
 #. [unit_type]: id=Wose Shaman, race=wose
 #: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:66
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies."
-msgstr ""
+msgstr "このウーズは、つる植物や蔦などの森林植物に命じて敵を絡めとることができます。"
 
 #. [attack]: type=impact
 #: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:69
