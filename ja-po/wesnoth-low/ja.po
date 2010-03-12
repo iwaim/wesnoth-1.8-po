@@ -3594,8 +3594,9 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:252
+#, fuzzy
 msgid "Defeat all enemy units, and destroy all villages"
-msgstr ""
+msgstr "すべての敵を倒す"
 
 #. [message]
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:284

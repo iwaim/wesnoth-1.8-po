@@ -5,15 +5,14 @@
 # Automatically generated, 2006.
 # naoki iimura <amatubu@gmail.com>, 2006-2008.
 # Nobuhito Okada <okyada@gmail.com>, 2006.
-# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-02-25 00:07+0100\n"
-"PO-Revision-Date: 2010-02-15 02:41+0900\n"
-"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
+"PO-Revision-Date: 2008-04-22 03:49+0900\n"
+"Last-Translator: naoki iimura <amatubu@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,16 +27,15 @@ msgstr "南部防衛隊"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:10
 msgid "TSG"
-msgstr "南部防衛隊"
+msgstr "TSG"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:19
 msgid "(Novice level, 8 or 9 scenarios depending on the branch you take.)"
-msgstr ""
+msgstr "（初心者レベル、選んだ分岐によって 8 あるいは 9 シナリオ）"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:19
-#, fuzzy
 msgid ""
 "A young Knight, Deoran, is dispatched to take command of the South Guard... "
 "Note: This campaign is designed as an introduction to Wesnoth. The "
@@ -48,7 +46,6 @@ msgstr ""
 "ペーンは Wesnoth の入門のためにデザインされました。「一般市民」の難易度は初め"
 "てのプレイヤーに照準をあわせています。\n"
 "\n"
-"（初心者レベル、選んだ分岐によって 9 あるいは 10 シナリオ）"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:22
@@ -162,7 +159,7 @@ msgstr "Urza Mathin"
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:69
 #: data/campaigns/The_South_Guard/scenarios/08a_Return_To_Kerlath.cfg:107
 msgid "Bandits"
-msgstr ""
+msgstr "山賊"
 
 #. [label]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_To_The_Banner.cfg:93
@@ -288,7 +285,7 @@ msgid ""
 "You should head to the river fort! Sir Gerrick will want to know that "
 "reinforcements have arrived!"
 msgstr ""
-"川の砦に向かうべきです！ Gerrick 卿も援軍が到着したことを知りたいでしょう！"
+"川の砦に向かうべきです！ Gerrick 卿は援軍が到着したことを知りたいでしょう！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_To_The_Banner.cfg:207
@@ -762,7 +759,6 @@ msgstr ""
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_By_The_Sword.cfg:315
-#, fuzzy
 msgid ""
 "Peace! For I am no enemy. I am Minister Hylas, advisor to Sir Loris! You "
 "came just in time! We couldn't have held them off another day..."
@@ -831,7 +827,7 @@ msgid ""
 "We will do our best to hold the city - you lead your men across the river "
 "and kill the bandit leader!"
 msgstr ""
-"我々は都市を守るために最善を尽くします。あなたは兵を率いて川を渡り、山賊の"
+"我々は都市を守るために最善を尽くします。あなたは兵を率いて川を渉り、山賊の"
 "リーダーを殺してください！"
 
 #. [objective]: condition=win
@@ -950,8 +946,10 @@ msgstr "弟の敵を討つことができなかった！ 俺たちは何を成�
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_By_The_Sword.cfg:576
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_By_The_Sword.cfg:583
+#, fuzzy
 msgid "How can a bandit have summoned undead?"
-msgstr "どのようにして単なる山賊がアンデッドを召還することができたのですか？"
+msgstr ""
+"司令官、どのようにして単なる山賊がアンデッドを召還することができたのですか？"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_By_The_Sword.cfg:590
@@ -1004,8 +1002,8 @@ msgid ""
 "Deoran sent a rider to request mounted reinforcements and set out at once "
 "towards the Aethenwood..."
 msgstr ""
-"Deoran は援軍を求めるために一人の騎手を派遣し、すぐに Aethenwood の森へ出発し"
-"た……"
+"Deoran は騎手の援軍を求めるために一人の騎手を派遣し、すぐに Aethenwood の森へ"
+"出発した……"
 
 #. [scenario]: id=3_A_Desperate_Errand
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:5
@@ -1058,7 +1056,7 @@ msgid ""
 "accursed elves! Deoran will die before he reaches the western forest!"
 msgstr ""
 "Deoran のやつのせいで 2 人の兄弟を失った。やつをいまいましいエルフ族のところ"
-"に到着させはしない！ 西の森に到着する前に Deoran を殺してやる！"
+"に到着させはしない！ Deoran は西の森に到着する前に死ぬだろう！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:155
@@ -1067,9 +1065,9 @@ msgid ""
 "a force strong enough to drive off the bandits before moving Deoran from his "
 "encampment!"
 msgstr ""
-"あなたは Deoran をエルフ族の要塞の中央に移動させなければなりません。Deoran を"
-"宿営地から移動させる前に、山賊を追い払うのに十分な軍隊を雇うことを忘れないで"
-"ください！"
+"あなたは Deoran をエルフ族の要塞の中央に移動させなければなりません。山賊を追"
+"い払うのに十分な軍隊を雇うことを忘れないでください！ Deoran を宿営地から移動"
+"させる前に。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:167
@@ -1212,7 +1210,7 @@ msgid ""
 msgstr ""
 "ご婦人、我々は教えを乞うためにエルフ族のもとにやってきたのです。山賊や犯罪者"
 "が我々の地で死者を召還し、我々の農地や村から略奪するために使っているのです。"
-"彼らは我々の地の南に位置する広大な森から川を渡ってやってきています。その森"
+"彼らは我々の地の南に位置する広大な森から川を渉ってやってきています。その森"
 "は、人間はだれも誰も足を踏み入れたことのない場所なのです。"
 
 #. [message]: speaker=Ethiliel
@@ -1282,7 +1280,7 @@ msgstr "Mal A'kai"
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_In_The_Flood.cfg:88
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:57
 msgid "Undead"
-msgstr ""
+msgstr "アンデッド"
 
 #. [side]: type=Outlaw, id=Jera Ilras
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:110
@@ -1334,7 +1332,7 @@ msgid ""
 "They have grown bold to attack the elves!"
 msgstr ""
 "おそらく彼らはいくつもの村から略奪をしている山賊と同盟しているのだろう！ 彼ら"
-"はエルフ族を攻撃できるほど強力になっているのか！"
+"はエルフ族を攻撃できるほど強力になっている！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:194
@@ -1642,13 +1640,14 @@ msgstr "なぜここに留まって野営したのですか？"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:227
+#, fuzzy
 msgid ""
 "The Black River is before us. No elf, still living, has crossed it. If the "
 "undead come from across the river, then we must search for them carefully, "
 "for I know not the way."
 msgstr ""
-"私たちの前方には暗黒の川があるわ。エルフも、生きている者は誰もその川を渡った"
-"ことはないの。もしアンデッドが川を渡ってきたら、私たちは注意深く彼らを捜さな"
+"私たちの前方には大きな川があるわ。エルフも、生きている者は誰もその川を渡った"
+"ことはないの。もしアンデッドが川を渉ってきたら、私たちは注意深く彼らを捜さな"
 "ければならないわ。その方法はわからないのだけれど。"
 
 #. [message]: speaker=Sir Gerrick
@@ -1679,7 +1678,7 @@ msgstr "アンデッドの雇い主を倒しました！"
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:313
 msgid "No... I fear there is still much evil present. "
-msgstr "いや……。まだ邪悪な者がいるのではないかと心配だ。"
+msgstr "いいえ……。まだ邪悪な者がいるのではないかと心配だわ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:318
@@ -1750,8 +1749,8 @@ msgid ""
 "we may end this parley and dispatch you quickly! We will have vengeance!"
 msgstr ""
 "あなたが Mebrin を監禁したというの！？ それがあなたが確実に償わなければならな"
-"いことよ。速く話しなさい。話が終わり次第、あなたをすぐに殺すことができるわ！ "
-"復讐よ！"
+"いことよ。速く話しなさい。そうすればあなたが私服を肥やすのを終わらせ、あなた"
+"をすぐに殺すことができるわ！ 復讐よ！"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:409
@@ -1872,7 +1871,8 @@ msgstr ""
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:591
 msgid "Then this parley is over! You may have sounded the doom of all of us!"
-msgstr "では交渉決裂だ！ おまえは俺たち全員の破滅の音を鳴らしたかもしれない！"
+msgstr ""
+"では交渉は終わりだ！ おまえは俺たち全員の破滅の音を鳴らしたかもしれない！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:597
@@ -2014,8 +2014,8 @@ msgid ""
 msgstr ""
 "そんなに早まらないで。偉大な魔術師は安っぽい手品師ではないのだから、そう簡単"
 "に倒すことはできないわ。彼の要塞の真下に坑道や地下墓地があって、私たちは単に"
-"亡霊を倒しただけなのではないかしら。この悪しき地を浄化しようと思うなら、闇の"
-"中に入り、その中から彼を根絶しなければならないのよ。"
+"亡霊を倒しただけなのではないかしら。この彼の悪に満ちた地を浄化しようと思うな"
+"ら、闇の中に入り、その中から彼を根絶しなければならないのよ。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:781
@@ -2023,8 +2023,6 @@ msgid ""
 "There are strong magical wards placed here that would prevent you from "
 "entering, but I am capable of opening them to let us all pass."
 msgstr ""
-"ここには、あなたたちが入ることができない強い魔法の空間があるわ。でも、私には"
-"皆を通らせるようにそれを開くことができるの。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:786
@@ -2039,8 +2037,8 @@ msgid ""
 "borders. Who knows how many more of these undead are hiding in the forest?"
 msgstr ""
 "誰かが Wesnoth に戻ってこの新しい悪が我々の国境近くにあるという知らせを届けな"
-"ければならないでしょう。こんなにも多くのアンデッドが森に隠れていることは誰も"
-"知らないはずです。"
+"ければならないでしょう。こんなにも多くのアンデッドが森に隠れているかを知って"
+"いる者がいるでしょうか。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:794
@@ -2048,14 +2046,13 @@ msgid ""
 "Go, Sir Gerrick, and take with you an escort of elves, if Ethiliel will "
 "permit it."
 msgstr ""
-"行くのだ、Gerrick 殿。もし Ethiliel が許してくれるのならエルフ族の護衛を連れ"
-"て行け。"
+"行くのだ、Gerrick 殿。そしてエルフ族の護衛を連れて行け。もし Ethiliel が許し"
+"てくれるのなら。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:798
-#, fuzzy
 msgid "Indeed I will. My kinsfolk will protect you and your message!"
-msgstr "もちろん許すわ。我々エルフ族があなたとあなたの伝言を護るわ！"
+msgstr "もちろん許すわ。私の種族があなたとあなたの伝言を護るわ！"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:802
@@ -2074,7 +2071,7 @@ msgstr "よい知らせと悪い知らせ"
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_And_Ill.cfg:56
 msgid "Enemies"
-msgstr ""
+msgstr "敵"
 
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_And_Ill.cfg:61
@@ -2349,7 +2346,7 @@ msgstr "長時間の進軍"
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:98
 msgid "Elves"
-msgstr ""
+msgstr "エルフ"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:313
@@ -2364,7 +2361,6 @@ msgstr "Wizzi"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:464
-#, fuzzy
 msgid "Deoran and Urza Afalas led their men quickly from Mebrin's fortress..."
 msgstr ""
 "Deoran と Urza Afalas は彼らの兵を率いてすぐに Mal M'brin の要塞の廃墟を離れ"
@@ -2418,6 +2414,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:516
+#, fuzzy
 msgid "Move Deoran through the woods and over the river"
 msgstr "Deoran を北の森にあるエルフ族の都市まで移動させる"
 
@@ -2455,12 +2452,11 @@ msgid ""
 "From here you can see the banks of the river! Across it we will find the sun "
 "again, and an end to these cursed trees!"
 msgstr ""
-"ここから川の浅瀬が見えるだろう！ そこを渡れば再び太陽を拝むことができるだろ"
+"ここから川の浅瀬が見えるだろう！ そこを渉れば再び太陽を拝むことができるだろ"
 "う。そしてこの呪われた森ともおさらばだ！"
 
 #. [message]: race=elf
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:859
-#, fuzzy
 msgid ""
 "You humans have kidnapped Mebrin the Sage. You will pay for your crimes."
 msgstr "おまえたち人間は賢者 Mebrin を誘拐した。その罪を償うことになるだろう。"
@@ -2492,10 +2488,8 @@ msgstr "我々はおまえたち山賊や犯罪者が我々の地を通ること
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:910
-#, fuzzy
 msgid "We wish only to return to our homes!"
-msgstr ""
-"しかし俺たちはアンデッドを倒した。俺たちは俺たちの故郷に帰りたいだけだ！"
+msgstr "俺たちは俺たちの故郷に帰りたいだけだ！"
 
 #. [message]: race=elf
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:919
@@ -2504,7 +2498,6 @@ msgstr "いずれにしても、Mebrin の復讐をする！"
 
 #. [message]: race=elf
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:953
-#, fuzzy
 msgid "Get them!"
 msgstr "つかまえろ！"
 
@@ -2799,9 +2792,9 @@ msgid ""
 "Kidnapped me to raise undead for them. Menaced me with cold iron...ahh, the "
 "iron on my skin, it burned, it burned!"
 msgstr ""
-"我は奴らの鎖を壊してやった。しかし、奴らは我を拘束した。忌まわしい人間どもが"
-"我を拘束したのだ！ アンデッドをよみがえらせるために私を誘拐した。冷たい鉄で我"
-"を脅迫した……ああ、我が皮膚に鉄が、熱い、熱い！"
+"我は奴らの鎖を壊してやった。奴らは我を拘束した。呪われた人間たちが。我を拘束"
+"したのだ！ アンデッドをよみがえらせるために私を誘拐した。冷たい鉄で我を脅迫し"
+"た……ああ、我が皮膚に鉄が、熱い、熱い！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_The_Depths.cfg:755
@@ -2876,8 +2869,8 @@ msgid ""
 "And when we were done, what would we have become? Unlife. Hungering shadows, "
 "devouring all we once cherished."
 msgstr ""
-"それで彼らを一掃したあと、私たちはどうなるというの？ 命もなく。暗がりに飢え、"
-"かつて私たちが大切にしていたすべてのものを破滅させて。"
+"それで彼らを一掃したあと、私たちはどうなるというの？ 死ししてなお生。暗がりに"
+"飢え、かつて私たちが大切にしていたすべてのものを破滅させて。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_The_Depths.cfg:791
@@ -2896,7 +2889,7 @@ msgid ""
 msgstr ""
 "単なる一人の人間でも、おまえがかつて信じていたすべてのものをあざ笑う者になっ"
 "てしまったことがわかる。私はおまえとアンデッドを召還するおまえの仕掛けを破壊"
-"する。それが私のできる最後のことだ！"
+"する。それが私のできる最後のことであっても！"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_The_Depths.cfg:801
@@ -3336,9 +3329,8 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:410
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:428
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:475
-#, fuzzy
 msgid "Defeat Mal M'Brin"
-msgstr "Mal M'Brin"
+msgstr "Mal M'Brin を倒す"
 
 #. [objectives]
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:421
@@ -3860,8 +3852,8 @@ msgid ""
 "Haldiel's son."
 msgstr ""
 "Haldric 王は、Deoran という名の若く平凡だが前途有望な騎馬隊の将校を呼び出し"
-"た。彼は オーク族との戦いで Konrad I 世とともに戦い、手柄を立てた Haldiel の"
-"息子であった。王は彼に任務を与えるつもりなのだ。"
+"た。彼は オーク族との戦いで Konrad I 世とともに戦い手柄を立てた Haldiel の息"
+"子であった。王には彼に与える任務があったのだ。"
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:37
@@ -3905,7 +3897,7 @@ msgid ""
 "were well founded..."
 msgstr ""
 "Deoran と彼の軍は古い都市に近づいていた。そして、彼らが恐れていたことが現実に"
-"なっていることを目の当たりにした……"
+"なっていることを発見した……"
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:88
@@ -4040,7 +4032,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:165
-#, fuzzy
 msgid ""
 "With bitter spears and grim expression, the men of Wesnoth launched the last "
 "assault on the undead. As they cut through lifeless flesh and shattered "
