@@ -1,3 +1,8 @@
+# Japanese translations for Battle for Wesnoth package.
+# Copyright (C) 2005-2009 Wesnoth-UMC-Dev project 
+# Copyright (C) 2009-2010 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Automatically generated, 2005.
 # IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
 # 
 msgid ""
@@ -5,7 +10,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-12-27 12:27+0100\n"
-"PO-Revision-Date: 2010-03-13 08:25+0900\n"
+"PO-Revision-Date: 2010-03-13 11:21+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -38,7 +43,7 @@ msgstr "魔術師"
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:34
 msgid "Great Mage=(hardest)"
-msgstr "偉大な魔術師=（難しい）"
+msgstr "偉大なる魔術師=（難しい）"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:38
@@ -248,7 +253,7 @@ msgstr "あなたの名前の旅は始まりました。Methor がここから�
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:216
 msgid "But I will not see you to its end, for that is yours alone."
-msgstr "しかし、それはあなた自身とも言える。最後のときまで会うことはないでしょう。"
+msgstr "しかし、私はあなた自身とも言える。最後のときまで会うことはないでしょう。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:227
@@ -265,7 +270,7 @@ msgstr "準備ができました。"
 #. [scenario]: id=02_this_valley_belongs_to_me
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:3
 msgid "This Valley Belongs to Me"
-msgstr ""
+msgstr "この谷は俺のもの"
 
 #. [side]: type=Goblin Pillager, id=Grogor-Tuk
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:35
@@ -279,7 +284,7 @@ msgid ""
 "within and beyond the lands of men. They studied and practiced, applying "
 "magecraft to aid those they traveled among and to deepen their understanding "
 "of the hidden currents and powers of the world."
-msgstr ""
+msgstr "Delfador は Methor と共に人間の住む陸地内およびそれ以外の多くの奇妙な場所を彷徨いました。二人は、旅路の助けのためや、世界の隠された動向と力の理解を深めるために魔術を使いながら、研究し修練を積みました。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:52
@@ -290,7 +295,7 @@ msgid ""
 "a small school of his own, and with Delfador assisting him he began training "
 "a handful of youths who might in time be worthy to enter the great Academy "
 "on Alduin."
-msgstr ""
+msgstr "しかし、年配の魔術師の健康は、その厳しい旅路のため負担がかかっていました。Alduin を離れて 2 年後、Methor は Weldyn の首都の南東程遠からぬところにある Dulatus の丘の端にある穏やかな谷に定住しました。そして彼は Delfador の協力を得て、小さな学校を開校し、Alduin の偉大なアカデミーに入るに相応しい一握りの若者の訓練を開始しました。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:67
@@ -299,7 +304,7 @@ msgid ""
 "trained mage, and may choose your own path in life. I hope, however, that "
 "you will take my advice, and enroll yourself in the service of King Garard. "
 "I have many contacts at the court and..."
-msgstr ""
+msgstr "Delfador よ、私の見習いとして過ごす時間はあと僅かだ。お前は完全に訓練された魔術師である。これからのお前の人生はお前自身で選ぶがいい。しかしながら、私の忠告に従うことを期待している。Garard 王に仕えるのだ。私は宮廷に多くの知り合いがおり……"
 
 #. [message]: speaker=Grogor-Tuk
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:71
@@ -307,21 +312,21 @@ msgid ""
 "Listen, humans! This valley belongs to me now. I require all your houses and "
 "your possessions! Hand them over quietly and I may permit you to live on as "
 "my slaves..."
-msgstr ""
+msgstr "聞け、人間ども！この谷は今や俺のものだ。貴様等の家と所有物をすべて出せ！おとなしく引き渡せば、奴隷として命は助けてやろう……"
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:75
 msgid ""
 "Arrogant creature! We have little enough, and we will not suffer you to take "
 "it from us by force."
-msgstr ""
+msgstr "傲慢な生き物め！私たちは最低限のものしかもっていない。そして、我々から強奪することは、お前たちには難しいだろう。"
 
 #. [message]: speaker=Grogor-Tuk
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:79
 msgid ""
 "That's where you are wrong, puny mage. War is coming, humans... War! Take "
 "their villages, and spare no-one!"
-msgstr ""
+msgstr "勘違いした弱い魔術師め。戦のときは来た。人間ども……戦争だ！村を奪え！誰も許すな！"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:88
@@ -385,7 +390,7 @@ msgstr "ああ！Methor……死なないで！"
 msgid ""
 "Heed my last words, Delfador! Journey northeast to Weldyn, and seek out my "
 "friend Leollyn. He will help you."
-msgstr ""
+msgstr "Delfador、最後の言葉を聞け！Weldyn の北東に向かい、我が友  Leollyn を探すのだ。きっとお前の助けになるだろう。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:140
@@ -394,21 +399,21 @@ msgid ""
 "to seek your fortune. My traveling days are done, but it is time for you to "
 "journey northeast to Weldyn, and seek out my friend Leollyn. He will help "
 "you."
-msgstr ""
+msgstr "Delfador、よくやった！十分に訓練していることがよくわかるぞ。世に出る準備は本当によくできている。流浪の旅はもう終わりだ。Weldyn の北東に向かい、我が友  Leollyn を探すのだ。きっとお前の助けになるだろう。"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:149
 msgid ""
 "I will grieve for master Methor... I must take his advice and seek out "
 "Leollyn."
-msgstr ""
+msgstr "我が師 Methor、私はとても悲しい……私は彼の忠告を守り、Leollyn を探し出さねばならない。"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:155
 msgid ""
 "And it is no good news I will bring him. Orcs, so far south and so near the "
 "capital? This is a dire sign; things are gravely amiss in Wesnoth."
-msgstr ""
+msgstr "そして、私は悪い知らせを聞いた。すぐ南、首都の近くにまでオーク族が？恐ろしい兆候だ。Wesnoth にとって重大な不都合だ。"
 
 #. [scenario]: id=03_road_to_weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:3
@@ -430,12 +435,12 @@ msgstr "Weldyn への道"
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:39
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:52
 msgid "Player"
-msgstr ""
+msgstr "プレイヤー"
 
 #. [side]: type=Orcish Warrior, id=Urthaka-Tan
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:35
 msgid "Urthaka-Tan"
-msgstr ""
+msgstr "Urthaka-Tan"
 
 #. [side]: type=Orcish Warlord, id=Tish Golub
 #. [side]: type=Rogue, id=Garrath
@@ -450,7 +455,7 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:72
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_wasteland.cfg:45
 msgid "Enemies"
-msgstr ""
+msgstr "敵"
 
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:66
@@ -460,12 +465,12 @@ msgstr ""
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:70
 msgid "Fort Brell"
-msgstr ""
+msgstr "Brell 砦"
 
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:74
 msgid "Fort Miryen"
-msgstr ""
+msgstr "Miryen 砦"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:82
@@ -478,7 +483,7 @@ msgstr "敵のリーダーを倒せ"
 msgid ""
 "Delfador followed Methor's advice, and headed over the hills towards Weldyn. "
 "But the roads were more dangerous than he had expected..."
-msgstr ""
+msgstr "Delfador は Methor の忠告に従い、Weldyn の向かって丘の上を進みました。しかし、通路は彼が予想していたよりも危険だったのです……"
 
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:113
@@ -501,13 +506,13 @@ msgid ""
 "Beware, stranger! I come to warn you - a party of orcs have moved into the "
 "Great Valley to the north, and have been raiding the lands around. If you "
 "press on westward, you will have to fight them."
-msgstr ""
+msgstr "見知らぬ方よ、注意して下さい！警告します。オーク族の一団は北の Great Valley に移動し、襲撃してこようとしています。西方向に向かうならば奴等と戦わねばなりません。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:134
 msgid ""
 "I cannot turn back now... If I fight these orcs, will your villagers help me?"
-msgstr ""
+msgstr "私はもう引き返すことはできないのだ……もし私がオーク族と戦うのであれば、あなたたち村人は私を助けてくれるだろうか？"
 
 #. [message]: speaker=Derrin
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:138
@@ -515,31 +520,31 @@ msgid ""
 "You see me armed for war because we were mustering to aid our kin. We can "
 "help each other - and you'll not be sorry to fight beside us, for this "
 "region trains the best bowmen in Wesnoth."
-msgstr ""
+msgstr "我々は同胞を助けるために集まり、戦のために武装しています。我々は互いに助け合うことができるでしょう。共に戦えば後悔することはないはずです。この地方は、Wesnoth で最も優秀な射手を訓練しています。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:152
 msgid "Take this, you slimy invader!"
-msgstr ""
+msgstr "汚らしい侵略者がきました！"
 
 #. [message]: role=bowman_advisor
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:167
 msgid "Beware! Night is falling - that's when the orcs tend to attack!"
-msgstr ""
+msgstr "気をつけて！夜になってしまいました。オーク族が攻撃してきます！"
 
 #. [message]: role=bowman_advisor
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:182
 msgid ""
 "Thank you, Delfador, for helping to rid our land of those pestilent orcs. "
 "Your magic was more help than we looked for, and we are in your debt."
-msgstr ""
+msgstr "Delfador、有害なオーク族を我々の領地から排除することを手伝ってくれて感謝します。あなたの魔法は想像以上に助けになりました。あなたに借りができました。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:186
 msgid ""
 "You are welcome...but I am wondering what orcs were doing so deep inside the "
 "borders of Wesnoth."
-msgstr ""
+msgstr "どういたしまして……だが、私はオーク族が Wesnoth の国境の中にまで深く入り、何をしていたのかが不思議だ。"
 
 #. [message]: role=bowman_advisor
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:190
@@ -547,7 +552,7 @@ msgid ""
 "Perhaps some of our lads had better go with you as far as Weldyn. These "
 "lands are not safe for a lone traveler, and we may learn what drew the orcs "
 "so far south."
-msgstr ""
+msgstr "おそらく、Weldyn までは我々から何人かの若者を同行させた方が良いですね。一人旅をするにはこの辺りは危険です。また、我々はオーク族がこんなに南まできてやろうとしていたことを調査してみます。"
 
 #. [side]: type=Arch Mage, id=Leollyn
 #. [scenario]: id=04_leollyn
@@ -556,12 +561,12 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:70
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:54
 msgid "Leollyn"
-msgstr ""
+msgstr "Leollyn"
 
 #. [side]: type=Orcish Slayer, id=Hagha-Tan
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:46
 msgid "Hagha-Tan"
-msgstr ""
+msgstr "Hagha-Tan"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:100
