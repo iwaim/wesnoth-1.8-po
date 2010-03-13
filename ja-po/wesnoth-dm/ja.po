@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-12-27 12:27+0100\n"
-"PO-Revision-Date: 2010-03-13 11:21+0900\n"
+"PO-Revision-Date: 2010-03-13 13:29+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -460,7 +460,7 @@ msgstr "敵"
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:66
 msgid "The Great Valley"
-msgstr ""
+msgstr "Great Valley"
 
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:70
@@ -493,12 +493,12 @@ msgstr "Derrin"
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:120
 msgid "Feorth"
-msgstr ""
+msgstr "Feorth"
 
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:127
 msgid "Gar"
-msgstr ""
+msgstr "Gar"
 
 #. [message]: speaker=Derrin
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:130
@@ -572,36 +572,36 @@ msgstr "Hagha-Tan"
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:100
 msgid ""
 "Leollyn is slain! This is terrible... I had best give up and return home."
-msgstr ""
+msgstr "Leollyn が殺されてしまった！大変なことだ……私は諦めて家に戻るしかない。"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:112
 msgid "Defeat Hagha-Tan"
-msgstr ""
+msgstr "Hagha-Tan を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:120
 msgid "Death of Leollyn"
-msgstr ""
+msgstr "Leollyn の死"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:138
 msgid ""
 "Methor told me that I could find Leollyn in his tower in the Royal Forest "
 "outside the city. It should be near here..."
-msgstr ""
+msgstr "Methor は都市の外縁、Royal Forest にある塔で Leollyn に会えると私に言いました。この近くだと思うのだが……"
 
 #. [message]: speaker=Hagha-Tan
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:142
 msgid "Ah, another human is approaching... yes... more meat for my war-band..."
-msgstr ""
+msgstr "ああ、別の人間が近づいてくる……うむ……戦時における肉だ……"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:146
 msgid ""
 "Hail, strangers to the west! I crave your aid; hurry, for we are sorely "
 "besieged!"
-msgstr ""
+msgstr "やあ、西へ向かっている見知らぬ人よ。援助を切望する。我々はひどく包囲されている。急いできてくれ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:150
@@ -609,34 +609,34 @@ msgid ""
 "Well met, Leollyn! My friends and I will roust this barbarian for you. We're "
 "getting used to such work by now - I did not expect to have so much trouble "
 "getting here!"
-msgstr ""
+msgstr "はじめまして、Leollyn！私は友人と共にあなたのためにこの野蛮人を引き剥がしてやります。私たちは今はそういう作業に慣れてしまいました。ここに来るまでにこんなにも苦労するとは想像してませんでした！"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:154
 msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
 "can distract those vile creatures, I will try to organize a counterattack."
-msgstr ""
+msgstr "それは聞いては無かったが……感謝する。話すための時間は十分に作れるだろう。もし、君たちがこの下品な生物の気をそらすことができるならば、私は反撃のために組織化を試みよう。"
 
 #. [message]: speaker=Hagha-Tan
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:171
 msgid "Yes... yes... slay them, my assassins!"
-msgstr ""
+msgstr "いいぞ……いいぞ……我が暗殺者よ、こいつ等を殺してしまえ！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:175
 msgid "Uh oh... I don't like the look of this..."
-msgstr ""
+msgstr "う、おお……嫌なこの目つきだ……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:189
 msgid "Their blood sheds as readily as any man's."
-msgstr ""
+msgstr "奴等の血は人間と同じぐらい容易に流れるぞ。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:193
 msgid "You are a brave fighter, young friend."
-msgstr ""
+msgstr "若き友よ、君は勇敢な戦士だ。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:208
@@ -653,38 +653,38 @@ msgstr ""
 msgid ""
 "Well now, you arrived just in the nick of time. A fellow mage, too, I see. "
 "Now what did you say your name was?"
-msgstr ""
+msgstr "さて、君は危機一髪丁度良いときに到着してくれた。君も同じく魔術師だと思っている。そういえば名前は何だったかな？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:233
 msgid ""
 "Delfador, sir. Actually, I came seeking you - you see, I was a student of "
 "Methor's. He said that you might find me employment in Weldyn."
-msgstr ""
+msgstr "Delfador でございます。私はあなたに会いにきました。私は Methor の弟子でした。彼は、あなたが私のために Weldyn で職をみつけてくれるだろうと言っていました。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:237
 msgid ""
 "Ah, one of Methor's, eh? Good, good... Well, young Garard certainly needs "
 "all the hands he can muster right now. Especially those who know their magic!"
-msgstr ""
+msgstr "ああ、Methor の弟子か？いいぞ、いいぞ……さて、確か、若き Garard は今まさに士官する者を必要としているのだ。特に魔術を知る者を！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:243
 msgid "Delfador, sir. But I bring you ill news... Methor, my teacher, is dead."
-msgstr ""
+msgstr "Delfador でございます。あなたに悪い知らせがあります……。我が師 Methor は死んでしまいました。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:247
 msgid ""
 "That is ill news indeed... these are dark times. I think you had best return "
 "with me to Weldyn. Garard too, must hear your news."
-msgstr ""
+msgstr "それは悪い知らせだ……落ち込んでしまうな。君は私と共に Weldyn に戻ることが一番だと思う。Garard にもこの知らせを伝えるべきだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:253
 msgid "Is that Garard, King of Wesnoth, you refer to?!"
-msgstr ""
+msgstr "あなたが仰っている Garard とは Wesnoth の王ですか！？"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:257
@@ -693,22 +693,22 @@ msgid ""
 "father's most trusted advisors until he passed away earlier this year, and I "
 "still have the son's ear, though being young he listens perhaps less well "
 "than he should."
-msgstr ""
+msgstr "もちろんだ。君は王以外にその名をもつ者を知っているのか？今年の初めに Garard の父が亡くなってしまうまで、私は最も信頼されていた相談役の一人だったのだ。また、息子 Garard にも。まあ、まだ若者だから彼がすべきことを伝えてもあまりよくは聞かないがな。"
 
 #. [scenario]: id=05_council_in_weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:3
 msgid "Council in Weldyn"
-msgstr ""
+msgstr "Weldyn の協議会"
 
 #. [side]: type=King of Wesnoth, id=Garard
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:32
 msgid "Garard"
-msgstr ""
+msgstr "Garard"
 
 #. [unit]: type=Cavalryman, id=Gurcyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:62
 msgid "Gurcyn"
-msgstr ""
+msgstr "Gurcyn"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:70
@@ -833,12 +833,12 @@ msgstr ""
 #. [side]: type=Rogue, id=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:42
 msgid "Garrath"
-msgstr ""
+msgstr "Garrath"
 
 #. [side]: type=Bandit, id=Harold
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:58
 msgid "Harold"
-msgstr ""
+msgstr "Harold"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:88
@@ -851,7 +851,7 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:124
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_showdown_in_the_northern_swamp.cfg:153
 msgid "Death of Lionel"
-msgstr ""
+msgstr "Lionel の死"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:111
@@ -4085,7 +4085,7 @@ msgstr ""
 #. [unit_type]: id=Journeyman Mage
 #: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:7
 msgid "Journeyman Mage"
-msgstr "熟練魔術師"
+msgstr "新米魔術師"
 
 #. [unit_type]: id=Journeyman Mage
 #: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:13
@@ -4093,7 +4093,7 @@ msgid ""
 "A mage who has just finished his or her apprenticeship is known as a "
 "journeyman. Journeyman mages travel far in search of employment and "
 "experience."
-msgstr "見習い期間を終え、一人前として知られる魔術師です。熟練魔術師は、その能力と経験により遠くまで見通せ、遠くまで移動することができます。"
+msgstr "見習い期間を終え、一人前として知られる魔術師です。新米魔術師は、その能力と経験により遠くまで見通せ、遠くまで移動することができます。"
 
 #. [unit_type]: id=King of Wesnoth
 #: data/campaigns/Delfadors_Memoirs/units/King_of_Wesnoth.cfg:7
