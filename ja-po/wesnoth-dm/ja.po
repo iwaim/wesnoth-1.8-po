@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-12-27 12:27+0100\n"
-"PO-Revision-Date: 2010-03-15 04:28+0900\n"
+"PO-Revision-Date: 2010-03-15 07:20+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -828,7 +828,7 @@ msgstr "それならば君はそうすべきだ！Lionel と彼の軍勢が同�
 #. [scenario]: id=06_swamps_of_illuven
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:3
 msgid "The Swamps of Illuven"
-msgstr ""
+msgstr "Illuven の湿地帯"
 
 #. [side]: type=Rogue, id=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:42
@@ -843,7 +843,7 @@ msgstr "Harold"
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:88
 msgid "Move Delfador to the signpost in the northeast"
-msgstr ""
+msgstr "Delfador を北東の目印まで移動する"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:96
@@ -860,106 +860,106 @@ msgid ""
 "the Great River, but noxious enough in their own fashion. Our way lies west "
 "and north across them to the Ford of Abez. The western road around the other "
 "edge of the Brown Hills would have been safer, but..."
-msgstr ""
+msgstr "ここは Great River の北に位置する畏怖されている湿地帯、Illuven の湿地帯だ。少数の部族が住んでいる。だが、我々の装備ではこの辺りは不利益を被る。東に向かい、北にある Ford of Abez にたどり着かねばならない。Brown Hills のもう片側の端である西の道よりかは安全だろう。しかし……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:115
 msgid ""
 "...I insisted on the most direct possible route. I know; let us both hope "
 "the choice was not folly. Who made those villages in the swamps? Orcs?"
-msgstr ""
+msgstr "……できる限り真っ直ぐに進みたい。私たち 2人の選択が愚かではなかったことを望みます。誰が湿地帯の中に村を作ったのですか？オーク族ですか？"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:119
 msgid "No, men of Wesnoth... but those who dwell here are a lawless lot."
-msgstr ""
+msgstr "いや、Wesnoth の民だ……だが、ここに住んでいるのはたくさんの無法者たちだ。"
 
 #. [message]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:130
 msgid ""
 "Greetings, strangers! This swamp is dangerous... You wanna cross it, you'll "
 "need protection - cost you only $fee gold!"
-msgstr ""
+msgstr "こんにちは、見知らぬ方々よ！この湿地帯は危険です……あなたたちには護衛が必要です。たった $fee ゴールドだけで護衛してあげましょう！"
 
 #. [option]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:132
 msgid "Thanks very much. Here's the gold..."
-msgstr ""
+msgstr "ありがとうございます。ここにゴールドがあります……"
 
 #. [message]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:145
 msgid "It's been a pleasure doing business with you... Bye!"
-msgstr ""
+msgstr "あなた方との取引は非常に良かった……さようなら！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:162
 msgid "Where did he go?"
-msgstr ""
+msgstr "彼はどこに行ってしまったんだ？"
 
 #. [message]: speaker=Harold
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:166
 msgid "Haw haw haw! Suckers!"
-msgstr ""
+msgstr "ハッハッハ！愚か者め！"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:170
 msgid "Well, at least we only have to deal with one of them now..."
-msgstr ""
+msgstr "うーむ。今は少なくとも我々は彼らの 1 つだけに対応すれば良いことにはなったか……"
 
 #. [option]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:180
 msgid "No thanks - we'll manage by ourselves..."
-msgstr ""
+msgstr "結構です。我々だけで大丈夫だ……"
 
 #. [message]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:184
 msgid "You'll regret it!"
-msgstr ""
+msgstr "後悔させてやる！"
 
 #. [message]: speaker=Harold
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:188
 msgid "They certainly will! Haw haw haw!"
-msgstr ""
+msgstr "確かに後悔することになるな！ハッハッハ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:208
 msgid ""
 "This chest contains all the money that rogue has taken from unwary travelers!"
-msgstr ""
+msgstr "この箱には悪党が不注意な旅行者たちから掠めとった全てのお金が入っている！"
 
 #. [scenario]: id=07_night_in_the_swamp
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:3
 msgid "Night in the Swamp"
-msgstr ""
+msgstr "湿地帯での夜"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:82
 msgid ""
 "I think that's all of them! Let's move on - the less time we spend in this "
 "swamp the better."
-msgstr ""
+msgstr "これがすべてだろう！移動した方がいい。この湿地帯で過ごす時間は短い方がいい。"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:97
 msgid "Survive 12 turns"
-msgstr ""
+msgstr "12ターン生き延びる"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:118
 msgid "These swamps seem to go on forever!"
-msgstr ""
+msgstr "この湿地帯はいつまでも続くように思える！"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:122
 msgid ""
 "One more day's travel, I think. We should camp for the night now - we should "
 "be out of it by tomorrow evening."
-msgstr ""
+msgstr "もう1日進めば抜けれると思う。夜が訪れたのでキャンプを張ろう。明日の夜はどうなるかわからないのだから。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:130
 msgid "Those standing stones - they summon evil creatures!"
-msgstr ""
+msgstr "立っている石がある。不吉な生き物を召喚しているぞ！"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:134
@@ -967,14 +967,14 @@ msgid ""
 "I saw this kind of thing in the north... These abominations are not much "
 "affected by swords, but they fear the light of day. We must hold them off as "
 "best we can."
-msgstr ""
+msgstr "北の地でこのようなものをみたことがある……このおぞましいものには剣はあまり効果がないが、奴等は日の光を恐れる。できる限り食い止めるんだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:138
 msgid ""
 "Hmmm... if I could get nearer to the stones, I could perhaps break their "
 "power..."
-msgstr ""
+msgstr "ふむ……あの石に私が近づくことができれば、奴等の力をぶち壊すことができるだろう……"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_night_in_the_swamp.cfg:153
@@ -1015,7 +1015,7 @@ msgstr "Tan-Garthak"
 msgid ""
 "We have arrived. And there is the island Leollyn spoke of. But what are "
 "those strange shapes moving among the trees?"
-msgstr ""
+msgstr "到着したぞ。Leollyn が話していた島があるな。だが、森の中を動く奇妙なものはなんだ？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:91
@@ -1023,21 +1023,21 @@ msgid ""
 "I believe that they are woses - tree guardians. I have heard of them, but "
 "thought they were gone from Wesnoth forever. They are not evil, it is said, "
 "but yet they may be hostile to us. We had best be careful."
-msgstr ""
+msgstr "あれらはウーズ、森の守護者です。その存在を聞いたことはありましたが、Wesnoth の森にはいないと思っていました。邪悪なものではないと言われています。しかし、敵対的かもしれません。私たちは慎重に対処すべきです。"
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:95
 msgid ""
 "I am Ur-Thorodor, eldest of the forest. Who are you human-creatures? You may "
 "not trespass on our island."
-msgstr ""
+msgstr "我は Ur-Thorodor、この森の長老なり。お前たち人間の生き物は誰だ？この島への侵入は許さん。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:99
 msgid ""
 "Ur-Thorodor, please let us pass! We are on a vital mission for King Garard, "
 "in the interests of all living things in Wesnoth."
-msgstr ""
+msgstr "Ur-Thorodor よ、通らせてください！私たちは Wesnoth に生きるすべての生物にとって重大な任務を Garard 王から受けています。"
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:103
@@ -1045,14 +1045,14 @@ msgid ""
 "We care nothing for your kings, human-creatures. It is centuries since your "
 "kind have been here, and only now are our roots destroying the last of your "
 "accursed stonework. Now I will speak no more. Leave us, or suffer our wrath!"
-msgstr ""
+msgstr "我らは人間の生き物、お前たちの王に気遣う必要はない。ここにお前たち種族が居ついて以来数世紀、お前たちの呪われた石細工の残りで我らの根は破壊されるばかりだ。今、これ以上話すつもりはない。立ち去れ。さもなくば我らが復讐を受けよ！"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:107
 msgid ""
 "This Ur-Thorodor should not speak of King Garard that way! 'Suffer our "
 "wrath' indeed... I'll show him wrath!"
-msgstr ""
+msgstr "この Ur-Thorodor が Garard 王の話を聞くわけがない！「我らが復讐を受けよ」だと……私が奴に復讐を見せてやる！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:111
@@ -1060,12 +1060,12 @@ msgid ""
 "It seems there is no alternative - we must get onto that island! Perhaps if "
 "we can get close to Ur-Thorodor, and speak with him again, he will "
 "understand."
-msgstr ""
+msgstr "代替手段はないみたいですね。私たちはその島に行かねばなりません！恐らくは、私たちが Ur-Thorodor の近くに行き、再度彼と話せば理解してくれるでしょう。"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:116
 msgid "Move Delfador to Ur-Thorodor's castle"
-msgstr ""
+msgstr "Ur-Thorodor の城に Delfador を移動する"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:128
@@ -1075,7 +1075,7 @@ msgstr "Ur-Thorodor の死"
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:153
 msgid "Hruuuarrgh! The vile human-creatures hew at me..."
-msgstr ""
+msgstr "ぐわあ！下品な人間の生き物が私を切り刻む……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:157
@@ -1083,26 +1083,26 @@ msgid ""
 "Ur-Thorodor, you must listen to us! A great evil power threatens all living "
 "things in Wesnoth - we must fight against it together, or all life here will "
 "perish."
-msgstr ""
+msgstr "Ur-Thorodor、あなたは私たちの話を聞くべきだ！大きな不吉なる力が Wesnoth にいるすべての生き物を脅かしているのです。私たちは力をあわせて立ち向かわねばならないのです。さもなければ、一切衆生が死んでしまいます。"
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:161
 msgid "I trust no humans! Drive them out, my children!"
-msgstr ""
+msgstr "人間族なんぞ信じれるか！我が子供たちよ、奴等を排除せよ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:172
 msgid ""
 "I am defeated... My children: hear my last words! Destroy the humans, and "
 "never let them set foot on our island again!"
-msgstr ""
+msgstr "我は破れてしまった……我が子供たちよ、我が最後の言葉を聞け！人間どもを滅ぼすのだ。そして、我らが島に再び足を踏み入れることを許してはならん！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:176
 msgid ""
 "This is hopeless! If carrying out my mission means killing these noble "
 "creatures, then I cannot continue."
-msgstr ""
+msgstr "絶望的だ！彼ら高貴な生き物を殺してまで私の任務を継続することはできない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:193
@@ -1111,12 +1111,12 @@ msgid ""
 "let just me remain here, then I promise you, on behalf of King Garard, that "
 "no Wesnothian will set foot on your island without your permission again. As "
 "a token of good faith, I command my army to return to the mainland."
-msgstr ""
+msgstr "Ur-Thorodor、耳をかしてください！あなたたちの島を奪うために来たのではないのです。あなたが私の話を聞いてくれるのであれば、私は Garard 王の名において、どんな Wesnoth の住民も、あなたたちの許諾なくしてはあなたたちの島に立ち入らないと約束します。誠実さの証として、私はこの軍隊を本土に戻るように命じます。"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:197
 msgid "Are you sure that's wise?"
-msgstr ""
+msgstr "それが賢明であるという確信はあるのか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:201
@@ -1124,14 +1124,14 @@ msgid ""
 "It's the only way! Lionel, lead our soldiers back to the mainland. I will "
 "rejoin you when I have carried out my mission, and determined what is amiss "
 "in the world of the dead."
-msgstr ""
+msgstr "Lionel、それしか方法はありません！軍隊を本土に帰してください。私は、私の任務を達成し、死の世界での過ちを解決したとき、再び合流します。"
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:208
 msgid ""
 "I see I had misjudged you, human. You are not like those who came before. I "
 "accept your offer!"
-msgstr ""
+msgstr "人間よ、我は誤解しておった。お前は以前に来た奴等とは違う。我はお前の申し出を受け入れよう！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:215
@@ -1144,26 +1144,29 @@ msgid ""
 "timeless dreams of earth and trees, something else stirred on the island - "
 "for a few orcish scouts had indeed crossed the Ford of Abez..."
 msgstr ""
+"Wesnoth の民が島から引き上げた後、ウーズ達は森の中に消えてしまいました。Delfador は霊の世界への接触を行うために瞑想を開始しました。\n"
+"\n"
+"しかし、彼の瞑想が深まり、ウーズたちが地面と森の終わりのない夢に落ちたとき、島は何者かによってかき回されてしまいました。何匹かのオークの偵察隊が Ford of Abez にたどり着いてしまったのです……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:225
 msgid "Ommmmmmm...."
-msgstr ""
+msgstr "おおおおおお……"
 
 #. [message]: speaker=Pruark
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:269
 msgid "A human mage... is it dead?"
-msgstr ""
+msgstr "人間の魔術師か……死んでいるのか？"
 
 #. [message]: speaker=Gurbash
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:274
 msgid "Easy to find out... thump it and see if it wakes up!"
-msgstr ""
+msgstr "見破るのは簡単だ……強打してやれ、それで目覚めるかどうかでわかる！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:278
 msgid "THUMP!"
-msgstr ""
+msgstr "強打！"
 
 #. [message]: speaker={STRING}
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_houses_of_the_dead.cfg:59
@@ -4225,7 +4228,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/utils/generators.cfg:66
 msgid "I call upon all that is holy to break the power of this evil stone!"
-msgstr ""
+msgstr "聖なる力をもってこの邪悪な石の力を打ち砕け！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/utils/generators.cfg:107
