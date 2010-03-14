@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-12-27 12:27+0100\n"
-"PO-Revision-Date: 2010-03-13 13:29+0900\n"
+"PO-Revision-Date: 2010-03-15 04:28+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -88,7 +88,7 @@ msgstr ""
 #. [scenario]: id=01_overture
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:3
 msgid "Overture"
-msgstr ""
+msgstr "序曲"
 
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_overture.cfg:26
@@ -641,12 +641,12 @@ msgstr "若き友よ、君は勇敢な戦士だ。"
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:208
 msgid "I've told you, all of you have to be extra careful!"
-msgstr ""
+msgstr "君たちすべてにとりわけ慎重にしろと言ったはずだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:212
 msgid "Kill them all! For our murdered friends."
-msgstr ""
+msgstr "皆殺しにしてやろう！殺されてしまった友人のために！"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_leollyn.cfg:223
@@ -718,13 +718,13 @@ msgid ""
 "impressive citadel. After a night's rest, Leollyn invited him to attend a "
 "meeting with the king himself. Garard, it seemed, was anxious to hear news "
 "from the borders of Wesnoth."
-msgstr ""
+msgstr "Delfador と Leollyn が Weldyn に戻る途中にはそれ以上の襲撃はありませんでした。都市に到着したとき、Delfador はその大きさ、その壮大な壁、そして印象的な要塞に驚きました。一晩休んだあと、Leollyn は王との会合に同席するように Delfador を誘いました。Garard が Wesnoth の辺境からの知らせをきくことを切望しているようにも思えました。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:90
 msgid ""
 "Ah, now the last of my council is here. Lionel, what tidings from the north?"
-msgstr ""
+msgstr "ああ、現在、協議会の最後がここである。Lionel、北からはどのような知らせが？"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:94
@@ -736,14 +736,14 @@ msgid ""
 "the land there falls into anarchy. We were attacked more than once by thugs "
 "and bandits, and by evil creatures that roamed the night in the shapes of "
 "men."
-msgstr ""
+msgstr "我が君、悪い知らせです。オーク族は Ford of Abez の近く、川の北側の岸に大群で集まっています。我々は Knalga のドワーフ族から分断されました。噂では、オーク族がドワーフ族を侵略を計画、その後 Wesnoth に興味を持っているとのことです。北部の善良な住人は逃げだし、そこは無秩序の地に成り果てています。我々は暴漢と山賊、そして夜中に彷徨う不吉な人形の生き物に襲撃されました。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:98
 msgid ""
 "Worse news - the orcs are already here, sire. I myself was set upon within "
 "the royal forest. Were it not for this young fellow here..."
-msgstr ""
+msgstr "さらに悪いことに、オーク族は既にこの辺りにきています。私自らは王家の森林に取りのこされていました。ここにいる若者がいなければ……"
 
 #. [message]: speaker=Garard
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:102
@@ -754,7 +754,7 @@ msgid ""
 "worth their mettle. They need reminding that Wesnoth is too hot for them. "
 "Gurcyn, you have been to the west - will the Elves lend their archers to "
 "help us?"
-msgstr ""
+msgstr "ならば、無駄に過ごす時間はない！私自らが軍隊を率い、Ford of Abez に乗り込むぞ。オーク族と同様の大胆さで秘密裏に国境まで行き、無防備な奴等を餌食としてくれる。奴等を混乱に陥れ、敵とまっすぐに向き合えばでてくる臆病者の性質を出させてやろう。奴等に Wesnoth の恐ろしさを思い出させてやる。Gurcyn、お前は西方にいたが、エルフ族は我々を助けるために射手を貸してくれるか？"
 
 #. [message]: speaker=Gurcyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:106
@@ -762,14 +762,14 @@ msgid ""
 "The elves will not fight; they hate the orcs, but spoke darkly of human "
 "greed and foolishness. I have never seen them so unfriendly. There is "
 "something they know of and fear, but they would not tell me what it is."
-msgstr ""
+msgstr "エルフ族は戦わないでしょう。彼らはオーク族を嫌っています。しかし、欲深く愚かであるという人間の悪い面についても話していました。私は無愛想な彼らはみたことはありません。彼らは恐怖は知っているでしょうが、それを我々に教えることはしませんでした。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:110
 msgid ""
 "Your majesty... may I join your army? I mean, I came to Weldyn to seek your "
 "employ. And if it's archers you need, might not a mage be of help?"
-msgstr ""
+msgstr "閣下……私もその軍隊に加えていただけませんか？実は、私は閣下に仕えるために Weldyn に来たのです。射手が必要ということであれば、魔術師も役に立つのではないでしょうか？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:114
@@ -778,7 +778,7 @@ msgid ""
 "your bravery. I accept your offer of service with gratitude, but this is a "
 "task for warriors, not magic-makers. You shall stay here with Leollyn and be "
 "Leollyn's right hand as he is mine."
-msgstr ""
+msgstr "ああ、若き Delfador よ……よく言った。お前の勇敢さについては Leollyn から既に聞いている。世は感謝をもってお前の申し出を受け入れよう。だが、これは魔術師ではなく戦士の役割だ。お前は Leollyn を私だと思って、その補佐役として Leollyn と共にここに滞在するのだ。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:139
@@ -791,14 +791,14 @@ msgid ""
 "south of the Ford of Abez. If the dead are restless, they may tell us why. I "
 "had thought to undertake such a mission myself... but now I must remain in "
 "Weldyn... perhaps you could go in my place?"
-msgstr ""
+msgstr "Delfador、君に頼みたいこともある…… Lionel の言う、不吉な夜の生物が気にかかる。私も以前にそのような話を聞いたことがあるのだ。我々の知る世界にも、霊の世界が近づいている場所がいくつかあるのだ。そこでは、訓練を積んだ魔術師が瞑想を通じて死霊と対話している。北西近くに横たわる Great River の小さな島、ちょうど Ford of Abez の南側だ。死者が安眠していないのであれば、理由が聞けるかもしれない。私自らが調査しようと考えていたが……今や私は Weldyn に留まらねばならない……。私の代わりに行ってくれないか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:143
 msgid ""
 "I'm honored that you would entrust me with such a task... but I too stay in "
 "Weldyn, by the king's order!"
-msgstr ""
+msgstr "あなたにそのような役目を任じられることは光栄です……しかし、私も王の命令に従い、Weldyn に滞在したいと思います！"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:147
@@ -809,12 +809,12 @@ msgid ""
 "grave task. Dealings with the spirit world are dangerous even for the most "
 "powerful mages. Allow only your mind to enter the land of the dead - should "
 "your body follow, there is no return! Do you still wish to go?"
-msgstr ""
+msgstr "ふむ……Garand 王は私の進言で君をここに配置したのだ。君が望むのであれば北への進軍に君を同行させるように進言することもできる。この戦で魔術師の同行を妨げることはないだろう。だが、君は重大な任務を遂行するだけの力を示さねばならない。非常に協力な魔術師でさえ、霊の世界との取引は危険なのだ。身体を離れ心だけで霊の世界に入らねばならないのだ。戻ってこれないかもしれない！それでも君はまだ行くことを望むのか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:151
 msgid "If that is how I may best serve, I will do it right willingly."
-msgstr ""
+msgstr "それが私がすべき最善のことなのであれば、私はそれを進んですることにためらいはありません。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:155
@@ -823,7 +823,7 @@ msgid ""
 "more than magic for protection on the road...especially where you'll be "
 "going, into the wild country north of Tath. It is a chancy place at the best "
 "of times, and orcs may already be raiding south of the Ford."
-msgstr ""
+msgstr "それならば君はそうすべきだ！Lionel と彼の軍勢が同行する。道路での防衛には魔術以上に彼らが必要となるだろう……特に君が行く Tath の北にある未開地では。そこは今最も危ない場所だ。Ford の南は既にオーク族に襲撃されている。"
 
 #. [scenario]: id=06_swamps_of_illuven
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:3
@@ -1814,9 +1814,8 @@ msgstr ""
 
 #. [unit]: id=Horfir, type=Spectre
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:260
-#, fuzzy
 msgid "Horfir"
-msgstr "火炎"
+msgstr ""
 
 #. [unit]: id=Backu, type=Nightgaunt
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:273
