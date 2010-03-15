@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-12-27 12:27+0100\n"
-"PO-Revision-Date: 2010-03-16 05:25+0900\n"
+"PO-Revision-Date: 2010-03-16 05:47+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -1813,37 +1813,37 @@ msgstr "近くにいてください。私もその感じが好きではない。
 #. [unit]: id=Axhamr, type=Draug
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:248
 msgid "Axhamr"
-msgstr ""
+msgstr "Axhamr"
 
 #. [unit]: id=Horfir, type=Spectre
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:260
 msgid "Horfir"
-msgstr ""
+msgstr "Horfir"
 
 #. [unit]: id=Backu, type=Nightgaunt
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:273
 msgid "Backu"
-msgstr ""
+msgstr "Backu"
 
 #. [unit]: id=Camdun, type=Chocobone
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:286
 msgid "Camdun"
-msgstr ""
+msgstr "Camdun"
 
 #. [unit]: id=Drapug, type=Wraith
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:299
 msgid "Drapug"
-msgstr ""
+msgstr "Drapug"
 
 #. [unit]: id=Kalip, type=Ghost
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:312
 msgid "Kalip"
-msgstr ""
+msgstr "Kalip"
 
 #. [unit]: id=Abmin, type=Deathblade
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:325
 msgid "Abmin"
-msgstr ""
+msgstr "Abmin"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:349
@@ -1853,7 +1853,7 @@ msgstr "用心して下さい。なんだかこの村では気持ちが落ち着
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:361
 msgid "What in the wide green world is this abomination?"
-msgstr ""
+msgstr "広大な緑の世界でのこのような憎悪は何だ？"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:365
@@ -1956,49 +1956,49 @@ msgstr "それには見覚えがある。了解した。私たちも参戦しま
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:582
 msgid "What is going on here? This village has been burned to the ground!"
-msgstr ""
+msgstr "何が起こったのだ？村の地面が燃えてしまっている！"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:586
 msgid "Maybe there are survivors? We should check."
-msgstr ""
+msgstr "生きている方はいますか？私たちは調査しなければなりません。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:600
 msgid "Another village burned. Nobody to be seen!"
-msgstr ""
+msgstr "別の村が燃えています。一人も見つけられません！"
 
 #. [unit]: type=Spearman, id=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:621
 msgid "Theorin"
-msgstr ""
+msgstr "Theorin"
 
 #. [message]: speaker=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:633
 msgid "Please, spare me..."
-msgstr ""
+msgstr "どうか、許してください……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:637
 msgid "Spare you from whom, soldier? What has happened here?"
-msgstr ""
+msgstr "戦士よ、許すとは誰が？ここで何が起こったのですか？"
 
 #. [message]: speaker=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:641
 msgid "They come at night... and leave no one alive..."
-msgstr ""
+msgstr "奴等は夜にやってくる……そして、生きている者を皆殺しに……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:645
 msgid "Get hold of yourself, soldier! Who is 'they'?"
-msgstr ""
+msgstr "戦士よ、しっかりしてください！「奴等」とは誰ですか？"
 
 #. [message]: speaker=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:649
 msgid ""
 "I do not know. No one has seen their faces and lived. All I could hear is my "
 "comrades' screams as they were being slaughtered. "
-msgstr ""
+msgstr "わからない。奴等の顔をみて生き延びた奴はいないのです。奴等に虐殺された仲間の悲鳴を聞くことしかできないのです。"
 
 #. [unit]: type=Heavy Infantryman, id=Donc
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:693
@@ -2245,7 +2245,7 @@ msgstr ""
 msgid ""
 "They have unleashed a second wave. Soldiers, stand firm and send these "
 "abominations back to the darkness!"
-msgstr "奴等は第二の波を解き放った。戦士たちよ、自分の持ち場を守り、この憎悪を暗闇に送り返してやりましょう！"
+msgstr "奴等の第二陣がくるぞ。戦士たちよ、自分の持ち場を守り、この憎悪を暗闇に送り返してやりましょう！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_terror_at_the_ford_of_parthyn.cfg:1226
@@ -2290,22 +2290,22 @@ msgstr ""
 #. [side]: type=Orcish Warlord, id=Knafa-ord
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_the_return_of_trouble.cfg:68
 msgid "Knafa-ord"
-msgstr ""
+msgstr "Knafa-ord"
 
 #. [side]: type=Orcish Warlord, id=Tan-drul
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_the_return_of_trouble.cfg:101
 msgid "Tan-drul"
-msgstr ""
+msgstr "Tan-drul"
 
 #. [side]: type=Orcish Warlord, id=Krardul
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_the_return_of_trouble.cfg:135
 msgid "Krardul"
-msgstr ""
+msgstr "Krardul"
 
 #. [side]: type=Elvish Captain, id=Clartakis
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_the_return_of_trouble.cfg:169
 msgid "Clartakis"
-msgstr ""
+msgstr "Clartakis"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_the_return_of_trouble.cfg:186
@@ -2459,17 +2459,17 @@ msgstr ""
 #. [side]: type=Death Knight, id=Rudimil
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:40
 msgid "Rudimil"
-msgstr ""
+msgstr "Rudimil"
 
 #. [side]: type=Necromancer, id=Roth-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:61
 msgid "Roth-Malal"
-msgstr ""
+msgstr "Roth-Malal"
 
 #. [side]: type=Necromancer, id=Barth-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:76
 msgid "Barth-Malal"
-msgstr ""
+msgstr "Barth-Malal"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:115
@@ -2502,32 +2502,32 @@ msgstr ""
 #. [unit]: id=Nameless, type=Spectre
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:165
 msgid "Nameless"
-msgstr ""
+msgstr "Nameless"
 
 #. [unit]: id=Hraul, type=Spectre
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:173
 msgid "Hraul"
-msgstr ""
+msgstr "Hraul"
 
 #. [unit]: id=Atrag, type=Draug
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:181
 msgid "Atrag"
-msgstr ""
+msgstr "Atrag"
 
 #. [unit]: id=Horr, type=Banebow
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:189
 msgid "Horr"
-msgstr ""
+msgstr "Horr"
 
 #. [unit]: id=Nfrigt, type=Nightgaunt
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:197
 msgid "Nfrigt"
-msgstr ""
+msgstr "Nfrigt"
 
 #. [unit]: id=Rkrin, type=Revenant
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:205
 msgid "Rkrin"
-msgstr ""
+msgstr "Rkrin"
 
 #. [message]: id=Rudimil
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:213
@@ -2537,32 +2537,32 @@ msgstr ""
 #. [unit]: id=Haunt, type=Spectre
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:221
 msgid "Haunt"
-msgstr ""
+msgstr "Haunt"
 
 #. [unit]: id=Gdal, type=Spectre
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:229
 msgid "Gdal"
-msgstr ""
+msgstr "Gdal"
 
 #. [unit]: id=Oltr, type=Draug
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:237
 msgid "Oltr"
-msgstr ""
+msgstr "Oltr"
 
 #. [unit]: id=Orbl, type=Deathblade
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:245
 msgid "Orbl"
-msgstr ""
+msgstr "Orbl"
 
 #. [unit]: id=Nifigt, type=Nightgaunt
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:253
 msgid "Nifigt"
-msgstr ""
+msgstr "Nifigt"
 
 #. [unit]: id=Dert, type=Deathblade
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:261
 msgid "Dert"
-msgstr ""
+msgstr "Dert"
 
 #. [message]: id=Rudimil
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_shadows.cfg:270
@@ -2864,17 +2864,17 @@ msgstr ""
 #. [unit]: id=Adamar, type=Royal Guard
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:405
 msgid "Adamar"
-msgstr ""
+msgstr "Adamar"
 
 #. [unit]: id=Mitbreen, type=Royal Guard
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:425
 msgid "Mitbreen"
-msgstr ""
+msgstr "Mitbreen"
 
 #. [unit]: id=Ronduger, type=Iron Mauler
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:446
 msgid "Ronduger"
-msgstr ""
+msgstr "Ronduger"
 
 #. [message]: speaker=Adamar
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_save_the_king.cfg:465
@@ -2908,7 +2908,7 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_dark_sky_over_weldyn.cfg:117
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_dark_sky_over_weldyn.cfg:129
 msgid "King Garard"
-msgstr ""
+msgstr "Garard 王"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_dark_sky_over_weldyn.cfg:24
@@ -3151,12 +3151,12 @@ msgstr ""
 #. [side]: type=Dwarvish Lord
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:57
 msgid "Relgorn"
-msgstr ""
+msgstr "Relgorn"
 
 #. [side]: type=Dwarvish Lord
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:59
 msgid "Udrin"
-msgstr ""
+msgstr "Udrin"
 
 #. [side]: type=Necromancer, id=Gruv-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:64
@@ -3301,12 +3301,12 @@ msgstr ""
 #. [side]: type=Death Knight, id=Prepolur
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:63
 msgid "Prepolur"
-msgstr ""
+msgstr "Prepolur"
 
 #. [side]: type=Dark Adept, id=Unuvim
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:97
 msgid "Unuvim"
-msgstr ""
+msgstr "Unuvim"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:150
@@ -3394,7 +3394,7 @@ msgstr ""
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:351
 msgid "Hurry up!"
-msgstr ""
+msgstr "急げ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:357
@@ -3414,27 +3414,27 @@ msgstr ""
 #. [unit]: id=Skoogal, type=Banebow
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:433
 msgid "Skoogal"
-msgstr ""
+msgstr "Skoogal"
 
 #. [unit]: id=Skulrag, type=Deathblade
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:442
 msgid "Skulrag"
-msgstr ""
+msgstr "Skulrag"
 
 #. [unit]: id=Idthom, type=Nightgaunt
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:451
 msgid "Idthom"
-msgstr ""
+msgstr "Idthom"
 
 #. [unit]: id=Hyvrun, type=Chocobone
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:460
 msgid "Hyvrun"
-msgstr ""
+msgstr "Hyvrun"
 
 #. [unit]: id=Blud, type=Blood Bat
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:469
 msgid "Blud"
-msgstr ""
+msgstr "Blud"
 
 #. [message]: id=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:478
@@ -3488,12 +3488,12 @@ msgstr ""
 #. [side]: type=Necromancer, id=Maldun
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_showdown_in_the_northern_swamp.cfg:97
 msgid "Maldun"
-msgstr ""
+msgstr "Maldun"
 
 #. [side]: type=Death Knight, id=Alderoth
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_showdown_in_the_northern_swamp.cfg:112
 msgid "Alderoth"
-msgstr ""
+msgstr "Alderoth"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_showdown_in_the_northern_swamp.cfg:181
@@ -3730,12 +3730,12 @@ msgstr ""
 #. [side]: type=General, id=Eldred
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:66
 msgid "Eldred"
-msgstr ""
+msgstr "Eldred"
 
 #. [side]: type=General, id=Lowel
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:86
 msgid "Lowel"
-msgstr ""
+msgstr "Lowel"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:105
@@ -3872,17 +3872,17 @@ msgstr ""
 #. [side]: type=General, id=Pilafman
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:66
 msgid "Pilafman"
-msgstr ""
+msgstr "Pilafman"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:88
 msgid "Defeat Pilafman"
-msgstr ""
+msgstr "Pilafman を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:104
 msgid "Enemy unit reaches the signpost"
-msgstr ""
+msgstr "敵のユニットが目的に到達する"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:124
@@ -3946,7 +3946,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_face_of_the_enemy.cfg:72
 msgid "Defeat Sagus"
-msgstr ""
+msgstr "Sagus を倒す"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_face_of_the_enemy.cfg:107
@@ -4036,7 +4036,7 @@ msgstr ""
 #. [scenario]: id=23_epilogue
 #: data/campaigns/Delfadors_Memoirs/scenarios/23_epilogue.cfg:3
 msgid "Epilogue"
-msgstr ""
+msgstr "エピローグ"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/23_epilogue.cfg:17
@@ -4179,24 +4179,24 @@ msgstr "巻きつき"
 
 #: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:6
 msgid "Kalenz"
-msgstr ""
+msgstr "Kalenz"
 
 #: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:46
 msgid "Chantal"
-msgstr ""
+msgstr "Chantal"
 
 #: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:82
 msgid "Ulrek"
-msgstr ""
+msgstr "Ulrek"
 
 #: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:87
 msgid "Methor"
-msgstr ""
+msgstr "Methor"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:13
 msgid "No! So young..."
-msgstr ""
+msgstr "しまった！若すぎたか……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:27
@@ -4208,17 +4208,17 @@ msgstr ""
 msgid ""
 "Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
 "now..."
-msgstr ""
+msgstr "Chantal！いや、あなたが死ぬはずはない！もう、Wesnoth に戻るという望みはなくなってしまった……"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:54
 msgid "I have been defeated!"
-msgstr ""
+msgstr "倒されてしまった！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:67
 msgid "No! All is now lost..."
-msgstr ""
+msgstr "しまった！全てを失ってしまった……"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:80
@@ -4282,42 +4282,42 @@ msgstr ""
 #. [unit]: id=Clogrin, type=Royal Guard
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:229
 msgid "Clogrin"
-msgstr ""
+msgstr "Clogrin"
 
 #. [unit]: id=Theorsten, type=White Mage
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:237
 msgid "Theorsten"
-msgstr ""
+msgstr "Theorsten"
 
 #. [unit]: id=Igler, type=White Mage
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:245
 msgid "Igler"
-msgstr ""
+msgstr "Igler"
 
 #. [unit]: id=Larsin, type=White Mage
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:253
 msgid "Larsin"
-msgstr ""
+msgstr "Larsin"
 
 #. [unit]: id=Aldrin, type=White Mage
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:261
 msgid "Aldrin"
-msgstr ""
+msgstr "Aldrin"
 
 #. [unit]: id=Gren, type=Shock Trooper
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:269
 msgid "Gren"
-msgstr ""
+msgstr "Gren"
 
 #. [unit]: id=Droni, type=Shock Trooper
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:277
 msgid "Droni"
-msgstr ""
+msgstr "Droni"
 
 #. [unit]: id=Artor, type=Shock Trooper
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:285
 msgid "Artor"
-msgstr ""
+msgstr "Artor"
 
 #~ msgid "sword"
 #~ msgstr "剣"
