@@ -4319,32 +4319,3 @@ msgstr "Droni"
 msgid "Artor"
 msgstr "Artor"
 
-#~ msgid "sword"
-#~ msgstr "剣"
-
-#~ msgid "bow"
-#~ msgstr "弓"
-
-#~ msgid "missile"
-#~ msgstr "魔法の矢"
-
-#~ msgid "fireball"
-#~ msgstr "ファイアボール"
-
-#~ msgid "dagger"
-#~ msgstr "ダガー"
-
-#~ msgid "leadership"
-#~ msgstr "統率"
-
-#~ msgid "blade"
-#~ msgstr "剣"
-
-#~ msgid "pierce"
-#~ msgstr "貫通"
-
-#~ msgid "impact"
-#~ msgstr "打撃"
-
-#~ msgid "magical"
-#~ msgstr "魔法"
