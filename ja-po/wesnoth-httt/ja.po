@@ -7,7 +7,7 @@
 # Nobuhito Okada <okyada@gmail.com>, 2005-2006.
 # Takanobu Hirai <airhead@users.sourceforge.jp>, 2006.
 # IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.7.x+svn\n"
@@ -440,7 +440,9 @@ msgstr "Konrad、気をつけて！ Delfador、彼を守って！"
 msgid ""
 "Do not spend your life here, Chantal. Someone must warn the Northern Elves "
 "that the war we so long feared has begun."
-msgstr "Chantal、ここで留まってはいけない。我々が長年恐れていた戦争が始まったことを誰かが北部エルフ族に警告せねばならない。"
+msgstr ""
+"Chantal、ここで留まってはいけない。我々が長年恐れていた戦争が始まったことを誰"
+"かが北部エルフ族に警告せねばならない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:329
@@ -580,7 +582,8 @@ msgid ""
 "small>"
 msgstr ""
 "<span color='white'>別の目標:</span>\n"
-"<span color='green'>敵のリーダーを倒す</span><small>（スペシャルボーナス）</small>"
+"<span color='green'>敵のリーダーを倒す</span><small>（スペシャルボーナス）</"
+"small>"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:37
@@ -1080,7 +1083,8 @@ msgid ""
 "bonus)</small>"
 msgstr ""
 "<span color='white'>別の目標</span>\n"
-"<span color='green'>敵のリーダーをすべて倒す</span><small>（早期終了ボーナス）</small>"
+"<span color='green'>敵のリーダーをすべて倒す</span><small>（早期終了ボーナ"
+"ス）</small>"
 
 #. [side]: type=Orcish Warrior, id=Dwaba-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:59
@@ -1553,7 +1557,8 @@ msgid ""
 "small>"
 msgstr ""
 "<span color='white'>別の目標</span>\n"
-"<span color='green'>Muff Malal を倒す</span><small>（早期終了ボーナス）</small>"
+"<span color='green'>Muff Malal を倒す</span><small>（早期終了ボーナス）</"
+"small>"
 
 #. [side]: type=Dark Sorcerer, id=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/05a_Muff_Malal_Peninsula.cfg:61
@@ -1692,7 +1697,8 @@ msgid ""
 "small>"
 msgstr ""
 "<span color='white'>別の目標:</span>\n"
-"<span color='green'>敵のリーダーをすべて倒す</span><small>（スペシャルボーナス）</small>"
+"<span color='green'>敵のリーダーをすべて倒す</span><small>（スペシャルボーナ"
+"ス）</small>"
 
 #. [objectives]
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:32
@@ -1786,7 +1792,9 @@ msgstr "Delurin"
 msgid ""
 "Maybe we can make a deal! Help us defeat those evil creatures! You may use "
 "our gold reserves to lead us!"
-msgstr "取引しないか？あの邪悪な生き物を倒すのを手伝ってくれ！俺たちの金を使い、俺たちを引き連れてくれ！"
+msgstr ""
+"取引しないか？あの邪悪な生き物を倒すのを手伝ってくれ！俺たちの金を使い、俺た"
+"ちを引き連れてくれ！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:207
@@ -1885,7 +1893,9 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:459
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:517
 msgid "You regain your lost troops and $isle_damned_starting_gold gold!"
-msgstr "あなたは、はぐれていた仲間と $isle_damned_starting_gold ゴールドを取り戻した！"
+msgstr ""
+"あなたは、はぐれていた仲間と $isle_damned_starting_gold ゴールドを取り戻し"
+"た！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:488
@@ -2338,7 +2348,10 @@ msgid ""
 "We cannot go to Wesmere, for Asheviere's orcs have the approaches ringed "
 "about with steel; Kalenz and I barely escaped, and Chantal cannot get out. "
 "Until we are stronger, we must go where the orcs are not."
-msgstr "Asheviere のオーク族が鉄鎖のように取り囲んでいるため、Wesmere に行くことができない。Kalenz と私は辛うじて免れたが、Chantal は出てくることができない。もっと強くなるまで、オーク族のところには行くべきではないだろう。"
+msgstr ""
+"Asheviere のオーク族が鉄鎖のように取り囲んでいるため、Wesmere に行くことがで"
+"きない。Kalenz と私は辛うじて免れたが、Chantal は出てくることができない。もっ"
+"と強くなるまで、オーク族のところには行くべきではないだろう。"
 
 #. [message]: speaker=Muff Jaanal
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:663
@@ -2736,7 +2749,8 @@ msgid ""
 "small>"
 msgstr ""
 "<span color='white'>別の目標:</span>\n"
-"<span color='green'>リッチを全滅させる</span><small>（早期終了ボーナス）</small>"
+"<span color='green'>リッチを全滅させる</span><small>（早期終了ボーナス）</"
+"small>"
 
 #. [side]: type=Lich, id=Galga
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:76
@@ -5227,7 +5241,12 @@ msgid ""
 "rather than by taking either one of the land routes. I can not promise you "
 "that it will be a safe journey, because I do not know what lies ahead, but "
 "it is an option and you should consider it, my lord."
-msgstr "Konrad 王子、あなたがたはこの川を避けていくことについて話していましたね。しかし私たちは川を下るのを助けることができます。私たち海の種族の助けがあれば、川を下ることで陸地のどちらの道を行くよりもいくらか早く北部エルフ族の本拠地に到着することができるでしょう。この先に何があるのかわからないので安全な旅だとは約束できませんが、考慮すべき選択肢です、閣下。"
+msgstr ""
+"Konrad 王子、あなたがたはこの川を避けていくことについて話していましたね。しか"
+"し私たちは川を下るのを助けることができます。私たち海の種族の助けがあれば、川"
+"を下ることで陸地のどちらの道を行くよりもいくらか早く北部エルフ族の本拠地に到"
+"着することができるでしょう。この先に何があるのかわからないので安全な旅だとは"
+"約束できませんが、考慮すべき選択肢です、閣下。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:295
@@ -5858,7 +5877,8 @@ msgstr "Kalenz さんがおっしゃっていたモンスターが船を沈め�
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:304
 msgid ""
 "That is possible. I would guess they were seeking a way east, just as we are."
-msgstr "その可能性はある。我々がそうしたように、奴等も東に道を求めていたのだろう。"
+msgstr ""
+"その可能性はある。我々がそうしたように、奴等も東に道を求めていたのだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:308
@@ -6291,12 +6311,16 @@ msgid ""
 "There is a cataract ahead. By the thunder of the water and the height of the "
 "spume, it must drop several hundred feet at least. We must leave the river "
 "before we are swept into it, or we will surely perish!"
-msgstr "先に大きな滝があります。雷のような水と水しぶきの高さのため、少なくとも数百フィートは落とさなければなりません。私たちがその中を通る前に川を出てはなりません。さもなくば、私たちは確実に死んでしまいます。"
+msgstr ""
+"先に大きな滝があります。雷のような水と水しぶきの高さのため、少なくとも数百"
+"フィートは落とさなければなりません。私たちがその中を通る前に川を出てはなりま"
+"せん。さもなくば、私たちは確実に死んでしまいます。"
 
 #. [message]: role=merman-advisor
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:1159
 msgid "Even we merfolk cannot swim that. The road east is blocked."
-msgstr "私たち海の生物でさえ、そこを泳ぐことはできません。道の東側は通れません。"
+msgstr ""
+"私たち海の生物でさえ、そこを泳ぐことはできません。道の東側は通れません。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:1163
@@ -6390,7 +6414,8 @@ msgstr "北部エルフ族の本拠地"
 msgid ""
 "Konrad must reach the Lintanir Forest to the east and hold that position "
 "until the turn is over"
-msgstr "東にある Lintanir の森に Konrad が到着し、時間切れになるまでそこに留まる"
+msgstr ""
+"東にある Lintanir の森に Konrad が到着し、時間切れになるまでそこに留まる"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:40
@@ -6435,7 +6460,9 @@ msgid ""
 "At last, friends, we have almost reached the Lintanir Forest, the home of "
 "the North Elves. I was born not far east of here...more years ago than I "
 "care to remember."
-msgstr "ついに、北部エルフ族の本拠地 Lintanir の森付近にたどり着きました。私はここのちょっと東で産まれたのです。随分昔に……。"
+msgstr ""
+"ついに、北部エルフ族の本拠地 Lintanir の森付近にたどり着きました。私はここの"
+"ちょっと東で産まれたのです。随分昔に……。"
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:353
@@ -6478,7 +6505,8 @@ msgstr "おお！ ついにあなたたちを見つけました。"
 msgid ""
 "Greetings, Telerandor, herald of Lintanir! Why have you been searching for "
 "us?"
-msgstr "Lintanir の使者 Telerandor、こんにちは。なぜ私たちを捜していたのですか？"
+msgstr ""
+"Lintanir の使者 Telerandor、こんにちは。なぜ私たちを捜していたのですか？"
 
 #. [message]: speaker=Telerandor
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:405
@@ -6500,7 +6528,10 @@ msgid ""
 "We have sighted a great host to the south, a host of the men of Wesnoth. And "
 "we believe they are looking for you! There is not a moment to lose. You must "
 "make haste, east to Lintanir. Only there will you be safe!"
-msgstr "私たちは南側に大群を見つけました。大勢の Wesnoth 軍です。そして彼らはあなたたちを探しているはずです！ 時間がありません。東にある Lintanir に急いでに向かわなければなりません。あなたたちが安全でいられるのはそこだけです！"
+msgstr ""
+"私たちは南側に大群を見つけました。大勢の Wesnoth 軍です。そして彼らはあなたた"
+"ちを探しているはずです！ 時間がありません。東にある Lintanir に急いでに向かわ"
+"なければなりません。あなたたちが安全でいられるのはそこだけです！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:420
@@ -6704,7 +6735,8 @@ msgstr "見つけた！ 突撃！"
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:655
 msgid "There you are! You must come quickly east to Lintanir!!"
-msgstr "ここにいたのですね！ 東にある Lintanir に急いで行かなければなりません！"
+msgstr ""
+"ここにいたのですね！ 東にある Lintanir に急いで行かなければなりません！"
 
 #. [message]: speaker=El'rien
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:670
@@ -6712,7 +6744,10 @@ msgid ""
 "Greetings, Elf-friend! Welcome to Emetria, my hold in Lintanir. You must "
 "take shelter here until the battle passes. If you stay with me here for a "
 "little while, we will all be safe."
-msgstr "こんにちは、エルフの友よ！ Lintanir の Emetria へようこそ。あなたたちは戦いが終わるまでここで避難しなければなりません。ここで私とともにしばらく留まっていれば、あなたたちは皆安全でしょう。"
+msgstr ""
+"こんにちは、エルフの友よ！ Lintanir の Emetria へようこそ。あなたたちは戦いが"
+"終わるまでここで避難しなければなりません。ここで私とともにしばらく留まってい"
+"れば、あなたたちは皆安全でしょう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:674
@@ -6853,7 +6888,10 @@ msgid ""
 "Greetings, and welcome to our capital. You should feel honored. It has been "
 "half a century - a generation in the way your race counts time - since any "
 "man has been considered Elf-friend enough to stand here in Elensiria."
-msgstr "こんにちは、我々の首都へようこそ。おぬしらは誇りに思うはずだ。半世紀、おぬしらの種族の時間では 1 世代もの間、ここ Elensiria に立ち入るに足るエルフの友と見なされた人はいないのだから。"
+msgstr ""
+"こんにちは、我々の首都へようこそ。おぬしらは誇りに思うはずだ。半世紀、おぬし"
+"らの種族の時間では 1 世代もの間、ここ Elensiria に立ち入るに足るエルフの友と"
+"見なされた人はいないのだから。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:105
@@ -8033,7 +8071,9 @@ msgstr ""
 msgid ""
 "... and personal counselor to my King and my <i>friend</i>, Garard the "
 "Second, who you most <i>foully</i> betrayed..."
-msgstr "……そして、おぬしが大層<i>汚らしく</i>裏切った、私の<i>友</i>でもある王、GARARD 2 世の個人的な相談役でもあった。"
+msgstr ""
+"……そして、おぬしが大層<i>汚らしく</i>裏切った、私の<i>友</i>でもある王、"
+"GARARD 2 世の個人的な相談役でもあった。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:385

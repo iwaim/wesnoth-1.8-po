@@ -107,7 +107,13 @@ msgid ""
 "guards repelled the raids, though some of the townsfolk were always lost. "
 "Malin's father led raiding parties to disrupt the orc encampments and send "
 "the orcs back to the north."
-msgstr "Malin Keshar が誕生したのは、Haldric 4世が没してから10年目の事であった。彼は街の実力者の第二子、一番年長の男子で、Parthyn の北部国境の町で育った。夏が訪れ山道が通れるようになると、武勲を欲してオーク達が北からやって来る。毎年 Parthyn の守備隊が襲撃を退けるのだが、幾名かの町民の命が失われるのが常であった。Malin の父はオークの野営地を混乱させ、彼らを北へと送り返す為に襲撃部隊を率いた。"
+msgstr ""
+"Malin Keshar が誕生したのは、Haldric 4世が没してから10年目の事であった。彼は"
+"街の実力者の第二子、一番年長の男子で、Parthyn の北部国境の町で育った。夏が訪"
+"れ山道が通れるようになると、武勲を欲してオーク達が北からやって来る。毎年 "
+"Parthyn の守備隊が襲撃を退けるのだが、幾名かの町民の命が失われるのが常であっ"
+"た。Malin の父はオークの野営地を混乱させ、彼らを北へと送り返す為に襲撃部隊を"
+"率いた。"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:26
@@ -118,7 +124,13 @@ msgid ""
 "community on the Isle of Alduin. There he studied for eight years, while "
 "back at home the orc raids increased in their frequency and ferocity. Before "
 "Malin could finish his training, however, he was expelled."
-msgstr "Malin が10歳の時、道すがら街に立ち寄った魔法使いが強い魔法の力をこの少年に感じ取った。彼の両親は、絶える事なく続くオーク達との闘争から息子が離れて暮らせる機会をそこに見て取り、彼が Alduin 島の魔法使い達の許へ送り出される様に手配した。そこで彼は8年間に渡り勉学に勤しんだが、他方彼の故郷ではオーク達による襲撃がその頻度と残忍さを増していた。Malin がとうとう訓練を終えようという時、しかしながら、彼は島から追放されることとなる。"
+msgstr ""
+"Malin が10歳の時、道すがら街に立ち寄った魔法使いが強い魔法の力をこの少年に感"
+"じ取った。彼の両親は、絶える事なく続くオーク達との闘争から息子が離れて暮らせ"
+"る機会をそこに見て取り、彼が Alduin 島の魔法使い達の許へ送り出される様に手配"
+"した。そこで彼は8年間に渡り勉学に勤しんだが、他方彼の故郷ではオーク達による襲"
+"撃がその頻度と残忍さを増していた。Malin がとうとう訓練を終えようという時、し"
+"かしながら、彼は島から追放されることとなる。"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:32
@@ -342,8 +354,8 @@ msgid ""
 "No! No...it was nothing like that...but I will not stand by and allow the "
 "orcs to destroy my home while I have the skills to prevent it!"
 msgstr ""
-"違う！違う……そんなつもりはないんだ……しかし抵抗する力を持っていながらオークに町"
-"が破壊されるのを傍観していられない！"
+"違う！違う……そんなつもりはないんだ……しかし抵抗する力を持っていながらオークに"
+"町が破壊されるのを傍観していられない！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:237
@@ -667,9 +679,9 @@ msgid ""
 "within. Those that outlive their masters gravitate towards the swamps and "
 "bogs, drawn by the natural decay there."
 msgstr ""
-"彼らはグールだ。かつて彼らは殺人者や無法者のような悪人だったのだ……魔法で彼らの"
-"外見を内面とマッチしたものに変わったのだ。主人が死んでも生きている者はこうし"
-"て湿地や沼に引き寄せられるのだ。"
+"彼らはグールだ。かつて彼らは殺人者や無法者のような悪人だったのだ……魔法で彼ら"
+"の外見を内面とマッチしたものに変わったのだ。主人が死んでも生きている者はこう"
+"して湿地や沼に引き寄せられるのだ。"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:292
@@ -1060,7 +1072,10 @@ msgid ""
 "usually fractious local chieftains to unite in opposition. Eventually, at a "
 "narrow place in the river men call the Longlier and Elves call the Arkan-"
 "thoria, they manage to surround the humans and force a fight."
-msgstr "昨年 Malin と Darken Volk が与えた被害によって、普段気難しい地方指揮官は対抗勢力を結成しました。ついに、人間族が Longlier と呼び、エルフ族が Arkan-thoria と呼ぶ川のある狭い場所で、彼らは人間たちを取り囲みました。"
+msgstr ""
+"昨年 Malin と Darken Volk が与えた被害によって、普段気難しい地方指揮官は対抗"
+"勢力を結成しました。ついに、人間族が Longlier と呼び、エルフ族が Arkan-"
+"thoria と呼ぶ川のある狭い場所で、彼らは人間たちを取り囲みました。"
 
 #. [scenario]: id=Orc_war
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:43
@@ -1149,10 +1164,10 @@ msgid ""
 "in a few weeks. In the meantime, do not let the last chieftain escape "
 "justice."
 msgstr ""
-"ほとんどな……お前の成長は本当に目覚ましい物だった。しかしちょっとした頼みがある"
-"のだ。それはお前の修業の最後にふさわしい。その前にする事があるのだが……そこでは"
-"お前の手を借りる必要はない。西の方で数週間後に会おう。それまでに残りの指揮官"
-"に正義を下してやれ。"
+"ほとんどな……お前の成長は本当に目覚ましい物だった。しかしちょっとした頼みがあ"
+"るのだ。それはお前の修業の最後にふさわしい。その前にする事があるのだが……そこ"
+"ではお前の手を借りる必要はない。西の方で数週間後に会おう。それまでに残りの指"
+"揮官に正義を下してやれ。"
 
 #. [scenario]: id=Return_to_Parthyn, id=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:6
@@ -1289,7 +1304,9 @@ msgstr ""
 msgid ""
 "I am defeated but not dead, foul thing that was once my brother. Watch your "
 "back, because I will be coming for you..."
-msgstr "私は破れた。しかし、かつて我が兄弟であった汚れた者のように死にはしない。背後に気をつけておきなさい。私はお前を迎えにくるのだから……"
+msgstr ""
+"私は破れた。しかし、かつて我が兄弟であった汚れた者のように死にはしない。背後"
+"に気をつけておきなさい。私はお前を迎えにくるのだから……"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:274
@@ -1343,10 +1360,10 @@ msgid ""
 "'A life curse goes beyond a joke,' they said. 'Poor judgment,' they said, "
 "and expelled me from the Academy. "
 msgstr ""
-"暗黒神よ、なぜこんな事に？私の実の妹は私の死を願っている……あの時……そう、太った"
-"ヒキガエルのようなZephrinが私の訛りを馬鹿にして怒った私が呪いで腫れ物を作って"
-"やった。「それはやり過ぎだ」「ばかな事を」彼らはそう言いアカデミーから私を追"
-"い出した……あの時から何もかもが上手くいかない。"
+"暗黒神よ、なぜこんな事に？私の実の妹は私の死を願っている……あの時……そう、太っ"
+"たヒキガエルのようなZephrinが私の訛りを馬鹿にして怒った私が呪いで腫れ物を作っ"
+"てやった。「それはやり過ぎだ」「ばかな事を」彼らはそう言いアカデミーから私を"
+"追い出した……あの時から何もかもが上手くいかない。"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:342
@@ -1384,9 +1401,9 @@ msgid ""
 "since it was one of them who stole it from me.'"
 msgstr ""
 "「最後の試練だ。本を取り戻すのを手伝ってもらう。」降霊術師は続けた。「その本"
-"は……昔私から盗まれた物だ。それは私にとって個人的に大事な物だ。だからちょっとし"
-"た頼みだと思ってくれ。しかしそれを盗んだのはWesnothの人間なので、同胞に歯向か"
-"う事になる事を覚悟してもらわねばならない。」"
+"は……昔私から盗まれた物だ。それは私にとって個人的に大事な物だ。だからちょっと"
+"した頼みだと思ってくれ。しかしそれを盗んだのはWesnothの人間なので、同胞に歯向"
+"かう事になる事を覚悟してもらわねばならない。」"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:29
@@ -1684,7 +1701,10 @@ msgid ""
 "and, with a word and gesture causes the entrance to collapse. The two "
 "necromancers turn and begin walking down the pitch-black tunnel, temporarily "
 "safe from pursuit."
-msgstr "彼が Karrer 卿の荘園の下にあるトンネルに入ったとき、Darken Volk が振り返って身振りと共に何やら呟くと入り口は潰れてしまいました。そして二人の降霊術師は、追撃から一時的に安全となった真っ暗なトンネルを歩き始めました。"
+msgstr ""
+"彼が Karrer 卿の荘園の下にあるトンネルに入ったとき、Darken Volk が振り返って"
+"身振りと共に何やら呟くと入り口は潰れてしまいました。そして二人の降霊術師は、"
+"追撃から一時的に安全となった真っ暗なトンネルを歩き始めました。"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Alone_at_Last.cfg:28
@@ -2019,8 +2039,8 @@ msgid ""
 "the transformation they'll begin to fall before me. And I will continue to "
 "hound them until the last one falls!"
 msgstr ""
-"そう……そうだ。オークは今の私には強すぎる。しかし一度私がこの姿を変えたならやつ"
-"らは倒れる事となろう。そして最後の一人まで残さず消し去ってくれよう！"
+"そう……そうだ。オークは今の私には強すぎる。しかし一度私がこの姿を変えたならや"
+"つらは倒れる事となろう。そして最後の一人まで残さず消し去ってくれよう！"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:282
@@ -2277,7 +2297,9 @@ msgstr ""
 msgid ""
 "So, I've finally found your lair, lich. You, who have been attacking the "
 "orcs for years and have destroyed many of our tribes."
-msgstr "ついに隠れ家を見つけたぞ。リッチめ。おまえがオーク族をずっと攻撃し続けて多くの部族を壊滅させたのだろう。"
+msgstr ""
+"ついに隠れ家を見つけたぞ。リッチめ。おまえがオーク族をずっと攻撃し続けて多く"
+"の部族を壊滅させたのだろう。"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:347

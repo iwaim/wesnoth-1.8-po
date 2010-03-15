@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-03-08 14:58+0100\n"
+"POT-Creation-Date: 2010-03-15 21:23+0100\n"
 "PO-Revision-Date: 2010-02-01 21:07+0900\n"
 "Last-Translator: \n"
 "Language-Team: Japanese Translation Team\n"
@@ -325,227 +325,227 @@ msgid "Catalan Translation"
 msgstr "カタロニア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1132
+#: data/core/about.cfg:1135
 msgid "Chinese Translation"
 msgstr "中国語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1170
+#: data/core/about.cfg:1173
 msgid "Chinese (Taiwan) Translation"
 msgstr "中国語（台湾）翻訳"
 
 #. [about]
-#: data/core/about.cfg:1192
+#: data/core/about.cfg:1195
 msgid "Croatian Translation"
 msgstr "クロアチア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1199
+#: data/core/about.cfg:1202
 msgid "Czech Translation"
 msgstr "チェコ語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1259
+#: data/core/about.cfg:1262
 msgid "Danish Translation"
 msgstr "デンマーク語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1290
+#: data/core/about.cfg:1293
 msgid "Dutch Translation"
 msgstr "オランダ語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1351
+#: data/core/about.cfg:1354
 msgid "English (GB) Translation"
 msgstr "英語（イギリス）翻訳"
 
 #. [about]
-#: data/core/about.cfg:1364
+#: data/core/about.cfg:1367
 msgid "English (Shaw) Translation"
 msgstr "英語（ショー）翻訳"
 
 #. [about]
-#: data/core/about.cfg:1388
+#: data/core/about.cfg:1391
 msgid "Esperanto Translation"
 msgstr "エスペラント語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1407
+#: data/core/about.cfg:1410
 msgid "Estonian Translation"
 msgstr "エストニア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1417
+#: data/core/about.cfg:1420
 msgid "Filipino Translation"
 msgstr "フィリピン語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1427
+#: data/core/about.cfg:1430
 msgid "Finnish Translation"
 msgstr "フィンランド語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1473
+#: data/core/about.cfg:1476
 msgid "French Translation"
 msgstr "フランス語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1620
+#: data/core/about.cfg:1623
 msgid "Friulian Translation"
 msgstr "フリウリ語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1627
+#: data/core/about.cfg:1630
 msgid "Galician Translation"
 msgstr "ガリシア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1662
+#: data/core/about.cfg:1665
 msgid "German Translation"
 msgstr "ドイツ語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1717
+#: data/core/about.cfg:1720
 msgid "Greek Translation"
 msgstr "ギリシャ語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1751
+#: data/core/about.cfg:1754
 msgid "Hebrew Translation"
 msgstr "ヘブライ語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1764
+#: data/core/about.cfg:1767
 msgid "Hungarian Translation"
 msgstr "ハンガリー語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1825
+#: data/core/about.cfg:1828
 msgid "Icelandic translation"
 msgstr "アイスランド語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1835
+#: data/core/about.cfg:1838
 msgid "Indonesian Translation"
 msgstr "インドネシア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1842
+#: data/core/about.cfg:1845
 msgid "Italian Translation"
 msgstr "イタリア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1877
+#: data/core/about.cfg:1880
 msgid "Japanese Translation"
 msgstr "日本語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1908
+#: data/core/about.cfg:1923
 msgid "Korean Translation"
 msgstr "韓国語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1915
+#: data/core/about.cfg:1930
 msgid "Latin Translation"
 msgstr "ラテン語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1942
+#: data/core/about.cfg:1957
 msgid "Latvian Translation"
 msgstr "ラトビア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1953
+#: data/core/about.cfg:1968
 msgid "Lithuanian Translation"
 msgstr "リトアニア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1970
+#: data/core/about.cfg:1985
 msgid "Macedonian Translation"
 msgstr "マケドニア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1978
+#: data/core/about.cfg:1993
 msgid "Marathi Translation"
 msgstr "マラーティー語翻訳"
 
 #. [about]
-#: data/core/about.cfg:1987
+#: data/core/about.cfg:2002
 msgid "Norwegian Translation"
 msgstr "ノルウェー語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2012
+#: data/core/about.cfg:2027
 msgid "Polish Translation"
 msgstr "ポーランド語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2061
+#: data/core/about.cfg:2076
 msgid "Portuguese Translation"
 msgstr "ポルトガル語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2068
+#: data/core/about.cfg:2083
 msgid "Portuguese (Brazil) Translation"
 msgstr "ポルトガル語（ブラジル）翻訳"
 
 #. [about]
-#: data/core/about.cfg:2107
+#: data/core/about.cfg:2122
 msgid "Romanian Translation"
 msgstr "ルーマニア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2115
+#: data/core/about.cfg:2130
 msgid "Russian Translation"
 msgstr "ロシア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2182
+#: data/core/about.cfg:2197
 msgid "Serbian Translation"
 msgstr "セルビア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2197
+#: data/core/about.cfg:2212
 msgid "Slovak Translation"
 msgstr "スロバキア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2223
+#: data/core/about.cfg:2238
 msgid "Slovenian Translation"
 msgstr "スロベニア語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2236
+#: data/core/about.cfg:2251
 msgid "Spanish Translation"
 msgstr "スペイン語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2297
+#: data/core/about.cfg:2312
 msgid "Swedish Translation"
 msgstr "スウェーデン語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2326
+#: data/core/about.cfg:2341
 msgid "Turkish Translation"
 msgstr "トルコ語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2348
+#: data/core/about.cfg:2363
 msgid "Valencian (southern Catalan) Translation"
 msgstr "バレンシア語（カタロニア南部）翻訳"
 
 #. [about]
-#: data/core/about.cfg:2361
+#: data/core/about.cfg:2376
 msgid "Vietnamese Translation"
 msgstr "ベトナム語翻訳"
 
 #. [about]
-#: data/core/about.cfg:2368
+#: data/core/about.cfg:2383
 msgid "RACV's Translation"
 msgstr "RACV 翻訳"
 
 #. [about]
-#: data/core/about.cfg:2375
+#: data/core/about.cfg:2390
 msgid "Bots"
 msgstr "ボット"
 
@@ -3490,7 +3490,7 @@ msgstr ""
 "が死ぬことはありません。"
 
 #. [set_menu_item]: id=ai_controller_leader_control_{CONTROLLED_SIDE}
-#: data/core/macros/ai.cfg:438
+#: data/core/macros/ai.cfg:495
 msgid "Ask $ally_leader.name (leader of side $ally_leader.side) to move here"
 msgstr ""
 "$ally_leader.name （$ally_leader.side のリーダー）にここに移動するか訊ねる"
@@ -6885,6 +6885,14 @@ msgstr ""
 "多くのキャンペーンシナリオでは、右クリックのコンテキストメニューを使って、コ"
 "ンピュータが操作する友軍に単純な指示を発行するかもしれません。"
 
+#: data/lua/wml-tags.lua:24 src/multiplayer_connect.cpp:1612
+msgid "Victory:"
+msgstr "勝利条件:"
+
+#: data/lua/wml-tags.lua:25
+msgid "Defeat:"
+msgstr "敗北条件:"
+
 #: data/temp-file_send_data_strings.cfg:12
 msgid "About to upload statistics - Help us make Wesnoth better for you!"
 msgstr ""
@@ -6943,8 +6951,8 @@ msgstr "シナリオ終了"
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=label-hp
 #: data/themes/default.cfg:212 data/themes/dfool.cfg:237
-#: data/themes/experimental.cfg:181 src/menu_events.cpp:208 src/unit.cpp:2341
-#: src/unit.cpp:2497
+#: data/themes/experimental.cfg:181 src/menu_events.cpp:208 src/unit.cpp:2330
+#: src/unit.cpp:2486
 msgid "HP"
 msgstr "HP"
 
@@ -7122,39 +7130,39 @@ msgstr "石化した"
 msgid "petrified"
 msgstr "石化した"
 
-#: src/actions.cpp:2477
+#: src/actions.cpp:2486
 msgid "Ambushed!"
 msgstr "待ち伏せにあった！"
 
-#: src/actions.cpp:2484
+#: src/actions.cpp:2493
 msgid "Failed teleport! Exit not empty"
 msgstr "テレポートに失敗した！ 出口が空いていなかった"
 
-#: src/actions.cpp:2529
+#: src/actions.cpp:2538
 msgid "Friendly unit sighted"
 msgid_plural "$friends friendly units sighted"
 msgstr[0] "味方ユニット発見"
 
-#: src/actions.cpp:2532
+#: src/actions.cpp:2541
 msgid "Enemy unit sighted!"
 msgid_plural "$enemies enemy units sighted!"
 msgstr[0] "敵ユニット発見！"
 
-#: src/actions.cpp:2537
+#: src/actions.cpp:2546
 msgid "Part of 'Units sighted! (...)' sentence^1 friendly"
 msgid_plural "$friends friendly"
 msgstr[0] "味方 $friends"
 
-#: src/actions.cpp:2538
+#: src/actions.cpp:2547
 msgid "Part of 'Units sighted! (...)' sentence^1 enemy"
 msgid_plural "$enemies enemy"
 msgstr[0] "敵 $enemies"
 
-#: src/actions.cpp:2539
+#: src/actions.cpp:2548
 msgid "Units sighted! ($friendphrase, $enemyphrase)"
 msgstr "ユニットを発見！ （ $friendphrase、$enemyphrase ）"
 
-#: src/actions.cpp:2548
+#: src/actions.cpp:2557
 msgid "(press $hotkey to keep moving)"
 msgstr "（移動し続けるには $hotkey を押して下さい）"
 
@@ -7660,39 +7668,39 @@ msgstr "経験: "
 msgid "Moves: "
 msgstr "移動: "
 
-#: src/game.cpp:629 src/game.cpp:1363
+#: src/game.cpp:577 src/game.cpp:1311
 msgid "The Battle for Wesnoth"
 msgstr "The Battle for Wesnoth"
 
-#: src/game.cpp:960 src/game.cpp:968
+#: src/game.cpp:908 src/game.cpp:916
 msgid "The file you have tried to load is corrupt"
 msgstr "読み込もうとしたファイルは壊れています。"
 
-#: src/game.cpp:963 src/game.cpp:971 src/savegame.cpp:534
+#: src/game.cpp:911 src/game.cpp:919 src/savegame.cpp:534
 msgid "The file you have tried to load is corrupt: '"
 msgstr "ロードしようとしたファイルは壊れています: 「"
 
-#: src/game.cpp:975
+#: src/game.cpp:923
 msgid "File I/O Error while reading the game"
 msgstr "ゲーム読み込み中のファイル入出力エラー"
 
-#: src/game.cpp:1070
+#: src/game.cpp:1018
 msgid "No campaigns are available.\n"
 msgstr "キャンペーンが存在しません。\n"
 
-#: src/game.cpp:1108
+#: src/game.cpp:1056
 msgid "Difficulty"
 msgstr "難易度"
 
-#: src/game.cpp:1109
+#: src/game.cpp:1057
 msgid "Select difficulty level:"
 msgstr "難易度を選択して下さい:"
 
-#: src/game.cpp:1244
+#: src/game.cpp:1192
 msgid "Do you really want to start the server?"
 msgstr "本当にサーバーを開始しますか？"
 
-#: src/game.cpp:1245
+#: src/game.cpp:1193
 msgid ""
 "The server will run in a background process until all users have "
 "disconnected."
@@ -7700,60 +7708,60 @@ msgstr ""
 "サーバーはすべてのユーザーが切断するまでバックグラウンドプロセスで動作しま"
 "す。"
 
-#: src/game.cpp:1249
+#: src/game.cpp:1197
 msgid "Don't show again"
 msgstr "二度と表示しない"
 
-#: src/game.cpp:1320
+#: src/game.cpp:1268
 msgid "Error while starting server: "
 msgstr "サーバー開始中のエラー: "
 
-#: src/game.cpp:1322 src/playcampaign.cpp:105 src/playcampaign.cpp:392
+#: src/game.cpp:1270 src/playcampaign.cpp:105 src/playcampaign.cpp:392
 msgid "The game could not be loaded: "
 msgstr "ゲームはロードできませんでした: "
 
-#: src/game.cpp:1324 src/playcampaign.cpp:107 src/playcampaign.cpp:395
+#: src/game.cpp:1272 src/playcampaign.cpp:107 src/playcampaign.cpp:395
 msgid "Error while playing the game: "
 msgstr "ゲームプレイ中のエラー: "
 
-#: src/game.cpp:1342 src/playcampaign.cpp:109 src/playcampaign.cpp:398
+#: src/game.cpp:1290 src/playcampaign.cpp:109 src/playcampaign.cpp:398
 msgid "The game map could not be loaded: "
 msgstr "ゲームマップを読み込めませんでした: "
 
-#: src/game.cpp:1492
+#: src/game.cpp:1440
 msgid "The following add-on had errors and could not be loaded:"
 msgid_plural "The following add-ons had errors and could not be loaded:"
 msgstr[0] "以下のアドオンキャンペーンには問題があり、読み込めませんでした:"
 
-#: src/game.cpp:1499
+#: src/game.cpp:1447
 msgid "ERROR DETAILS:"
 msgstr "エラー詳細:"
 
-#: src/game.cpp:1519
+#: src/game.cpp:1467
 msgid "Error loading game configuration files: '"
 msgstr "ゲーム設定ファイルの読み込みエラー: 「"
 
-#: src/game.cpp:1520
+#: src/game.cpp:1468
 msgid "' (The game will now exit)"
 msgstr "」 （このゲームは終了します）"
 
-#: src/game.cpp:1529
+#: src/game.cpp:1477
 msgid "Loading data files"
 msgstr "データファイル読み込み中"
 
-#: src/game.cpp:1960
+#: src/game.cpp:1908
 msgid "Loading game configuration."
 msgstr "ゲーム設定を読み込んでいます。"
 
-#: src/game.cpp:1966
+#: src/game.cpp:1914
 msgid "Re-initialize fonts for the current language."
 msgstr "現在の言語でフォントを再初期化します。"
 
-#: src/game.cpp:1974
+#: src/game.cpp:1922
 msgid "Searching for installed add-ons."
 msgstr "導入されたアドオンを検索中"
 
-#: src/game.cpp:1983
+#: src/game.cpp:1931
 msgid "Loading title screen."
 msgstr "タイトル画面を読み込んでいます。"
 
@@ -8962,10 +8970,6 @@ msgstr "なし"
 msgid "Cannot find era $era"
 msgstr "$era の時代が見つかりません"
 
-#: src/multiplayer_connect.cpp:1612
-msgid "Victory:"
-msgstr "勝利条件:"
-
 #: src/multiplayer_connect.cpp:1614
 msgid "Defeat enemy leader(s)"
 msgstr "敵のリーダー（達）を倒す"
@@ -9756,40 +9760,36 @@ msgstr "我々に情報を送って Wesnoth を支援してください"
 msgid "No time of day has been defined."
 msgstr "時刻が定義されていません。"
 
-#: src/unit.cpp:86
-msgid "Unknown unit type '$type|'"
-msgstr "不明なユニットタイプ「 $type| 」"
-
-#: src/unit.cpp:719
+#: src/unit.cpp:715
 msgid "Unknown unit type '$type|' while generating traits"
 msgstr "特性の生成中に不明なユニットタイプ「 $type| 」"
 
 # とりあえず……
-#: src/unit.cpp:2298 src/unit.cpp:2485 src/unit.cpp:2558
+#: src/unit.cpp:2287 src/unit.cpp:2474 src/unit.cpp:2547
 msgid " and "
 msgstr " かつ "
 
-#: src/unit.cpp:2309
+#: src/unit.cpp:2298
 msgid "$attack_list|: $effect_description"
 msgstr "$attack_list|: $effect_description"
 
-#: src/unit.cpp:2374
+#: src/unit.cpp:2363
 msgid "moves"
 msgstr "移動"
 
-#: src/unit.cpp:2392 src/unit.cpp:2512
+#: src/unit.cpp:2381 src/unit.cpp:2501
 msgid "XP to advance"
 msgstr "レベルアップに必要な経験値"
 
-#: src/unit.cpp:2504
+#: src/unit.cpp:2493
 msgid " move"
 msgstr " 移動"
 
-#: src/unit.cpp:2520
+#: src/unit.cpp:2509
 msgid "$effect_description per level"
 msgstr "レベルにつき $effect_description"
 
-#: src/unit.cpp:2567
+#: src/unit.cpp:2556
 msgid "$trait_name|: $trait_description "
 msgstr "$trait_name|: $trait_description "
 
@@ -9865,82 +9865,88 @@ msgstr "Wesnoth をもっとよくするために協力してください！"
 msgid "Enable summary uploads"
 msgstr "サマリのアップロードを有効にする"
 
+#~ msgid "Unknown unit type '$type|'"
+#~ msgstr "不明なユニットタイプ「 $type| 」"
+
 # rarify = 薄いなので、rarified = 空気の薄いと訳しましたが……
-msgid ""
-"Impassable mountains are so tall and steep that they are constantly wreathed "
-"in cloud. To cross such mountains is practically impossible. Even flying "
-"creatures cannot navigate the jagged peaks at such rarified heights."
-msgstr ""
-"通れない山は非常に高く急なため、常に雲に覆われています。こんな山を越えること"
-"は事実上不可能です。飛ぶことのできる生き物であっても、このような空気の薄い高"
-"地のギザギザの山頂を超えることはできません。"
+#~ msgid ""
+#~ "Impassable mountains are so tall and steep that they are constantly "
+#~ "wreathed in cloud. To cross such mountains is practically impossible. "
+#~ "Even flying creatures cannot navigate the jagged peaks at such rarified "
+#~ "heights."
+#~ msgstr ""
+#~ "通れない山は非常に高く急なため、常に雲に覆われています。こんな山を越えるこ"
+#~ "とは事実上不可能です。飛ぶことのできる生き物であっても、このような空気の薄"
+#~ "い高地のギザギザの山頂を超えることはできません。"
 
-msgid ""
-"\n"
-"Redraw the screen.\n"
-"\n"
-msgstr ""
-"\n"
-"画面を再描画する。\n"
-"\n"
+#~ msgid ""
+#~ "\n"
+#~ "Redraw the screen.\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "画面を再描画する。\n"
+#~ "\n"
 
-msgid "Can rest while moving"
-msgstr "移動している間も休むことができる"
+#~ msgid "Can rest while moving"
+#~ msgstr "移動している間も休むことができる"
 
-msgid "Screenshot"
-msgstr "スクリーンショット"
+#~ msgid "Screenshot"
+#~ msgstr "スクリーンショット"
 
-msgid "You will now connect to a server to download add-ons."
-msgstr "アドオンをダウンロードするために、サーバーに接続します。"
+#~ msgid "You will now connect to a server to download add-ons."
+#~ msgstr "アドオンをダウンロードするために、サーバーに接続します。"
 
-msgid "Log on to the official Wesnoth multiplayer server"
-msgstr "Wesnothの公式マルチプレイサーバーにログオンします。"
+#~ msgid "Log on to the official Wesnoth multiplayer server"
+#~ msgstr "Wesnothの公式マルチプレイサーバーにログオンします。"
 
-msgid "Play a multiplayer game with the AI or humans sharing the same machine"
-msgstr "同一マシンを共用して AI もしくは人間とマルチプレイを行います。"
+#~ msgid ""
+#~ "Play a multiplayer game with the AI or humans sharing the same machine"
+#~ msgstr "同一マシンを共用して AI もしくは人間とマルチプレイを行います。"
 
-msgid ""
-"Commands: msg/whisper <nick> <message>, list <subcommand> [<argument>], me/"
-"emote <message>. Type /help [<command>] for detailed instructions."
-msgstr ""
-"コマンド: msg/whisper <ニックネーム> <メッセージ>、list <サブコマンド> [<引数"
-">]、me/emote <メッセージ>。詳しい使い方は /help [<コマンド>] と入力してくださ"
-"い。"
+#~ msgid ""
+#~ "Commands: msg/whisper <nick> <message>, list <subcommand> [<argument>], "
+#~ "me/emote <message>. Type /help [<command>] for detailed instructions."
+#~ msgstr ""
+#~ "コマンド: msg/whisper <ニックネーム> <メッセージ>、list <サブコマンド> [<"
+#~ "引数>]、me/emote <メッセージ>。詳しい使い方は /help [<コマンド>] と入力し"
+#~ "てください。"
 
-msgid ""
-"Ignore messages from players on the ignore list and highlight players on the "
-"friends list. Usage: /list <subcommand> [<argument>] Subcommands: addfriend, "
-"addignore, remove, display, clear. Type /help list <subcommand> for more "
-"info."
-msgstr ""
-"無視リストに載っているプレイヤーからのメッセージを無視し、友人リストに載って"
-"いるプレイヤーからのメッセージを強調します。使い方: /list <サブコマンド> [<引"
-"数>](オプション) サブコマンド: addfriend、 addignore、 remove、 display、 "
-"clear。詳しくは /help list <サブコマンド> と入力してください。"
+#~ msgid ""
+#~ "Ignore messages from players on the ignore list and highlight players on "
+#~ "the friends list. Usage: /list <subcommand> [<argument>] Subcommands: "
+#~ "addfriend, addignore, remove, display, clear. Type /help list "
+#~ "<subcommand> for more info."
+#~ msgstr ""
+#~ "無視リストに載っているプレイヤーからのメッセージを無視し、友人リストに載っ"
+#~ "ているプレイヤーからのメッセージを強調します。使い方: /list <サブコマンド"
+#~ "> [<引数>](オプション) サブコマンド: addfriend、 addignore、 remove、 "
+#~ "display、 clear。詳しくは /help list <サブコマンド> と入力してください。"
 
-msgid "Usage: control <side> <nick>"
-msgstr "使い方: control <陣営> <ニックネーム>"
+#~ msgid "Usage: control <side> <nick>"
+#~ msgstr "使い方: control <陣営> <ニックネーム>"
 
-msgid "Choose a known server from the list"
-msgstr "リストからサーバーを選んでください"
+#~ msgid "Choose a known server from the list"
+#~ msgstr "リストからサーバーを選んでください"
 
-msgid "Address"
-msgstr "アドレス"
+#~ msgid "Address"
+#~ msgstr "アドレス"
 
-msgid "No server ping since $timeout second. Connection timed out."
-msgid_plural "No server ping since $timeout seconds. Connection timed out."
-msgstr[0] "$timeout 秒前からサーバからの応答がありません。接続時間切れです。"
+#~ msgid "No server ping since $timeout second. Connection timed out."
+#~ msgid_plural "No server ping since $timeout seconds. Connection timed out."
+#~ msgstr[0] ""
+#~ "$timeout 秒前からサーバからの応答がありません。接続時間切れです。"
 
-msgid ""
-" This unit can teleport between any two villages instantly, though the "
-"player must control both, and the destination village must be unoccupied."
-msgstr ""
-" このユニットは瞬時に 2 つの村の間を瞬間移動することができます。しかしなが"
-"ら、 どちらの村もプレイヤーの支配下にあり、行き先の村があいている必要がありま"
-"す。"
+#~ msgid ""
+#~ " This unit can teleport between any two villages instantly, though the "
+#~ "player must control both, and the destination village must be unoccupied."
+#~ msgstr ""
+#~ " このユニットは瞬時に 2 つの村の間を瞬間移動することができます。しかしなが"
+#~ "ら、 どちらの村もプレイヤーの支配下にあり、行き先の村があいている必要があ"
+#~ "ります。"
 
-msgid "Join a server or hosted game"
-msgstr "サーバーか主催されたゲームに参加します。"
+#~ msgid "Join a server or hosted game"
+#~ msgstr "サーバーか主催されたゲームに参加します。"
 
 #~ msgid "stones"
 #~ msgstr "石化"
@@ -9982,9 +9988,6 @@ msgstr "サーバーか主催されたゲームに参加します。"
 #~ msgstr ""
 #~ "保存名は、コロン（:）、スラッシュ（/）、バックスラッシュ（\\）を含んではい"
 #~ "けません。違う名前をつけて下さい。"
-
-#~ msgid "Defeat:"
-#~ msgstr "敗北条件:"
 
 #~ msgid "stone: "
 #~ msgstr "石化: "

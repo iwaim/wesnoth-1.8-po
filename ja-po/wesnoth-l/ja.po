@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-02-25 00:07+0100\n"
+"POT-Creation-Date: 2010-03-08 14:58+0100\n"
 "PO-Revision-Date: 2010-02-01 01:19+0900\n"
 "Last-Translator:  <P2295417919104729@hotmail.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -2775,169 +2775,175 @@ msgstr ""
 "つらい破滅でしたが、Asheviere による統制がきつくなるにつれて、彼らはさらにひ"
 "どいものを見て生きてゆくことになるでしょう。"
 
-msgid "Translators"
-msgstr "翻訳者"
+#~ msgid "Translators"
+#~ msgstr "翻訳者"
 
-msgid ""
-"Goblins do not do well without their leaders. If we can kill this one, it "
-"may take the fight out of the rest."
-msgstr ""
-"ゴブリンはリーダーなしじゃうまく動けねぇ。 もしやつを落とすことができるなら、"
-"残りのは戦闘どころじゃなくなるかもな。"
+#~ msgid ""
+#~ "Goblins do not do well without their leaders. If we can kill this one, it "
+#~ "may take the fight out of the rest."
+#~ msgstr ""
+#~ "ゴブリンはリーダーなしじゃうまく動けねぇ。 もしやつを落とすことができるな"
+#~ "ら、残りのは戦闘どころじゃなくなるかもな。"
 
-msgid ""
-"Each village has a group of highly capable fighters dedicated to fending off "
-"orc raids. Some of these join the Wesnoth army, while others join the core "
-"of the village's patrol."
-msgstr ""
-"各村はオークの襲撃を防ぐのに専念する非常に有能な戦士の一団を抱えています。彼"
-"らの内、あるものは Wesnoth 軍に加わり、また他のものは村のパトロールの中心に加"
-"わります。"
-
-#, fuzzy
-msgid "Amman"
-msgstr "狙撃兵"
-
-msgid "Wait - I hear something..."
-msgstr "待て - 何か聞こえた…"
+#~ msgid ""
+#~ "Each village has a group of highly capable fighters dedicated to fending "
+#~ "off orc raids. Some of these join the Wesnoth army, while others join the "
+#~ "core of the village's patrol."
+#~ msgstr ""
+#~ "各村はオークの襲撃を防ぐのに専念する非常に有能な戦士の一団を抱えています。"
+#~ "彼らの内、あるものは Wesnoth 軍に加わり、また他のものは村のパトロールの中"
+#~ "心に加わります。"
 
 #, fuzzy
-msgid ""
-"I'm glad we finally get to spend some time near a city. I was sick of "
-"marching through swamps and woods chasing down locals. If this terrorist "
-"shows up at Carcyn I'll put his head at the end of my pole."
-msgstr ""
-"私たちが、最終的に都市の近くでいくらかの時間を過ごせるのがうれしいです。地方"
-"を  追跡しながら湿地帯と森を通って行軍するのにうんざりしていました。 もしテロ"
-"リストが Carcyn に現れたなら、私のポールの端に彼らの頭を掲げるつもりです。"
+#~ msgid "Amman"
+#~ msgstr "狙撃兵"
+
+#~ msgid "Wait - I hear something..."
+#~ msgstr "待て - 何か聞こえた…"
 
 #, fuzzy
-msgid ""
-"If we let him into the city, the commander will put our heads on poles... "
-"damn moonless night! Did you hear something?"
-msgstr ""
-"私たちが都市に彼らを入れてしまうと、指揮官は私たちの頭をポールに掲げること"
-"に… 闇夜のくそったれ! 何か聞こえなかったか?"
+#~ msgid ""
+#~ "I'm glad we finally get to spend some time near a city. I was sick of "
+#~ "marching through swamps and woods chasing down locals. If this terrorist "
+#~ "shows up at Carcyn I'll put his head at the end of my pole."
+#~ msgstr ""
+#~ "私たちが、最終的に都市の近くでいくらかの時間を過ごせるのがうれしいです。地"
+#~ "方を  追跡しながら湿地帯と森を通って行軍するのにうんざりしていました。 も"
+#~ "しテロリストが Carcyn に現れたなら、私のポールの端に彼らの頭を掲げるつもり"
+#~ "です。"
 
 #, fuzzy
-msgid "Umm, I don't know. It is pitch black out there..."
-msgstr "うむ、私には分からなかったが。向こうは暗い闇…"
+#~ msgid ""
+#~ "If we let him into the city, the commander will put our heads on poles... "
+#~ "damn moonless night! Did you hear something?"
+#~ msgstr ""
+#~ "私たちが都市に彼らを入れてしまうと、指揮官は私たちの頭をポールに掲げること"
+#~ "に… 闇夜のくそったれ! 何か聞こえなかったか?"
 
 #, fuzzy
-msgid "I don't see anything. Let's keep going."
-msgstr "何も見えませんね。さあ続けましょう。"
+#~ msgid "Umm, I don't know. It is pitch black out there..."
+#~ msgstr "うむ、私には分からなかったが。向こうは暗い闇…"
 
 #, fuzzy
-msgid ""
-"I think we need to find a way to sneak past these patrols. We would be "
-"slaughtered if we tried to fight them."
-msgstr ""
-"わしらが巡視に見つからずに潜入する方法を見つけなければ。 わしらが彼らと戦おう"
-"とするなら、虐殺されるだ。"
-
-msgid "Let's go around then."
-msgstr "迂回していきましょう。"
+#~ msgid "I don't see anything. Let's keep going."
+#~ msgstr "何も見えませんね。さあ続けましょう。"
 
 #, fuzzy
-msgid "Well, good thing I found you first. Now hurry."
-msgstr "さて、私があなたを始めに見つけたから良いものの。 さあ、急げ。"
+#~ msgid ""
+#~ "I think we need to find a way to sneak past these patrols. We would be "
+#~ "slaughtered if we tried to fight them."
+#~ msgstr ""
+#~ "わしらが巡視に見つからずに潜入する方法を見つけなければ。 わしらが彼らと戦"
+#~ "おうとするなら、虐殺されるだ。"
+
+#~ msgid "Let's go around then."
+#~ msgstr "迂回していきましょう。"
 
 #, fuzzy
-msgid "No, THEY found us first! Let's go!"
-msgstr "だめだ、「彼ら」がわしらを最初に見つけた！ さあ行こう！"
+#~ msgid "Well, good thing I found you first. Now hurry."
+#~ msgstr "さて、私があなたを始めに見つけたから良いものの。 さあ、急げ。"
 
 #, fuzzy
-msgid "Shhhhh!! I could hear you coming from bottom of the city dungeon."
-msgstr "シー！！ 私は、あなたが都市の洞窟の下から来るのを聞いていました。"
+#~ msgid "No, THEY found us first! Let's go!"
+#~ msgstr "だめだ、「彼ら」がわしらを最初に見つけた！ さあ行こう！"
 
 #, fuzzy
-msgid "I can barely see where we are going. Is the city near?"
-msgstr "わしらは行き先をほとんど見ることができん。 都市は近いか?"
+#~ msgid "Shhhhh!! I could hear you coming from bottom of the city dungeon."
+#~ msgstr "シー！！ 私は、あなたが都市の洞窟の下から来るのを聞いていました。"
 
 #, fuzzy
-msgid ""
-"Yes, just south of here. You should avoid the main gate. The west gate is "
-"heavily traveled but is less guarded than the east gate. Try to sneak in "
-"that way."
-msgstr ""
-"はい、ここの真南。 正門は避けるべきです。 西門は、多くの旅行者が通るのに 利用"
-"されていて、 東門ほど用心深くはありません。 こっそり入るようにしてください。"
+#~ msgid "I can barely see where we are going. Is the city near?"
+#~ msgstr "わしらは行き先をほとんど見ることができん。 都市は近いか?"
 
 #, fuzzy
-msgid ""
-"Unfortunately, they know we are here already. We can only hope that the "
-"cover of night will be adequate despite their stepped-up efforts to find us."
-msgstr ""
-"残念ながら、彼らは、わしらがここにいるのを既に知っています。 わしらを 見つけ"
-"ようとしている彼らの努力以上に、夜の闇が濃いことを望むのみ。"
-
-msgid "Hello, our leader is on the other side of the city."
-msgstr "やあ、私たちのリーダーは都市の反対側にいます。"
-
-#, fuzzy
-msgid ""
-"We already tangled with some guards. The city is probably swarming with "
-"soldiers by now. We cannot go that way. "
-msgstr ""
-"わしらは既に何人かの番兵と争った。 たぶん都市は今ごろ、軍人で満ちています。 "
-"わしらはその道を行くことができない。"
+#~ msgid ""
+#~ "Yes, just south of here. You should avoid the main gate. The west gate is "
+#~ "heavily traveled but is less guarded than the east gate. Try to sneak in "
+#~ "that way."
+#~ msgstr ""
+#~ "はい、ここの真南。 正門は避けるべきです。 西門は、多くの旅行者が通るのに "
+#~ "利用されていて、 東門ほど用心深くはありません。 こっそり入るようにしてくだ"
+#~ "さい。"
 
 #, fuzzy
-msgid "We have to go through the city? Impossible!"
-msgstr "わしらは都市を通り抜けるのか? そりゃ無理だ!"
+#~ msgid ""
+#~ "Unfortunately, they know we are here already. We can only hope that the "
+#~ "cover of night will be adequate despite their stepped-up efforts to find "
+#~ "us."
+#~ msgstr ""
+#~ "残念ながら、彼らは、わしらがここにいるのを既に知っています。 わしらを 見つ"
+#~ "けようとしている彼らの努力以上に、夜の闇が濃いことを望むのみ。"
 
-msgid "Elense Vanguard Rider"
-msgstr "Elense 前衛 騎士"
-
-msgid "Dusk"
-msgstr "夕闇"
-
-#, fuzzy
-msgid ""
-"Look there... the canyon valley lies in perpetual darkness... a sign of true "
-"evil."
-msgstr "見てください…  canyon 谷は絶え間ない暗黒の世界です… まさに邪悪な兆候。"
-
-msgid "There are some bones here.  There appears to be something among them."
-msgstr "いくつかの骨がここにあります。 何かがそれらの中にあるように見えます。 "
-
-msgid "leadership"
-msgstr "リーダーシップ"
-
-msgid "blade"
-msgstr "ブレード"
+#~ msgid "Hello, our leader is on the other side of the city."
+#~ msgstr "やあ、私たちのリーダーは都市の反対側にいます。"
 
 #, fuzzy
-msgid "fire"
-msgstr "貫通"
-
-msgid "marksman"
-msgstr "狙撃兵"
-
-msgid "impact"
-msgstr "衝撃"
-
-msgid "cold"
-msgstr "冷気"
-
-msgid "Night Patrolman"
-msgstr "夜間 巡視兵"
+#~ msgid ""
+#~ "We already tangled with some guards. The city is probably swarming with "
+#~ "soldiers by now. We cannot go that way. "
+#~ msgstr ""
+#~ "わしらは既に何人かの番兵と争った。 たぶん都市は今ごろ、軍人で満ちていま"
+#~ "す。 わしらはその道を行くことができない。"
 
 #, fuzzy
-msgid "female^Night Patroller"
-msgstr "女性夜間巡視兵"
+#~ msgid "We have to go through the city? Impossible!"
+#~ msgstr "わしらは都市を通り抜けるのか? そりゃ無理だ!"
 
-msgid "club"
-msgstr "クラブ"
+#~ msgid "Elense Vanguard Rider"
+#~ msgstr "Elense 前衛 騎士"
+
+#~ msgid "Dusk"
+#~ msgstr "夕闇"
 
 #, fuzzy
-msgid ""
-"I agree.  However, I must stay here and prepare to defend Delwyn and Dallben "
-"so it's up to you to travel to Elensefar and talk to him."
-msgstr ""
-"わしは同意だ。 わしはここに滞在し、 Delwyn と Dallben を防御の準備を…、しか"
-"し 見よ!ここに居るのはわしらだけではない。 その臭いはそれらが世に出て以来、長"
-"い間 漂っている… saurian 達の接近だ"
+#~ msgid ""
+#~ "Look there... the canyon valley lies in perpetual darkness... a sign of "
+#~ "true evil."
+#~ msgstr ""
+#~ "見てください…  canyon 谷は絶え間ない暗黒の世界です… まさに邪悪な兆候。"
+
+#~ msgid ""
+#~ "There are some bones here.  There appears to be something among them."
+#~ msgstr ""
+#~ "いくつかの骨がここにあります。 何かがそれらの中にあるように見えます。 "
+
+#~ msgid "leadership"
+#~ msgstr "リーダーシップ"
+
+#~ msgid "blade"
+#~ msgstr "ブレード"
+
+#, fuzzy
+#~ msgid "fire"
+#~ msgstr "貫通"
+
+#~ msgid "marksman"
+#~ msgstr "狙撃兵"
+
+#~ msgid "impact"
+#~ msgstr "衝撃"
+
+#~ msgid "cold"
+#~ msgstr "冷気"
+
+#~ msgid "Night Patrolman"
+#~ msgstr "夜間 巡視兵"
+
+#, fuzzy
+#~ msgid "female^Night Patroller"
+#~ msgstr "女性夜間巡視兵"
+
+#~ msgid "club"
+#~ msgstr "クラブ"
+
+#, fuzzy
+#~ msgid ""
+#~ "I agree.  However, I must stay here and prepare to defend Delwyn and "
+#~ "Dallben so it's up to you to travel to Elensefar and talk to him."
+#~ msgstr ""
+#~ "わしは同意だ。 わしはここに滞在し、 Delwyn と Dallben を防御の準備を…、し"
+#~ "かし 見よ!ここに居るのはわしらだけではない。 その臭いはそれらが世に出て以"
+#~ "来、長い間 漂っている… saurian 達の接近だ"
 
 #, fuzzy
 #~ msgid "Who is that?"

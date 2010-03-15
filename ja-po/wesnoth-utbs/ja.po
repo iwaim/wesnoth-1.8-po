@@ -5,7 +5,7 @@
 # BlueStar, 2006.
 # Nobuhito Okada <okyada@gmail.com>, 2006.
 # Takanobu Hirai <airhead@users.sourceforge.jp>, 2008.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"

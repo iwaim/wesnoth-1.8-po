@@ -573,7 +573,12 @@ msgid ""
 "and body are one; even their thick helms and the thick skulls beneath them "
 "are weapons. A Thrasher will gladly fulfill his caste duties, as long as it "
 "can be done on the battlefield."
-msgstr "鎧に自分自身を拘束させる代わりにThrashersは彼らの体の勢いを補うために重さを向け直すことを学び、彼らの短い槍と手に着けた爪の一撃に力を加えます。装備と体は別個のものですが、それらを一体として扱えるのです。厚手の兜と彼らに似合わないずんぐりした頭蓋でさえ武器となります。Thrasherは喜んで自分の階級の職務を果たします。それが戦場で片付けられる限りは。"
+msgstr ""
+"鎧に自分自身を拘束させる代わりにThrashersは彼らの体の勢いを補うために重さを向"
+"け直すことを学び、彼らの短い槍と手に着けた爪の一撃に力を加えます。装備と体は"
+"別個のものですが、それらを一体として扱えるのです。厚手の兜と彼らに似合わない"
+"ずんぐりした頭蓋でさえ武器となります。Thrasherは喜んで自分の階級の職務を果た"
+"します。それが戦場で片付けられる限りは。"
 
 #. [unit_type]: id=Drake Warden, race=drake
 #: data/core/units/drakes/Warden.cfg:4
@@ -590,7 +595,13 @@ msgid ""
 "for their role in drake society, it is far from ceremonial. Their cumbersome "
 "bronze plate is the strongest work from the Drake forges, and their halberds "
 "can cleave a human in half."
-msgstr "長官は粉砕者階級の残りとは二つの点で隔てられています。彼らのドラゴンの祖先を元にした華美な兜と、職務を報告する前に、彼らの装甲された翼を明るく彩られた布で飾る気遣いです。この装飾の様式は、彼らがドレーク社会での役割に感じる誇りから生じたものではありますが、儀礼的なお飾りではありません。彼らの厄介な青銅の鎧はドレークの鍛冶場の最強の作品であり、彼らのハルバードは人間を真っ二つに裂けます。"
+msgstr ""
+"長官は粉砕者階級の残りとは二つの点で隔てられています。彼らのドラゴンの祖先を"
+"元にした華美な兜と、職務を報告する前に、彼らの装甲された翼を明るく彩られた布"
+"で飾る気遣いです。この装飾の様式は、彼らがドレーク社会での役割に感じる誇りか"
+"ら生じたものではありますが、儀礼的なお飾りではありません。彼らの厄介な青銅の"
+"鎧はドレークの鍛冶場の最強の作品であり、彼らのハルバードは人間を真っ二つに裂"
+"けます。"
 
 #. [unit_type]: id=Drake Warrior, race=drake
 #: data/core/units/drakes/Warrior.cfg:4
@@ -698,7 +709,12 @@ msgid ""
 "is less than some other dwarves, they are unmatched with throwing axes, "
 "having practiced this skill hunting in the mountains. Their maneuverability "
 "makes them dangerous and tricky foes."
-msgstr "Dwarvish Explorersは並ぶ者のない生存者です。携帯している装備のみで、彼らは新しい鉱石の層や堆積した鉱床を探して、数ヶ月間森や山脈の周辺を歩き回ることができます。そのため彼らの格闘能力は他のドワーフに劣りますが、山では狩猟に使用していたので、他のドワーフは斧投げではかないません。彼らはその機動性により危険で油断のならない敵となります。"
+msgstr ""
+"Dwarvish Explorersは並ぶ者のない生存者です。携帯している装備のみで、彼らは新"
+"しい鉱石の層や堆積した鉱床を探して、数ヶ月間森や山脈の周辺を歩き回ることがで"
+"きます。そのため彼らの格闘能力は他のドワーフに劣りますが、山では狩猟に使用し"
+"ていたので、他のドワーフは斧投げではかないません。彼らはその機動性により危険"
+"で油断のならない敵となります。"
 
 #. [attack]: type=blade
 #: data/core/units/dwarves/Explorer.cfg:42 data/core/units/dwarves/Lord.cfg:52

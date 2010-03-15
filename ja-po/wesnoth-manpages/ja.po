@@ -1474,43 +1474,44 @@ msgid "B<wesnoth>(6), B<wesnoth_editor>(6)"
 msgstr "B<wesnoth>(6), B<wesnoth_editor>(6)"
 
 # type: TP
-msgid ""
-"Example to test your own AI against the default AI without starting the GUI:"
-msgstr ""
-"あなた自身の AI を GUI を表示させることなくデフォルトの AI と対戦させるための"
-"例:"
+#~ msgid ""
+#~ "Example to test your own AI against the default AI without starting the "
+#~ "GUI:"
+#~ msgstr ""
+#~ "あなた自身の AI を GUI を表示させることなくデフォルトの AI と対戦させるた"
+#~ "めの例:"
 
 # type: Plain text
-msgid ""
-"B<wesnoth --nogui --multiplayer --controller1=ai --controller2=ai --"
-"algorithm2=python_ai --parm2=python_script:py/my_own_python_ai.py>"
-msgstr ""
-"B<wesnoth --nogui --multiplayer --controller1=ai --controller2=ai --"
-"algorithm2=python_ai --parm2=python_script:py/my_own_python_ai.py>"
+#~ msgid ""
+#~ "B<wesnoth --nogui --multiplayer --controller1=ai --controller2=ai --"
+#~ "algorithm2=python_ai --parm2=python_script:py/my_own_python_ai.py>"
+#~ msgstr ""
+#~ "B<wesnoth --nogui --multiplayer --controller1=ai --controller2=ai --"
+#~ "algorithm2=python_ai --parm2=python_script:py/my_own_python_ai.py>"
 
 # type: Plain text
-msgid ""
-"compresses a savefile (I<infile>)  that is in text WML format into binary "
-"WML format (I<outfile>)."
-msgstr ""
-"テキストWML形式のセーブファイル(I<infile>)をバイナリWML形式(I<outfile>)に圧縮"
-"する。"
+#~ msgid ""
+#~ "compresses a savefile (I<infile>)  that is in text WML format into binary "
+#~ "WML format (I<outfile>)."
+#~ msgstr ""
+#~ "テキストWML形式のセーブファイル(I<infile>)をバイナリWML形式(I<outfile>)に"
+#~ "圧縮する。"
 
 # type: Plain text
-msgid ""
-"decompresses a savefile (I<infile>)  that is in binary WML format into text "
-"WML format (I<outfile>)."
-msgstr ""
-"バイナリWML形式のセーブファイル(I<infile>)をテキストWML形式(I<outfile>)に展開"
-"する。"
+#~ msgid ""
+#~ "decompresses a savefile (I<infile>)  that is in binary WML format into "
+#~ "text WML format (I<outfile>)."
+#~ msgstr ""
+#~ "バイナリWML形式のセーブファイル(I<infile>)をテキストWML形式(I<outfile>)に"
+#~ "展開する。"
 
 # type: Plain text
-msgid "loads the file savegame from the standard save game directory."
-msgstr "ファイル savegame を標準のセーブゲームディレクトリから読み込む。"
+#~ msgid "loads the file savegame from the standard save game directory."
+#~ msgstr "ファイル savegame を標準のセーブゲームディレクトリから読み込む。"
 
 # type: Plain text
-msgid "selects the data directory to use."
-msgstr "使用するデータディレクトリを選択する。"
+#~ msgid "selects the data directory to use."
+#~ msgstr "使用するデータディレクトリを選択する。"
 
 # type: TP
 #, fuzzy

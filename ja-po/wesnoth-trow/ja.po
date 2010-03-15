@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Automatically generated, 2005.
 # Takanobu Hirai <airhead@users.sourceforge.jp>, 2006.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
