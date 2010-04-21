@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-03-08 14:58+0100\n"
-"PO-Revision-Date: 2010-03-14 15:48+0900\n"
+"POT-Creation-Date: 2010-03-26 15:39+0100\n"
+"PO-Revision-Date: 2010-03-30 00:12+0900\n"
 "Last-Translator: \n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -48,7 +48,7 @@ msgstr ""
 #: data/core/units/goblins/Knight.cfg:48
 #: data/core/units/goblins/Pillager.cfg:47
 #: data/core/units/goblins/Wolf_Rider.cfg:64
-#: data/core/units/monsters/Cave_Spider.cfg:37
+#: data/core/units/monsters/Cave_Spider.cfg:25
 #: data/core/units/monsters/Sea_Serpent.cfg:27
 #: data/core/units/monsters/Water_Serpent.cfg:43
 #: data/core/units/monsters/Wolf.cfg:50
@@ -682,8 +682,8 @@ msgstr ""
 #: data/core/units/humans/Woodsman_Huntsman.cfg:51
 #: data/core/units/humans/Woodsman_Poacher.cfg:48
 #: data/core/units/humans/Woodsman_Trapper.cfg:82
-#: data/core/units/orcs/Archer.cfg:26 data/core/units/orcs/Assassin.cfg:26
-#: data/core/units/orcs/Slayer.cfg:27
+#: data/core/units/orcs/Archer.cfg:26 data/core/units/orcs/Assassin.cfg:40
+#: data/core/units/orcs/Slayer.cfg:39
 #: data/core/units/undead/Skele_Banebow.cfg:31
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:29
 msgid "dagger"
@@ -1068,7 +1068,7 @@ msgstr "剣"
 #: data/core/units/humans/Woodsman_Ranger.cfg:68
 #: data/core/units/humans/Woodsman_Trapper.cfg:91
 #: data/core/units/orcs/Archer.cfg:35 data/core/units/orcs/Archer.cfg:44
-#: data/core/units/orcs/Warlord.cfg:34
+#: data/core/units/orcs/Warlord.cfg:46
 #: data/core/units/undead/Skele_Banebow.cfg:40
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:38
 #: data/core/units/undead/Skeleton_Archer.cfg:41
@@ -1188,7 +1188,7 @@ msgstr ""
 #: data/core/units/saurians/Augur.cfg:78
 #: data/core/units/saurians/Oracle.cfg:78
 #: data/core/units/saurians/Soothsayer.cfg:78
-#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:98
+#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:99
 msgid "staff"
 msgstr "杖"
 
@@ -3297,7 +3297,7 @@ msgid ""
 "seen adaptation for warfare, and are valuable enough that auxilliaries who "
 "specialize in using them are deliberately brought to battle.\n"
 "\n"
-"    Mermen often find themselves in a standoff with land-based enemies; the "
+"Mermen often find themselves in a standoff with land-based enemies; the "
 "merfolk are too strong in the water, and are too weak to make any offense on "
 "land. Nets are a key bit of leverage; without nets, mermen can't give any "
 "effective chase over land, and are at a great disadvantage in hand-to-hand "
@@ -3308,10 +3308,10 @@ msgstr ""
 "のに特化した補助者を慎重に戦闘に連れ出すのに十分な価値があると見られまし"
 "た。\n"
 "\n"
-"    マーマンはしばしば陸上の敵から離れていると気付きます。マーマンは水の中で"
-"は強すぎて、陸上で何らかの攻撃をするには弱すぎるのです。網はてこの鍵となる一"
-"部です。網なしではマーマンは陸を越えて有効な追跡ができず、これは近接戦闘では"
-"非常に不利な点となります。"
+"マーマンはしばしば陸上の敵から離れていると気付きます。マーマンは水の中では強"
+"すぎて、陸上で何らかの攻撃をするには弱すぎるのです。網はてこの鍵となる一部で"
+"す。網なしではマーマンは陸を越えて有効な追跡ができず、これは近接戦闘では非常"
+"に不利な点となります。"
 
 #. [unit_type]: id=Merman Fighter, race=merman
 #: data/core/units/merfolk/Fighter.cfg:4
@@ -3416,23 +3416,23 @@ msgid ""
 "The improvisation of using these against soldiers proved very effective; "
 "most land-native creatures are already quite awkward when waist-deep in "
 "water, and getting caught in a net can render them nearly helpless.\n"
-"    \n"
-"    The effectiveness of this method led to the development of smaller, "
-"weighted nets, which could be cast through the air; these were useless for "
-"fishing, but were useful in both combat, and in hunting game that came too "
-"close to shore. Clubs were used in combat with little or no adaptation from "
-"fishing, since they were already quite deadly."
+"\n"
+"The effectiveness of this method led to the development of smaller, weighted "
+"nets, which could be cast through the air; these were useless for fishing, "
+"but were useful in both combat, and in hunting game that came too close to "
+"shore. Clubs were used in combat with little or no adaptation from fishing, "
+"since they were already quite deadly."
 msgstr ""
 "マーマンによって営まれる漁業は、たいていは魚の群れを待ち伏せの網に追い込み、"
 "そこでオールのような棍棒を使うというものです。これらを兵士に対して即興的に使"
 "うのは、とても効果的であることが判っています。大部分の陸地の生物は水に腰の深"
 "さまで浸かるだけでも非常に不便なので、網に捕まるとほとんどどうしようもありま"
 "せん。\n"
-"    \n"
-"    この手法が有効だったので、空中に投げられるような、より小さくて重い網の発"
-"展に繋がりました。これらは漁には使えませんが、戦闘と岸の近くまで来たときの狩"
-"猟の両方で有用です。戦闘で使われる棍棒は漁用からほとんどあるいはまったく改良"
-"されていません。それらは既にかなり致命的だったからです。"
+"\n"
+"この手法が有効だったので、空中に投げられるような、より小さくて重い網の発展に"
+"繋がりました。これらは漁には使えませんが、戦闘と岸の近くまで来たときの狩猟の"
+"両方で有用です。戦闘で使われる棍棒は漁用からほとんどあるいはまったく改良され"
+"ていません。それらは既にかなり致命的だったからです。"
 
 #. [unit_type]: id=Mermaid Priestess, race=merman
 #: data/core/units/merfolk/Priestess.cfg:4
@@ -3554,7 +3554,7 @@ msgstr ""
 "こともできます。"
 
 #. [attack]: type=impact
-#: data/core/units/monsters/Cave_Spider.cfg:49
+#: data/core/units/monsters/Cave_Spider.cfg:37
 msgid "web"
 msgstr "蜘蛛の巣"
 
@@ -3576,13 +3576,13 @@ msgstr ""
 "とです。"
 
 #. [attack]: type=impact
-#: data/core/units/monsters/Cuttle_Fish.cfg:35
+#: data/core/units/monsters/Cuttle_Fish.cfg:49
 #: data/core/units/monsters/Tentacle.cfg:62
 msgid "tentacle"
 msgstr "触手"
 
 #. [attack]: type=pierce
-#: data/core/units/monsters/Cuttle_Fish.cfg:46
+#: data/core/units/monsters/Cuttle_Fish.cfg:60
 msgid "ink"
 msgstr "墨"
 
@@ -3972,7 +3972,7 @@ msgstr ""
 "な助けとなります。"
 
 #. [attack]: type=blade
-#: data/core/units/orcs/Assassin.cfg:35 data/core/units/orcs/Slayer.cfg:36
+#: data/core/units/orcs/Assassin.cfg:49 data/core/units/orcs/Slayer.cfg:48
 msgid "throwing knives"
 msgstr "投げナイフ"
 
@@ -4049,7 +4049,7 @@ msgstr ""
 
 #. [attack]: type=blade
 #: data/core/units/orcs/Ruler.cfg:27 data/core/units/orcs/Sovereign.cfg:28
-#: data/core/units/orcs/Warlord.cfg:25 data/core/units/orcs/Warrior.cfg:35
+#: data/core/units/orcs/Warlord.cfg:37 data/core/units/orcs/Warrior.cfg:35
 msgid "greatsword"
 msgstr "大剣"
 
@@ -4539,7 +4539,7 @@ msgstr "冷気の大嵐"
 #. [attack]: type=arcane
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:72
 #: data/core/units/undead/Necro_Dark_Adept.cfg:55
-#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:119
+#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:120
 #: data/core/units/undead/Necro_Lich.cfg:72
 #: data/core/units/undead/Necromancer.cfg:63
 msgid "shadow wave"
@@ -4575,7 +4575,7 @@ msgstr ""
 
 #. [attack]: type=cold
 #: data/core/units/undead/Necro_Dark_Adept.cfg:43
-#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:107
+#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:108
 #: data/core/units/undead/Necromancer.cfg:51
 msgid "chill wave"
 msgstr "冷気の嵐"
@@ -4623,12 +4623,12 @@ msgstr ""
 "のほんのわずかな渇望ですら誘うものです。"
 
 #. [female]
-#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:250
+#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:251
 msgid "Dark Sorceress"
 msgstr "女黒魔術師"
 
 #. [female]
-#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:256
+#: data/core/units/undead/Necro_Dark_Sorcerer.cfg:257
 msgid ""
 "The dread inspired by black magic comes chiefly from how little is known "
 "about it by the common man. Dark sorceresses have begun to unlock the "

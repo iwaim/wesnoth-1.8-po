@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-02-25 00:07+0100\n"
-"PO-Revision-Date: 2010-03-14 16:25+0900\n"
+"POT-Creation-Date: 2010-03-26 15:39+0100\n"
+"PO-Revision-Date: 2010-04-18 13:31+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,47 +16,52 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:11
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:12
 msgid "Descent Into Darkness"
 msgstr "暗黒への堕落"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:12
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:13
 msgid "DID"
 msgstr "DID"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:16
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:17
 msgid "(Normal)"
 msgstr "（普通）"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:16
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:17
 msgid "Neophyte"
 msgstr "初心者"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:17
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:18
 msgid "(Challenging)"
 msgstr "（挑戦的）"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:17
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:18
 msgid "Evoker"
 msgstr "エボーカー"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:18
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:19
 msgid "(Difficult)"
 msgstr "（難しい）"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:18
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:19
 msgid "Summoner"
 msgstr "サモナー"
 
 #. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:21
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:22
+msgid "(Intermediate level, 11 scenarios.)"
+msgstr "（中級者向け、11シナリオ）"
+
+#. [campaign]: id=Descent_Into_Darkness
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:22
 msgid ""
 "Learn the dark arts of necromancy in order to save your people from an "
 "orcish incursion.\n"
@@ -65,29 +70,24 @@ msgstr ""
 "オークの侵略から町を守る為に闇の魔術を学ぶのだ。\n"
 "\n"
 
-#. [campaign]: id=Descent_Into_Darkness
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:22
-msgid "(Intermediate level, 11 scenarios.)\n"
-msgstr "（中級者レベル、11個のシナリオ）\n"
-
 #. [about]
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:26
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:25
 msgid "Campaign Design"
 msgstr "キャンペーンデザイン"
 
 #. [about]
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:32
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:31
 msgid "Campaign Maintenance"
 msgstr "キャンペーンメンテナンス"
 
 #. [about]
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:41
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:40
 msgid "Artwork and Graphics Design"
 msgstr "アートワークとグラフィックスデザイン"
 
 #. [scenario]: id=Descent_into_Darkness, id=Mal Keshar
 #. [editor_group]: id=did
-#: data/campaigns/Descent_Into_Darkness/_main.cfg:75
+#: data/campaigns/Descent_Into_Darkness/_main.cfg:78
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:6
 msgid "Descent into Darkness"
 msgstr "暗黒への堕落"
@@ -1587,7 +1587,7 @@ msgstr "この門も数時間もすれば開けられるだろう。急がなけ
 msgid ""
 "I feel the breaking of an illusion spell. The book must be in the great "
 "hall, in the northwest corner of the manor. Let us move quickly now!"
-msgstr "幻術が破られたようだ。本は北東の角の大広間にあるはずだ、急ぐぞ！"
+msgstr "幻術が破られたようだ。本は北西の角の大広間にあるはずだ、急ぐぞ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:407
@@ -2198,8 +2198,8 @@ msgid ""
 "Rumors circulate of a lich that preys on scouting patrols. A hero, gathering "
 "his loyal troops to him, decides to put an end to the evil."
 msgstr ""
-"巡視隊を壊滅させた立地の噂は広まり、勇気ある者は従う者をあつめ、悪を終わらせ"
-"ようとしました。"
+"巡視隊を壊滅させたりリッチの噂は広まり、勇気ある者は従う者をあつめ、悪を終わ"
+"らせようとしました。"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:72
@@ -2469,7 +2469,7 @@ msgstr ""
 
 #. [attack]: type=blade
 #: data/campaigns/Descent_Into_Darkness/units/ghast.cfg:39
-#: data/campaigns/Descent_Into_Darkness/units/giant-rat.cfg:23
+#: data/campaigns/Descent_Into_Darkness/units/giant-rat.cfg:37
 msgid "bite"
 msgstr "噛みつき"
 

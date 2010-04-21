@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-03-08 14:58+0100\n"
-"PO-Revision-Date: 2009-11-25 23:14+0900\n"
+"POT-Creation-Date: 2010-04-20 11:32+0200\n"
+"PO-Revision-Date: 2010-04-20 06:29+0900\n"
 "Last-Translator: \n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -21,54 +21,59 @@ msgstr ""
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:14
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:152
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:15
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:151
 msgid "Under the Burning Suns"
 msgstr "燃える太陽の下で"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:15
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:16
 msgid "UtBS"
 msgstr "UtBS"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:20
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:21
 msgid "(Normal)"
 msgstr "（普通）"
 
 #. [unit_type]: id=Desert Hunter, race=elf
 #. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:20
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:21
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Hunter.cfg:5
 msgid "Desert Hunter"
 msgstr "砂漠のハンター"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:21
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:22
 msgid "(Challenging)"
 msgstr "（挑戦的）"
 
 #. [unit_type]: id=Desert Sentinel, race=elf
 #. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:21
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:22
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:4
 msgid "Desert Sentinel"
 msgstr "砂漠の哨兵"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:22
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:23
 msgid "(Nightmare)"
 msgstr "（悪夢）"
 
 #. [unit_type]: id=Desert Prowler, race=elf
 #. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:22
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:23
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Prowler.cfg:4
 msgid "Desert Prowler"
 msgstr "砂漠の徘徊者"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:26
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:27
+msgid "(Expert level, 11 scenarios.)"
+msgstr ""
+
+#. [campaign]: id=Under_the_Burning_Suns
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:27
 #, fuzzy
 msgid ""
 "In the distant future a small band of elves struggles to survive amidst the "
@@ -80,33 +85,28 @@ msgstr ""
 "郷にたどり着くために雄大な砂漠の中であなたの部下を指揮するのだ。\n"
 "(Expert level, 11 scenarios, some under reconstruction)\n"
 
-#. [campaign]: id=Under_the_Burning_Suns
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:27
-msgid "(Expert level, 11 scenarios.)\n"
-msgstr ""
-
 #. [about]
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:32
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:31
 msgid "Campaign Design"
 msgstr "Campaign Design"
 
 #. [about]
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:41
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:40
 msgid "Campaign Maintenance"
 msgstr "Campaign Maintenance"
 
 #. [about]
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:59
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:58
 msgid "Artwork and Graphics Design"
 msgstr "Artwork and Graphics Design"
 
 #. [about]
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:105
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:104
 msgid "Miscellaneous"
 msgstr "Miscellaneous"
 
 #. [entry]
-#: data/campaigns/Under_the_Burning_Suns/_main.cfg:119
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:118
 msgid "And special thanks to everyone else who I forgot to mention."
 msgstr "And special thanks to everyone else who I forgot to mention."
 
@@ -1932,7 +1932,7 @@ msgstr "闇夜の動揺（開発ブランチ）"
 msgid "Azkotep"
 msgstr "Azkotep"
 
-#. [side]: id=Ystara, type=Spectre
+#. [side]: id=Ystara, type=Death Knight
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:103
 msgid "Ystara"
 msgstr "Ystara"
@@ -9629,8 +9629,8 @@ msgid ""
 "Trees look big and strong, like trolls. Dark, too. $intl_ally_name tired of "
 "walking under hot sun."
 msgstr ""
-"-木々、大きくて強そう、トロルみたいだ。暗いのも、いい。$ally_name 、熱い陽射"
-"しの下、歩くの疲れた。"
+"-木々、大きくて強そう、トロルみたいだ。暗いのも、いい。$intl_ally_name 、熱い"
+"陽射しの下、歩くの疲れた。"
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:600
@@ -10143,9 +10143,9 @@ msgid ""
 "still follow your command. But other elves must be out on a separate island. "
 "How will we cross deep water?"
 msgstr ""
-"-偉大なリーダー $ally_name に言った、あなたに仕えよと。$ally_name は、まだあ"
-"なたの命令に従う。でも、向こうのエルフ達、離れ島に居る。どうやって深い水、渡"
-"る？"
+"-偉大なリーダー $intl_ally_name に言った、あなたに仕えよと。$intl_ally_name "
+"は、まだあなたの命令に従う。でも、向こうのエルフ達、離れ島に居る。どうやって"
+"深い水、渡る？"
 
 #. [message]: role=merfolk
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:980
@@ -14541,7 +14541,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Shyde.cfg:38
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Star.cfg:46
 msgid "SPECIAL_NOTE^ This unit can fly across any terrain except deep water."
-msgstr "SPECIAL_NOTE^-深海以外の地形で飛行可能"
+msgstr "-深海以外の地形で飛行可能"
 
 #. [attack]: type=impact
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Shyde.cfg:44
@@ -14570,7 +14570,7 @@ msgstr ""
 #. [unit_type]: id=Desert Star, race=elf
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Star.cfg:46
 msgid "SPECIAL_NOTE^ It also gains a 10% bonus to resistance from all attacks."
-msgstr "SPECIAL_NOTE^-全ての攻撃に対する耐性10%向上"
+msgstr "-全ての攻撃に対する耐性10%向上"
 
 #. [unit_type]: id=Divine Avatar, race=elf
 #: data/campaigns/Under_the_Burning_Suns/units/Divine_Avatar.cfg:4
