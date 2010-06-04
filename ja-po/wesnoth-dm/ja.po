@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-31 18:29+0200\n"
-"PO-Revision-Date: 2010-06-05 00:54+0900\n"
+"PO-Revision-Date: 2010-06-05 04:19+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -4414,9 +4414,8 @@ msgid ""
 "most valued advisor."
 msgstr ""
 "同盟の勝利と平和条約の後には、一世代持続した平穏の期間になりました。 新しい王"
-"はAbez の浅瀬の戦闘でDelfador を信頼することを学んでいました。 そして "
-"Delfador が Garard ２世の最も貴重な顧問になったことは驚くことではありませんで"
-"した。"
+"はAbez の浅瀬の戦闘でDelfador に信頼をおくようになっていました。 Delfador が "
+"Garard 2世の最も重要な顧問になったことも驚くことではありませんでした。"
 
 # %c　And
 #. [part]
@@ -4425,8 +4424,8 @@ msgid ""
 "The elves knew that with Delfador close to the King, Wesnoth would be a "
 "reliable ally. And it was for a while."
 msgstr ""
-"エルフ族は、Delfadorが王の傍にいることを知りました。Wesnoth は信頼できる同盟"
-"者でしょう。 しばらくの間は。"
+"エルフ族は、Delfadorが王の傍にいることを知っていたため、Wesnoth は信頼できる"
+"同盟者であると考えていました。 そう、しばらくの間は。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:31
@@ -4434,8 +4433,8 @@ msgid ""
 "But Delfador was not alone in having the King's ear; there was one yet "
 "closer to him. The Queen's power was rising..."
 msgstr ""
-"けれども Delfador は王が傾聴するただ１人の人物ではありませんでした。更に王に"
-"近い人物がいたのです。 女王の力が増大していました……。"
+"けれども Delfador は王が傾聴するただ1人の人物ではありませんでした。更に王に近"
+"い人物がいたのです。 その女王の力が増大していました……。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:37
@@ -4469,8 +4468,8 @@ msgid ""
 "will confirm the treaty between us."
 msgstr ""
 "Wesnoth の将軍へ。あなた方は無防備なエルフの国を攻撃しました。 あなた方は即座"
-"に撤退しなくてはなりません。 私はKalenz。エルフの高級貴族です。 偉大なる"
-"Delfador が我々との条約を確認するでしょう。"
+"に撤退しなくてはなりません。 我が名はKalenz。エルフの高級貴族です。 偉大なる"
+"Delfador に我々との条約を確認してください。"
 
 #. [message]: id=Eldred
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:137
@@ -4489,8 +4488,8 @@ msgid ""
 "I did not want to spill human blood, but this arrogant prince leaves me no "
 "other choice."
 msgstr ""
-"私は人間族の血を流すことを望まないが、この傲慢な王子は私に他に選択を与えな"
-"い。"
+"私は人間族の血を流すことを望まないが、この傲慢な王子に対しては選択の余地はな"
+"いようだ。"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:170
@@ -4501,11 +4500,11 @@ msgid ""
 "offers his deepest apologies for these events and promises to do anything in "
 "his power to make amends."
 msgstr ""
-"ピース！ 友よ！ 私はこの狂気を防ごうと何日間も休みなしに馬に乗ってきました！ "
-"Eldred 、私は宮殿にあなたを連れ戻れと王から直接命令を受けています。宮殿ではあ"
-"なたの許されざる行動に対して叱責されるでしょう。Kalenz 、王はこれらの出来事の"
-"ために最も深く謝罪をします。そして償いをする為、何でも彼の最大限の力ですると"
-"いう約束をします。"
+"和平を！ 友よ！ 私はこの狂気を防ごうと何日間も休みなしに馬に乗ってきました！ "
+"Eldred、私は宮殿にあなたを連れ戻れと王から直接命令を受けています。宮殿ではあ"
+"なたの許されざる行動に対して叱責されるでしょう。Kalenzよ、王はこれらの出来事"
+"のために最も深く謝罪をします。そしてこの償いの為に、何でも力の限り協力すると"
+"約束します。"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:174
@@ -4514,9 +4513,9 @@ msgid ""
 "believe he should be very careful, for he does not seem to be the only ruler "
 "in Wesnoth!"
 msgstr ""
-"Delfador！ あなたに会えて嬉しい。 我々は王に対して何も要求しない。だが彼は非"
-"常に注意深くあるべきだと思っている。なぜなら彼は、 Wesnoth において唯一の支配"
-"者であるようには思えないのだ！"
+"Delfador！ あなたに会えて嬉しい。 我々は王に対して何も要求しない。だが、王は"
+"非常に注意深くあるべきだと思っている。なぜなら彼は、 Wesnoth において唯一の支"
+"配者であるようには思えないのだ！"
 
 # 影　か　雲　→　別シナリオのタイトル　で暗雲　にしたので雲で
 #. [message]: id=Chantal
@@ -4537,10 +4536,9 @@ msgid ""
 "soul. Delfador, has anyone but you opened its covers since you got it from "
 "us?"
 msgstr ""
-"私は Crelanu の本がこの背後にないのかと思う。 本はそれだけでは邪悪ではない。"
-"だがそれが与える力は読み手の魂の中の邪悪を拡大する傾向にある。 Delfador 、あ"
-"なたが本を手に入れてから、誰かあなた以外の者がその表紙を開けなかっただろう"
-"か？"
+"もしかしたら Crelanu の本の影響なのかも知れない。 本はそれだけでは邪悪ではな"
+"い。だがそれが与える力は読み手の魂の中の邪悪を拡大してしまう。 Delfador 、あ"
+"なたが本を手に入れてから、あなた以外の誰かがその表紙を開けなかっただろうか？"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:186
@@ -4550,10 +4548,10 @@ msgid ""
 "ceased all such talk when I did not respond, and I thought it merely the "
 "momentary whim of a proud and willful woman."
 msgstr ""
-"Garard の王妃と Eldred の母親であるAsheviereは、数カ月前に私が彼女の魔法を教"
-"えるべきであるとほのめかしているように思えた。 私が返答しなかった時、彼女はそ"
-"のような話をすべて終わらせた。私はそれをただ高慢で強情な女性の一時的な気まぐ"
-"れに過ぎないと思った。"
+"わからない。だが……数カ月前、Garard の王妃であり Eldred の母親であるAsheviere"
+"は、私に対して、彼女に魔法を教えるべきであるとほのめかしていた。 私が返答しな"
+"かった為、彼女はその話を打ち切った。私はそれをただ高慢で強情な女性の一時的な"
+"気まぐれに過ぎないと思っていたのだが。"
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:190
@@ -4568,7 +4566,7 @@ msgid ""
 "under me to do it."
 msgstr ""
 "そうかもしれない。 それを考えると私が宮殿に戻るのが一番良いと思う。ここに来た"
-"ときよりも速く。その為に私の下で３頭の馬が死ぬことになろうとも。"
+"ときよりも速く。たとえ、その為に3頭の馬を乗りつぶしたとしても。"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:207
