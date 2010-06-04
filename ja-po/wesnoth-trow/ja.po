@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Automatically generated, 2005.
 # Takanobu Hirai <airhead@users.sourceforge.jp>, 2006.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-24 17:53+0200\n"
-"PO-Revision-Date: 2006-08-31 21:52+0900\n"
-"Last-Translator: Takanobu Hirai <airhead@users.sourceforge.jp>\n"
+"PO-Revision-Date: 2010-06-01 20:41+0900\n"
+"Last-Translator: # IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -142,9 +143,8 @@ msgstr "王子 Haldric"
 
 #. [side]: type=Noble Youth, type=Noble Fighter, id=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:32
-#, fuzzy
 msgid "Haldric"
-msgstr "Haldric。"
+msgstr "Haldric"
 
 # #unit
 #. [side]: type=Wesfolk Outcast, id=Wesfolk Leader
@@ -511,9 +511,8 @@ msgstr ""
 # #unit
 #. [event]: (id=Wesfolk Leader) experience $wesfolk_leader_store.experience}
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:150
-#, fuzzy
 msgid "Tromas"
-msgstr "Tirasch"
+msgstr "Tromas"
 
 # #cond
 #. [objective]: condition=lose
@@ -676,7 +675,6 @@ msgstr ""
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:398
-#, fuzzy
 msgid "But, Father!"
 msgstr "しかし父上！"
 
@@ -1145,9 +1143,8 @@ msgstr "気をつけろ、何が潜んでいるかわからないぞ！"
 # #unit
 #. [unit]: type=White Mage, id=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_River_Road.cfg:245
-#, fuzzy
 msgid "Minister Edren"
-msgstr "Edmond 牧師"
+msgstr "Edren 牧師"
 
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_River_Road.cfg:258
@@ -1900,9 +1897,8 @@ msgstr "リッチ君主を倒す なおかつ"
 # #cond
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_of_the_Deep.cfg:115
-#, fuzzy
 msgid "Retrieve the Fire Ruby (with Prince Haldric)"
-msgstr "炎のルビーを手に入れる"
+msgstr "(Haldric 王子が) 炎のルビーを手に入れる"
 
 # # 「With a feeling of grim curiosity」でごまかし訳。
 # # 「怖いもの見たさ」というのもちょっと違うような気がする。
@@ -2046,9 +2042,8 @@ msgstr "Surprisingly-Treelike"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:37
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:47
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:58
-#, fuzzy
 msgid "Treefolk"
-msgstr "Wesfolk"
+msgstr "Treefolk"
 
 # #unit
 #. [side]: type=Wose, id=Theylook-Thesame-Toyou
@@ -2296,9 +2291,8 @@ msgstr "あっそう、じゃ好きにすれば！"
 # #unit
 #. [unit]: id=Lady Jessene, type=$lady_store.type
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:256
-#, fuzzy
 msgid "Lady Jessene"
-msgstr "Lady Jessica"
+msgstr "Lady Jessene"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:287
@@ -2455,9 +2449,8 @@ msgstr "英雄：すべての敵リーダーを倒す"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:462
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:200
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_Rise_of_Wesnoth.cfg:293
-#, fuzzy
 msgid "Death of Lady Jessene"
-msgstr "Lady Jessicaの死"
+msgstr "Lady Jessene の死"
 
 # #cond
 #. [objective]: condition=lose
