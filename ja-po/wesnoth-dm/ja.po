@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-31 18:29+0200\n"
-"PO-Revision-Date: 2010-06-04 20:29+0900\n"
+"PO-Revision-Date: 2010-06-05 00:54+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -3990,8 +3990,8 @@ msgid ""
 "and irresistible."
 msgstr ""
 "Delfador 、お前の腕前の程は分かった。お前に提案がある。私の仲間になれ。さすれ"
-"ば、私の右腕としてやろう。我々の魔法の技能が一緒になれば比類なき勢力となるは"
-"ずだ。"
+"ば、私の右腕として生かしてやろう。我々の魔法の技能が一緒になれば比類なき勢力"
+"となるはずだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_the_portal_of_doom.cfg:257
@@ -4200,8 +4200,8 @@ msgid ""
 "Oracles? What nonsense you babble...after you die, I will raise your corpse "
 "and compel you to tell me how to reopen my portal!"
 msgstr ""
-"賢人だと？ お前の戯言などくだらん。お前が死んだ後に死体を甦らせ、お前自身の手"
-"で再び門を開くように命じてやる！"
+"賢人だと？ くだらん戯言を……お前を殺し、その死体を甦らせてやろう。そして、お前"
+"から再び門を開ける方法を聞き出してやる！"
 
 # おかしい。Delfadorが止めを刺すはずなんだが
 #. [message]: speaker=Delfador
@@ -4573,7 +4573,7 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_prince_of_wesnoth.cfg:207
 msgid "We are too late! All is lost!"
-msgstr "遅すぎた！ 全てが無駄になってしまった！"
+msgstr "遅すぎた！ 全てが水の泡だ！"
 
 #. [scenario]: id=21_clash_at_the_manor
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:4
