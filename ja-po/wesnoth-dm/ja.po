@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-31 18:29+0200\n"
-"PO-Revision-Date: 2010-06-04 15:09+0900\n"
+"PO-Revision-Date: 2010-06-04 20:29+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -3820,7 +3820,7 @@ msgstr "私はDelfador。 灰燼と化せ！"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:183
 msgid "Now we shall rid Wesnoth of the rest of your unholy spawn!"
-msgstr "さあ我々はまだ残っている邪悪な種をWesnothから取り除くのだ！"
+msgstr "さあ、我々は未だ残る邪悪な種をWesnothから取り除くのだ！"
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_a_new_ally.cfg:187
