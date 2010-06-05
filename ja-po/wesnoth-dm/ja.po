@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: The Battle for Wesnoth 1.7.14+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-31 18:29+0200\n"
-"PO-Revision-Date: 2010-06-05 04:19+0900\n"
+"PO-Revision-Date: 2010-06-05 18:50+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -4591,8 +4591,8 @@ msgstr ""
 "Weldyn へ帰る途中、Delfadorは女王が家族の領地を訪問し、病気療養中の両親を見舞"
 "うために強力な護衛をつけて向かっていったのを見ました。王の最も信頼を寄せる将"
 "官Lionelは、Asheviere の要請で炎の笏を探索する任務のために Knalga に送られて"
-"いました。その任務はLionelの命を犠牲にするでしょう。そしてLionelと Delfador "
-"のいずれもLionelの任務が初めから危ういものだと知る由もありませんでした。"
+"いました。Lionelはその任務で命を落とすことになるのですが、Lionelも Delfadorも"
+"その任務が初めから危ういものだと知る由もありませんでした。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:29
@@ -4602,9 +4602,9 @@ msgid ""
 "Asheviere had flattered them and beguiled them with promises of glory and "
 "plunder in a coming war."
 msgstr ""
-"王はEldredの行動に対して叱責したものの、Delfador は軍の指揮官達が一様に "
-"Eldred と彼の母親の背後にいることに気づきました。 Asheviere は彼らにお世辞を"
-"言い、次の戦争においての名誉と略奪品の約束で彼らを騙していました。"
+"王は、Eldredの行動について彼のみを叱責しましたが、Delfador は王子と女王の背後"
+"に軍の指揮官達がいたことに気づいていました。Asheviere は彼らの機嫌を取り、次"
+"の戦争においての名誉と略奪品の約束で彼らを騙していました。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:33
@@ -4614,10 +4614,10 @@ msgid ""
 "Weldyn, and ordered Delfador to take no further action. And for once, "
 "Delfador knew he could not obey the King's order."
 msgstr ""
-"Delfador は王との謁見を認められ、本についての彼の懸念を表明しました。しかし"
-"Asheviere が Weldyn に戻るまで王は決断を延期しました。そして Delfador にそれ"
-"以上の行動を起こさないよう命じました。 そして一度だけ、 Delfador は王の命令に"
-"従うことができないと分かっていました。"
+"Delfador は王との謁見を認められ、本についての彼の懸念を表明しました。しかし、"
+"王は、Asheviere が Weldyn に戻るまで決断を延期しました。また、Delfador にそれ"
+"以上の行動を起こさないよう命じました。 しかし、Delfador は王のその命令に1度だ"
+"け背くことを心に決めていました。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:37
@@ -4626,8 +4626,8 @@ msgid ""
 "wishes, he turned to Kalenz and the elves. Traveling by night to remain "
 "unseen they reached Asheviere's family demesne."
 msgstr ""
-"彼の個人的な見張りにさえ王の願望に逆らうよう頼めなくなった時から、彼は "
-"Kalenz とエルフに頼りました。人目につかないままでいる為夜間に移動し、彼らは "
+"王の命令に背くためには Delfador 個人の警護も頼めなくなり、代わりに Kalenz と"
+"エルフ族を頼りにしていました。人目につかないように夜間に移動し、一行は "
 "Asheviere の家族の私有地にたどり着きました。"
 
 #. [side]: type=General, id=Pilafman
@@ -4651,8 +4651,9 @@ msgid ""
 "I am grieved to have to resort to this. Yet the book must be recovered at "
 "all costs and no one should be left alive."
 msgstr ""
-"私はこんな手段に訴えざるを得なくて、悲嘆に暮れる。それでも本はどんな犠牲を"
-"払っても取り戻さなくてはならない。 そして誰も生かしておくわけにはいかない。"
+"こんな手段に訴えざるを得なくなるとは、悲嘆に暮れてしまう。だが、それでも本を"
+"取り戻さねばならない。どんな犠牲を払っても、だ。 そして誰も生かしておくわけに"
+"はいかない。"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:128
@@ -4662,8 +4663,8 @@ msgid ""
 "be able to link this to you or the elves."
 msgstr ""
 "友よ、本の呪いは既にあなたの上に重くのしかかっている。けれども我々はたじろい"
-"ではいられない。 我々はあなたが要求したオークの武器を得た。 誰もこれをあなた"
-"やエルフと関連づけられはしないだろう。"
+"ではいられない。 あなたが要求したオークの武器を手に入れてきた。 これを使え"
+"ば、誰もあなたやエルフ族とこの件を関連づけられはしないだろう。"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_clash_at_the_manor.cfg:132
@@ -4712,8 +4713,8 @@ msgid ""
 "Delfador and the elves went through the secret door and ended in the "
 "dungeon, a veritable maze of narrow corridors."
 msgstr ""
-"Delfador とエルフ達は秘密の扉を通り抜けました。そして迷宮になっていました、狭"
-"い通路で出来た紛れも無い迷路。"
+"Delfador とエルフ達が秘密の扉を通り抜けると、そこは迷宮になっていました。 狭"
+"い通路でできており、そこは紛れもない迷路だったのです。"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_face_of_the_enemy.cfg:72
@@ -4731,8 +4732,8 @@ msgid ""
 "This place stinks of evil and death. Chantal, do we have any holy water with "
 "us? I fear we may have need of it ere long."
 msgstr ""
-"この場所は悪と死の悪臭がする。 Chantal 、聖水はあるか？ やがてそれが必要にな"
-"るかもしれないと心配だ。"
+"この場所は悪と死の悪臭がする。 Chantal 、聖水はあるか？ それが必要になりそう"
+"な予感がする。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_face_of_the_enemy.cfg:115
@@ -4755,8 +4756,8 @@ msgid ""
 "I am the one whose place you took in the court of Wesnoth. But my daughter "
 "brought me what you seek, and I have seized the power of it."
 msgstr ""
-"わしはお前が Wesnoth の宮廷でその地位を奪った者だ。だがわしの娘はお前が探し求"
-"めている物を持って来てくれた。そしてわしはその力を掌握したのだ。"
+"Wesnoth の宮廷の地位をお前に奪われた者だよ。だがわしの娘はお前が探し求めてい"
+"る物を持って来てくれた。そしてわしはその力を掌握したのだ。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_face_of_the_enemy.cfg:136
@@ -4778,7 +4779,7 @@ msgid ""
 "daughter or the Kingdom. It will destroy you both!"
 msgstr ""
 "Sagus……旧友……。あなたが取った本はあなたにも、あなたの娘にも、または王国のため"
-"にも何の役にも立ちません。それはあなた方二人を破壊するでしょう！"
+"にも何の役にも立ちません。それはあなた方二人を破滅に導くでしょう！"
 
 # 同い年？w 前のグラ……w
 #. [message]: speaker=Sagus
@@ -4814,8 +4815,7 @@ msgstr "戦闘準備！ 幅の狭くなる地点でブロックし、そこで�
 msgid ""
 "The book is recovered, but the damage is done. Friends, thank you. Now let's "
 "get out of here!"
-msgstr ""
-"本は取り戻した。しかし後の祭りだ。友よ、ありがとう。さあここから出よう！"
+msgstr "本は取り戻した。しかし後の祭りだ。友よ、冥福に。さあここから出よう！"
 
 # %c
 #. [message]: speaker=Kalenz
@@ -4842,8 +4842,8 @@ msgstr ""
 "隠した後に。驚いたことに、 Asheviere は荘園での出来事についてそれ以上の言及を"
 "しませんでした。 しかし間もなくオークの襲撃がかなり増加し、王国の脅威となりま"
 "した。王は、オークの脅威に対処するために軍を召集しました。そしてAbez の浅瀬に"
-"おける大規模な戦闘に導きます。でもそれは裏切り行為を通して失われてしまいまし"
-"た。"
+"おける大規模な戦闘に発展します。でもそれは裏切り行為という結末を迎え、王は崩"
+"御します。"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/23_epilogue.cfg:20
@@ -4852,9 +4852,9 @@ msgid ""
 "called 'Heir to the Throne'. In it is told how he ended the usurpation of "
 "Asheviere and restored the rightful heir to the throne of Wesnoth."
 msgstr ""
-"Delfador の最後の偉大な探求は、その戦いの後に、「王位継承者」と呼ばれる物語に"
-"記述されました。 彼がどのように Asheviere の簒奪を終わらせ、そして Wesnoth の"
-"正当な王位継承者を復活させたのかが述べられています。"
+"Delfador の最後の偉大な探求は、その戦いの後に「王位継承者」と呼ばれる物語とし"
+"て紡がれました。 彼がどのように Asheviere による簒奪を終わらせ、そして "
+"Wesnoth の正当な王位継承者を復活させたのかが記されています。"
 
 # % ちょっとだけ意訳っぽい。
 #. [part]
