@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-05-31 18:29+0200\n"
+"POT-Creation-Date: 2010-07-04 17:50+0200\n"
 "PO-Revision-Date: 2010-06-11 02:40+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -398,14 +398,18 @@ msgid ""
 "The path of the orcish war band was easy to follow - a wide swathe of "
 "trampled ground through violated forest. Erlornas and his party swiftly "
 "followed it north and west."
-msgstr "オークの部隊の後を辿るのは容易いことでした――乱れた森の中に踏み荒らされた地面が帯のように続いていたのです。Erlornas 一行は急いで北西へ追跡していきました。"
+msgstr ""
+"オークの部隊の後を辿るのは容易いことでした――乱れた森の中に踏み荒らされた地面"
+"が帯のように続いていたのです。Erlornas 一行は急いで北西へ追跡していきました。"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/2_Assassins.cfg:74
 msgid ""
 "Soon they arrived at a region where the forest was cut through by many "
 "streams, only to find something unexpected."
-msgstr "複数の川によって森が分断されている場所に着いてまもなく、予期していないものが見つかりました。"
+msgstr ""
+"複数の川によって森が分断されている場所に着いてまもなく、予期していないものが"
+"見つかりました。"
 
 #. [objectives]
 #: data/campaigns/An_Orcish_Incursion/scenarios/2_Assassins.cfg:88
@@ -492,7 +496,9 @@ msgstr "痛ぇ……失敗した……Rualsha 様がお怒りになる……"
 msgid ""
 "This...Rualsha again. We need to forge ahead; the answers we seek are not "
 "here. Perhaps we will find them further north."
-msgstr "ここでも……また Rualsha か。先へ進む必要がありそうだ。探し求める解答はここには無い。もっと北に行かねばならんのだろう。"
+msgstr ""
+"ここでも……また Rualsha か。先へ進む必要がありそうだ。探し求める解答はここには"
+"無い。もっと北に行かねばならんのだろう。"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/2_Assassins.cfg:189
@@ -521,7 +527,12 @@ msgid ""
 "unmistakable - tree stumps, an occasional half-rotten tree felled long ago, "
 "and dead wood around them in scarce grass. This had been forest once, like "
 "the woods they called home. It had been murdered."
-msgstr "北へ進むにつれて緑の森は開け、周囲は少しずつ痩せたみすぼらしい土地へと変わっていきました。まばらな芝の上にある切り株と、時折見られる遥か昔に倒れ半ば朽ちた木と、その周囲の枯れた木――それは明白で疑いようもない証でした。彼らが故郷と呼ぶあの森と同じく、かつてここは森だったのですが、それは破壊されていたのです。"
+msgstr ""
+"北へ進むにつれて緑の森は開け、周囲は少しずつ痩せたみすぼらしい土地へと変わっ"
+"ていきました。まばらな芝の上にある切り株と、時折見られる遥か昔に倒れ半ば朽ち"
+"た木と、その周囲の枯れた木――それは明白で疑いようもない証でした。彼らが故郷と"
+"呼ぶあの森と同じく、かつてここは森だったのですが、それは破壊されていたので"
+"す。"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:62
@@ -529,7 +540,10 @@ msgid ""
 "There was no trail to be found here; wind and rain had erased the spoor. "
 "Fortunately, there was no need of a trail; smoke on the horizon betrayed the "
 "presence of their enemies."
-msgstr "もう痕跡は見つかりませんでした。風雨が足跡を消し去ってしまっていたのです。しかし、幸運にも、もう跡を辿る必要はありませんでした。地平線に見える煙が敵の存在を示していたのです。"
+msgstr ""
+"もう痕跡は見つかりませんでした。風雨が足跡を消し去ってしまっていたのです。し"
+"かし、幸運にも、もう跡を辿る必要はありませんでした。地平線に見える煙が敵の存"
+"在を示していたのです。"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:66
@@ -539,14 +553,22 @@ msgid ""
 "never so...methodical in their destruction, and did not travel in "
 "sufficiently large numbers in a north country they found too cold and damp "
 "for comfort. The great question remained - would he find Rualsha?"
-msgstr "Erlornas はそこでオーク族が見つかると半ば確信していました。ドワーフのどんな氏族でさえ、こんな手段でエルフ族との太古の取り決めを破りはしないからです。人間族もこのような……組織だった破壊の仕方はしないし、北国はあまりに寒く湿気が多くて人間族には快適には暮らせない地域であるため、それだけの大人数で移動することも無かったからです。ただ、大きな疑問が残りました―― Rualsha は見つかるのでしょうか？"
+msgstr ""
+"Erlornas はそこでオーク族が見つかると半ば確信していました。ドワーフのどんな氏"
+"族でさえ、こんな手段でエルフ族との太古の取り決めを破りはしないからです。人間"
+"族もこのような……組織だった破壊の仕方はしないし、北国はあまりに寒く湿気が多く"
+"て人間族には快適には暮らせない地域であるため、それだけの大人数で移動すること"
+"も無かったからです。ただ、大きな疑問が残りました―― Rualsha は見つかるのでしょ"
+"うか？"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:70
 msgid ""
 "Perhaps, but not here. The tribe this camp housed was too small to impress "
 "fear on other orcs. Come next morning, the elves were prepared for battle."
-msgstr "おそらく、ここではないのでしょう。他のオーク族に恐怖を植え付けるには、ここに野営していた部族は小さ過ぎたからです。翌朝、エルフ族は戦闘に備えました。"
+msgstr ""
+"おそらく、ここではないのでしょう。他のオーク族に恐怖を植え付けるには、ここに"
+"野営していた部族は小さ過ぎたからです。翌朝、エルフ族は戦闘に備えました。"
 
 #. [objectives]
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:84
@@ -638,7 +660,10 @@ msgid ""
 "themselves in a half-ruined camp littered with the bodies of both sides, "
 "there was no hale orc in sight, nor did any of the wounded beg mercy. The "
 "elves took no prisoners."
-msgstr "オークの族長は傷に耐えられず、ついに倒れました。半ば崩れた野営地には両軍の死体が散らばり、見渡す限り無傷のオークも、傷ついて助命を乞うオークもいませんでした。エルフ族は捕虜を確保できませんでした。"
+msgstr ""
+"オークの族長は傷に耐えられず、ついに倒れました。半ば崩れた野営地には両軍の死"
+"体が散らばり、見渡す限り無傷のオークも、傷ついて助命を乞うオークもいませんで"
+"した。エルフ族は捕虜を確保できませんでした。"
 
 #. [message]: role=Adviser
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:231
@@ -683,7 +708,9 @@ msgstr ""
 msgid ""
 "What about the loot lord? We found supplies worth over a hundred gold in the "
 "camp."
-msgstr "戦利品はどうしましょうか閣下？ 野営地で 100ゴールド以上に相当する物資を発見しました。"
+msgstr ""
+"戦利品はどうしましょうか閣下？ 野営地で 100ゴールド以上に相当する物資を発見し"
+"ました。"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:257
