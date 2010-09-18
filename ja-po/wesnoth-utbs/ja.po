@@ -4,23 +4,22 @@
 # Nobuhito Okada <okyada@gmail.com>, 2006.
 # Takanobu Hirai <airhead@users.sourceforge.jp>, 2008.
 # 瀟湘夜雨, 2010.
-# clearpotion <clearpotion+fantasy@gmail.com>, 2010
+# clearpotion <clearpotion+fantasy@gmail.com>, 2010.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-07-04 17:50+0200\n"
-"PO-Revision-Date: 2010-07-10 06:19+0900\n"
-"Last-Translator: 瀟湘夜雨\n"
+"POT-Creation-Date: 2010-09-13 14:13+0200\n"
+"PO-Revision-Date: 2010-09-13 23:11+0900\n"
+"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
+"Language: Japanese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: Japanese\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Poedit-Basepath: C:\\Program Files\\Battle for Wesnoth 1.8.2\n"
-"X-Poedit-Bookmarks: -1,1787,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
@@ -6189,7 +6188,8 @@ msgid ""
 msgstr ""
 "だがドワーフは探査にかけては一流で、我々は探検した坑道のすべてを詳細な地図に"
 "残している。地表に続く坑道の地図も残っているはずだ。もちろん君たちが見ても理"
-"解できないだろうし、ここにいる $dwarf_name が地表までの案内役を志願している。"
+"解できないだろうし、ここにいる $intl_dwarf_name が地表までの案内役を志願して"
+"いる。"
 
 #. [message]: speaker=Rogrimir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:511
@@ -6229,7 +6229,7 @@ msgid ""
 "$intl_dwarf_name ."
 msgstr ""
 "助力に心から感謝します。あの曲がりくねった坑道で迷ってしまうことが私達の心配"
-"の種でした。それに $dwarf_name 、あなたに同行してもらえるとは光栄です。"
+"の種でした。それに $intl_dwarf_name 、あなたに同行してもらえるとは光栄です。"
 
 #. [message]: speaker=King Thurongar
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:541
@@ -13275,9 +13275,9 @@ msgid ""
 "hope there still something to smash when he gets there."
 msgstr ""
 "Kaleh 戦っている間、$intl_ally_name ただ座って待つ、ありえない。Kaleh 強い戦"
-"士必要、$intl_ally_name のような。他のエルフ、怯えてる、でも、"
-"$intl_ally_name 恐れない、闇の中も。 $intl_ally_name 中に入る、邪魔する、粉砕"
-"する。"
+"士必要、$intl_ally_name のような。他のエルフ、怯えてる、で"
+"も、$intl_ally_name 恐れない、闇の中も。 $intl_ally_name 中に入る、邪魔する、"
+"粉砕する。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:2031
@@ -14050,15 +14050,15 @@ msgstr ""
 "私の命を救ったことで、$intl_ally_name は彼の責務を果たしたと言うが、我々はし"
 "ばらく留まって、あの大いなる勝利の祝賀を楽しんでいくように説得した。我々は "
 "Eloh と merfolk 達の神への感謝と新しい住処の美しさと自然の豊かさへの喜びを称"
-"えて何日も何日も祝っていた。その後で民の為の新しい住居の建設に取り掛かった。"
-"$intl_ally_name は我々の建設工事を助けるために留まってくれ、誰よりも沢山働い"
-"てくれた。それからしばらくして彼は私の元に来て、彼の種族の元に帰らなければな"
-"らないと告げた。我々と過ごした時間は素晴らしく夢の様だったと、我々の事を忘れ"
-"はしないと、そして彼の種族は彼を必要としていたので故郷へ帰らなければならない"
-"と、$intl_ally_name は言っていた。彼は何時の日にか再び訪ねて来ると言っていた"
-"が、はたして私が生きているうちに再び会えるだろうか。いずれにしても彼との思い"
-"出も彼の助力も心に銘記されている。彼の不変の忠誠心と彼が我々を助けるために奮"
-"闘してくれた全てを長く伝えていこう。"
+"えて何日も何日も祝っていた。その後で民の為の新しい住居の建設に取り掛かっ"
+"た。$intl_ally_name は我々の建設工事を助けるために留まってくれ、誰よりも沢山"
+"働いてくれた。それからしばらくして彼は私の元に来て、彼の種族の元に帰らなけれ"
+"ばならないと告げた。我々と過ごした時間は素晴らしく夢の様だったと、我々の事を"
+"忘れはしないと、そして彼の種族は彼を必要としていたので故郷へ帰らなければなら"
+"ないと、$intl_ally_name は言っていた。彼は何時の日にか再び訪ねて来ると言って"
+"いたが、はたして私が生きているうちに再び会えるだろうか。いずれにしても彼との"
+"思い出も彼の助力も心に銘記されている。彼の不変の忠誠心と彼が我々を助けるため"
+"に奮闘してくれた全てを長く伝えていこう。"
 
 # こちらを翻訳。↑はコピペ。
 #. [message]: speaker=Kaleh
@@ -14082,15 +14082,15 @@ msgstr ""
 "私の命を救ったことで、$intl_ally_name は彼の責務を果たしたと言うが、我々はし"
 "ばらく留まって、あの大いなる勝利の祝賀を楽しんでいくように説得した。我々は "
 "Eloh と merfolk 達の神への感謝と新しい住処の美しさと自然の豊かさへの喜びを称"
-"えて何日も何日も祝っていた。その後で民の為の新しい住居の建設に取り掛かった。"
-"$intl_ally_name は我々の建設工事を助けるために留まってくれ、誰よりも沢山働い"
-"てくれた。それからしばらくして彼は私の元に来て、彼の種族の元に帰らなければな"
-"らないと告げた。我々と過ごした時間は素晴らしく夢の様だったと、我々の事を忘れ"
-"はしないと、そして彼の種族は彼を必要としていたので故郷へ帰らなければならない"
-"と、$intl_ally_name は言っていた。彼は何時の日にか再び訪ねて来ると言っていた"
-"が、はたして私が生きているうちに再び会えるだろうか。いずれにしても彼との思い"
-"出も彼の助力も心に銘記されている。彼の不変の忠誠心と彼が我々を助けるために奮"
-"闘してくれた全てを長く伝えていこう。"
+"えて何日も何日も祝っていた。その後で民の為の新しい住居の建設に取り掛かっ"
+"た。$intl_ally_name は我々の建設工事を助けるために留まってくれ、誰よりも沢山"
+"働いてくれた。それからしばらくして彼は私の元に来て、彼の種族の元に帰らなけれ"
+"ばならないと告げた。我々と過ごした時間は素晴らしく夢の様だったと、我々の事を"
+"忘れはしないと、そして彼の種族は彼を必要としていたので故郷へ帰らなければなら"
+"ないと、$intl_ally_name は言っていた。彼は何時の日にか再び訪ねて来ると言って"
+"いたが、はたして私が生きているうちに再び会えるだろうか。いずれにしても彼との"
+"思い出も彼の助力も心に銘記されている。彼の不変の忠誠心と彼が我々を助けるため"
+"に奮闘してくれた全てを長く伝えていこう。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:414
@@ -14347,11 +14347,11 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Marksman.cfg:35
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Marshal.cfg:46
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Outrider.cfg:41
-#: data/campaigns/Under_the_Burning_Suns/units/Desert_Prowler.cfg:40
+#: data/campaigns/Under_the_Burning_Suns/units/Desert_Prowler.cfg:39
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Ranger.cfg:45
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Rider.cfg:40
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Scout.cfg:40
-#: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:40
+#: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:38
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:43
 #: data/campaigns/Under_the_Burning_Suns/units/Human_Commander.cfg:44
 #: data/campaigns/Under_the_Burning_Suns/units/Kaleh.cfg:390
@@ -14641,8 +14641,8 @@ msgstr ""
 #. [attack]: type=impact
 #. [effect]: type=impact
 #: data/campaigns/Under_the_Burning_Suns/units/Desert_Hunter.cfg:46
-#: data/campaigns/Under_the_Burning_Suns/units/Desert_Prowler.cfg:49
-#: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:49
+#: data/campaigns/Under_the_Burning_Suns/units/Desert_Prowler.cfg:48
+#: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:47
 #: data/campaigns/Under_the_Burning_Suns/units/Kaleh.cfg:70
 #: data/campaigns/Under_the_Burning_Suns/units/Nym.cfg:39
 msgid "bolas"
@@ -14732,7 +14732,7 @@ msgstr ""
 
 #. [unit_type]: id=Nym Prowler, race=elf
 #. [female]
-#: data/campaigns/Under_the_Burning_Suns/units/Desert_Prowler.cfg:137
+#: data/campaigns/Under_the_Burning_Suns/units/Desert_Prowler.cfg:145
 #: data/campaigns/Under_the_Burning_Suns/units/Nym.cfg:155
 msgid "female^Desert Prowler"
 msgstr "砂漠の女放浪者"
@@ -14788,25 +14788,19 @@ msgstr ""
 "りないが、馬の背である割には巧みに弓をあやつります。"
 
 #. [unit_type]: id=Desert Sentinel, race=elf
-#: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:35
+#: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:33
 msgid ""
 "Desert Sentinels patrol the sands; they are trained to avoid enemies when it "
 "is advantageous. They can cripple opponents with their bolas and are deadly "
-"with their swords.\n"
-"\n"
-"The skirmish ability allows the rogue to ignore enemy units' zones of "
-"control and thus move unhindered around them."
+"with their swords."
 msgstr ""
 "砂漠の哨兵(Desert Sentinel)は砂漠を巡視し、必要であれば敵を避ける訓練をつんで"
 "います。ボーラで敵を束縛することができ、剣でもって致命傷を与える事もできま"
-"す。\n"
-"\n"
-"小競り合いに適した技能でもって敵の防衛ゾーンを無視して敵の周囲を移動する事が"
-"できます。"
+"す。"
 
 #. [unit_type]: id=Nym Sentinel, race=elf
 #. [female]
-#: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:122
+#: data/campaigns/Under_the_Burning_Suns/units/Desert_Sentinel.cfg:126
 #: data/campaigns/Under_the_Burning_Suns/units/Nym.cfg:141
 msgid "female^Desert Sentinel"
 msgstr "砂漠の女哨兵"

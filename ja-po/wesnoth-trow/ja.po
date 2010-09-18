@@ -4,22 +4,21 @@
 # Automatically generated, 2005.
 # Takanobu Hirai <airhead@users.sourceforge.jp>, 2006.
 # clearpotion <clearpotion+fantasy@gmail.com>, 2010.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-07-04 17:50+0200\n"
-"PO-Revision-Date: 2010-07-10 06:25+0900\n"
-"Last-Translator: clearpotion <clearpotion+fantasy@gmail.com>\n"
+"POT-Creation-Date: 2010-08-13 11:21+0200\n"
+"PO-Revision-Date: 2010-08-16 20:18+0900\n"
+"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Poedit-Basepath: C:\\Program Files\\Battle for Wesnoth 1.8.1\n"
-"X-Poedit-Bookmarks: 324,992,295,920,-1,-1,-1,-1,-1,-1\n"
 
 #. [scenario]: id=Rise_of_Wesnoth
 #. [campaign]: id=The_Rise_Of_Wesnoth
@@ -1135,7 +1134,7 @@ msgstr "気をつけろ、何が潜んでいるかわからないぞ！"
 #. [unit]: type=White Mage, id=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_River_Road.cfg:245
 msgid "Minister Edren"
-msgstr "Edmond 牧師"
+msgstr "Edren 牧師"
 
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_River_Road.cfg:258
@@ -3955,6 +3954,11 @@ msgid "We come in peace. We only seek to re-provision our ships."
 msgstr ""
 "僕たちは争いに来たのではありません。船の再補給ができるところを探しているだけ"
 "です。"
+
+#. [message]: speaker=Lady Jessene
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/13_Peoples_in_Decline.cfg:213
+msgid "I don't think diplomacy is going to work."
+msgstr "外交儀礼は通じそうにないわよ。"
 
 #. [message]: speaker=Gerrick
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/13_Peoples_in_Decline.cfg:218
@@ -7258,7 +7262,7 @@ msgstr "王に祝福あれ、その血統が我に与えられた時を越えて
 msgid "For Land and Lord, I sacrifice all!"
 msgstr "国と王のため、我が全てを捧げよう！"
 
-# # Minister Edmond
+# # Minister Edren
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-deaths.cfg:110
 msgid "May the Lords of Light protect us all."
@@ -7594,104 +7598,106 @@ msgstr ""
 "の向こうに現れた。"
 
 # #unit
-msgid "Vigdish"
-msgstr "Vigdish"
+#~ msgid "Vigdish"
+#~ msgstr "Vigdish"
 
 # #unit
-msgid "Assassin"
-msgstr "暗殺者"
+#~ msgid "Assassin"
+#~ msgstr "暗殺者"
 
 # #unit
-msgid "Crossbow"
-msgstr "クロスボウ兵"
+#~ msgid "Crossbow"
+#~ msgstr "クロスボウ兵"
 
 # # 「深海のテンタクル」
 # #unit
-msgid "Tentacle"
-msgstr "テンタクル"
+#~ msgid "Tentacle"
+#~ msgstr "テンタクル"
 
 # #unit
-msgid "Rolassi"
-msgstr "Rolassi"
+#~ msgid "Rolassi"
+#~ msgstr "Rolassi"
 
 # #unit
-msgid "Porbag"
-msgstr "Porbag"
+#~ msgid "Porbag"
+#~ msgstr "Porbag"
 
-msgid ""
-"At last the distant shores of a great continent are spotted. The time for "
-"landfall has arrived."
-msgstr "ついに大陸の海岸が遠くに見えてきた。上陸のときがやってきたのだ。"
-
-# #unit
-msgid "Saxiala"
-msgstr "Saxiala"
+#~ msgid ""
+#~ "At last the distant shores of a great continent are spotted. The time for "
+#~ "landfall has arrived."
+#~ msgstr "ついに大陸の海岸が遠くに見えてきた。上陸のときがやってきたのだ。"
 
 # #unit
-msgid "Cuttle Fish"
-msgstr "Cuttle Fish"
+#~ msgid "Saxiala"
+#~ msgstr "Saxiala"
 
 # #unit
-msgid "Bzz'Kza"
-msgstr "Bzz'Kza"
+#~ msgid "Cuttle Fish"
+#~ msgstr "Cuttle Fish"
 
 # #unit
-msgid "Kersezz"
-msgstr "Kersezz"
+#~ msgid "Bzz'Kza"
+#~ msgstr "Bzz'Kza"
 
 # #unit
-msgid "Tarex"
-msgstr "Tarex"
+#~ msgid "Kersezz"
+#~ msgstr "Kersezz"
 
 # #unit
-msgid "Zzalkz"
-msgstr "Zzalkz"
+#~ msgid "Tarex"
+#~ msgstr "Tarex"
 
 # #unit
-msgid "Amprixta"
-msgstr "Amprixta"
-
-msgid "female^Outlaw Princess"
-msgstr "無法者の王女"
-
-msgid ""
-"A noble by birth, the Outlaw Princess has learnt swordplay with the greatest "
-"generals, but she is the product of a failed aristocracy who has opted for "
-"the life of an Outlaw. She dreams of founding her own Queendom with the "
-"plunder she finds on the road."
-msgstr ""
-"生まれながらの 貴人である 無法者の女王は 大将軍から剣技を、 学んでいます。 し"
-"かし、 彼女は 無法者の人生を 選択した、 失敗した貴族社会の 産物です。 彼女は "
-"途上での略奪によって、 自分の王国を 建国することを 夢見ています。"
-
-msgid "female^Outlaw Queen"
-msgstr "無法者の女王"
-
-msgid ""
-"A noble by birth, the Outlaw Queen has learnt swordplay with the greatest "
-"generals and battle tactics with the greatest sages, making her both a great "
-"combatant and leader. However, she is the product of a failed aristocracy "
-"who has opted for the life of an Outlaw. She dreams of founding her own "
-"Queendom with the plunder she finds on the road, and she is ever so close to "
-"that goal."
-msgstr ""
-"生まれながらの 貴人である 無法者の女王は 大将軍から剣技を、 大賢者から戦術を "
-"学んでおり、 戦闘と指揮の両方に 優れています。  しかし、 彼女は 無法者の人生"
-"を 選択した、 失敗した貴族社会の 産物です。 彼女は 途上での略奪によって、 自"
-"分の王国を 建国することを 夢見ており、 その目標に 非常に近い位置に います。"
-
-msgid "mace"
-msgstr "メイス"
+#~ msgid "Zzalkz"
+#~ msgstr "Zzalkz"
 
 # #unit
-msgid "Eldaric's Guard"
-msgstr "Eldaric の護衛"
+#~ msgid "Amprixta"
+#~ msgstr "Amprixta"
 
-msgid "blade"
-msgstr "斬撃"
+#~ msgid "female^Outlaw Princess"
+#~ msgstr "無法者の王女"
 
-msgid "impact"
-msgstr "打撃"
+#~ msgid ""
+#~ "A noble by birth, the Outlaw Princess has learnt swordplay with the "
+#~ "greatest generals, but she is the product of a failed aristocracy who has "
+#~ "opted for the life of an Outlaw. She dreams of founding her own Queendom "
+#~ "with the plunder she finds on the road."
+#~ msgstr ""
+#~ "生まれながらの 貴人である 無法者の女王は 大将軍から剣技を、 学んでいま"
+#~ "す。 しかし、 彼女は 無法者の人生を 選択した、 失敗した貴族社会の 産物で"
+#~ "す。 彼女は 途上での略奪によって、 自分の王国を 建国することを 夢見ていま"
+#~ "す。"
+
+#~ msgid "female^Outlaw Queen"
+#~ msgstr "無法者の女王"
+
+#~ msgid ""
+#~ "A noble by birth, the Outlaw Queen has learnt swordplay with the greatest "
+#~ "generals and battle tactics with the greatest sages, making her both a "
+#~ "great combatant and leader. However, she is the product of a failed "
+#~ "aristocracy who has opted for the life of an Outlaw. She dreams of "
+#~ "founding her own Queendom with the plunder she finds on the road, and she "
+#~ "is ever so close to that goal."
+#~ msgstr ""
+#~ "生まれながらの 貴人である 無法者の女王は 大将軍から剣技を、 大賢者から戦術"
+#~ "を 学んでおり、 戦闘と指揮の両方に 優れています。  しかし、 彼女は 無法者"
+#~ "の人生を 選択した、 失敗した貴族社会の 産物です。 彼女は 途上での略奪に"
+#~ "よって、 自分の王国を 建国することを 夢見ており、 その目標に 非常に近い位"
+#~ "置に います。"
+
+#~ msgid "mace"
+#~ msgstr "メイス"
+
+# #unit
+#~ msgid "Eldaric's Guard"
+#~ msgstr "Eldaric の護衛"
+
+#~ msgid "blade"
+#~ msgstr "斬撃"
+
+#~ msgid "impact"
+#~ msgstr "打撃"
 
 #~ msgid "Fireball"
 #~ msgstr "幻火"
@@ -7731,10 +7737,6 @@ msgstr "打撃"
 
 #~ msgid "Onward to victory!"
 #~ msgstr "勝利に向かって進め！"
-
-#, fuzzy
-#~ msgid "(whispered) I don't think diplomacy is going to work."
-#~ msgstr "（ささやく）外交儀礼は通じそうにないわよ。"
 
 #, fuzzy
 #~ msgid "Hashnak"
