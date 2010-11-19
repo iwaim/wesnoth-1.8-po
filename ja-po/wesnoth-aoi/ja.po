@@ -10,14 +10,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-07-04 17:50+0200\n"
-"PO-Revision-Date: 2010-09-19 02:20+0900\n"
+"POT-Creation-Date: 2010-09-24 19:34+0200\n"
+"PO-Revision-Date: 2010-11-19 18:58+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [campaign]: id=An_Orcish_Incursion
@@ -148,7 +148,7 @@ msgid ""
 msgstr ""
 "人間族とオーク族の到来は大陸の諸国家に衝撃をもたらしました。既にドワーフ族や"
 "その他の種族と危うい均衡を保っていたエルフ族は、何世紀もの間、時折起こる小競"
-"り合い以上の戦いを経験していませんでした。彼らは、長らく忘れられていた規模の"
+"り合い程度の戦しか経験していませんでした。彼らは、長らく忘れられていた規模の"
 "戦いに直面していることに気付くことになったのです。"
 
 #. [part]
@@ -250,9 +250,9 @@ msgid ""
 "landed on these shores, and since then they've been no more than a bogey "
 "mothers use to scare the children."
 msgstr ""
-"オークだと？ それはないだろう。大陸の沿岸に着いた時、人間の王、Haldric がオー"
-"ク族を壊滅させて、それ以来母親が子供を怖がらせるためのお化け扱いの代物でしか"
-"なくなっている。"
+"オークだと？そんなことはないだろう。大陸の沿岸に着いた時、人間族の王、"
+"Haldric がオーク族を壊滅させて以来、母親が子供を怖がらせるためのお化け扱いの"
+"代物でしかなくなっているはずだ。"
 
 #. [message]: id=Lomarfel
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:132
@@ -262,9 +262,9 @@ msgid ""
 "trample the greensward into mud and do not even bury their foul dung. I "
 "believe I can smell the stench even here."
 msgstr ""
-"それはそうなのですが、閣下。ですが青々とした木々を何十本も切り倒して、大きな"
-"火を焚いている一団が北にいるのです。芝生を踏み荒らして泥濘へと変え、汚らしい"
-"糞を土で隠すことすらしません。ここにいてさえも、悪臭が漂ってきそうです。"
+"閣下、仰る通りではありました。ですが青々とした木々を何十本も切り倒して、大き"
+"な火を焚いている一団が北にいるのです。芝生を踏み荒らして泥濘へと変え、汚らし"
+"い糞を土で隠すことすらしません。ここにいてさえも、悪臭が漂ってきそうです。"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:136
@@ -276,8 +276,8 @@ msgid ""
 msgstr ""
 "ではオーク族についてのおぞましい話は本当だったのか。そんなことを続けるのは許"
 "されない。この木々の伝染病のような奴らを我々の森から追放しなければ。私は巡視"
-"隊を率いて奴らを駆逐しよう。それと評議会にこのことを伝える必要がある。知らせ"
-"を携えて行き、援軍を連れて戻ってきてくれ。オークはたくさんいるかもしれない。"
+"隊を率いて奴らを駆逐しよう。このことは評議会に伝える必要がある。知らせを携え"
+"て行き、援軍を連れて戻ってきてくれ。オークはたくさんいるかもしれない。"
 
 #. [message]: id=Lomarfel
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:140
@@ -362,8 +362,8 @@ msgid ""
 "the war. Given its final outcome, this was perhaps for the best."
 msgstr ""
 "オーク族と初めて戦った日に貴族の Erlornas は死に、戦争の終結を目にすることは"
-"無かった。戦争の最終的な結果を考えれば、おそらくそれが最も良かったのかもしれ"
-"ない。"
+"ありませんでした。戦争の最終的な結果を考えれば、おそらくそれが最も良かったの"
+"かもしれません。"
 
 #. [message]: speaker=unit
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:227
@@ -373,14 +373,15 @@ msgid ""
 "he wipe your people from the face of this earth!"
 msgstr ""
 "最善は尽くしたが、この戦いは条件が悪かった……萎びた臆病者め、貴様に千の呪い"
-"を！ 苦しむがいい……我が主君 Rualsha に見つかったその時、貴様らはこの地上から"
-"一掃されるのだ！"
+"を！苦しむがいい……我が主君 Rualsha に出会ったその時、貴様らはこの地上から一掃"
+"されるのだ！"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:238
 msgid ""
 "Rualsha? Hmm... What if... Assemble a war-party, we need to scout north!"
-msgstr "Rualsha？ ふむ……一体……戦闘部隊を集めろ、北を偵察する必要がありそうだ！"
+msgstr ""
+"Rualsha だと？ふむ……一体……戦闘部隊を集めろ、北を偵察する必要がありそうだ！"
 
 #. [scenario]: id=2_Assassins
 #: data/campaigns/An_Orcish_Incursion/scenarios/2_Assassins.cfg:9
@@ -408,8 +409,8 @@ msgid ""
 "Soon they arrived at a region where the forest was cut through by many "
 "streams, only to find something unexpected."
 msgstr ""
-"複数の川によって森が分断されている場所に着いてまもなく、予期していないものが"
-"見つかりました。"
+"複数の川によって森が分断されている場所に着いてまもなく、予期していなかったも"
+"のに遭遇しました。"
 
 #. [objectives]
 #: data/campaigns/An_Orcish_Incursion/scenarios/2_Assassins.cfg:88
@@ -450,9 +451,9 @@ msgid ""
 "could build such a thing save us. I fear we have fallen prey a false sense "
 "of security that has injured the vigilance of our scouts."
 msgstr ""
-"わ……私は知りません、閣下。長い間あんなものを建てられるような者はこの土地には"
-"いませんでした。斥候隊の警戒心を蝕む誤った治安意識の犠牲になっていたらと思う"
-"とぞっとします。"
+"わ……わかりません、閣下。長い間あんなものを建てられるような者はこの土地にはい"
+"ませんでした。斥候隊の警戒心を蝕む誤った治安意識の犠牲になっていたらと思うと"
+"ぞっとします。"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/2_Assassins.cfg:136
@@ -463,8 +464,8 @@ msgstr "戦いが終われば解答が得られるだろう。だが今は……
 #: data/campaigns/An_Orcish_Incursion/scenarios/2_Assassins.cfg:140
 msgid "Gharlsa sees elves...yes...fresh meat for wolves. Yes, yes..."
 msgstr ""
-"Gharlsa にはエルフどもが見える……いいぞ……俺達の狼に食わせる新鮮な肉だ。いい"
-"ぞ、いいぞ……"
+"エルフどもがいるようだ……いいぞ……俺達の狼に食わせる新鮮な肉だ。いいぞ、いい"
+"ぞ……"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/2_Assassins.cfg:144
@@ -531,8 +532,7 @@ msgstr ""
 "北へ進むにつれて緑の森は開け、周囲は少しずつ痩せたみすぼらしい土地へと変わっ"
 "ていきました。まばらな芝の上にある切り株と、時折見られる遥か昔に倒れ半ば朽ち"
 "た木と、その周囲の枯れた木――それは明白で疑いようもない証でした。彼らが故郷と"
-"呼ぶあの森と同じく、かつてここは森だったのですが、それは破壊されていたので"
-"す。"
+"呼ぶあの森と同じく、かつてここは森だったのですが、破壊されていたのです。"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:62
@@ -613,7 +613,7 @@ msgid ""
 "Elves!? This means Urugha failed and his spirit will suffer greatly for his "
 "weakness. So be it!"
 msgstr ""
-"エルフ族！？ ということは Urugha はしくじったか。己の弱さ故に奴の魂は大いに報"
+"エルフ族！？ということは Urugha はしくじったか。己の弱さ故に奴の魂は大いに報"
 "いを受けるのだろう。それならそれで構わん！"
 
 #. [message]: id=Gnargha
@@ -623,8 +623,8 @@ msgid ""
 "Let your blades slay all! First one to draw blood will feast by my fire this "
 "night!"
 msgstr ""
-"立て、兵卒ども！ 大戦闘だ！ 激情のままに任せろ！ その刃で全てを殺せ！ 最初に"
-"血抜きをした奴は火にかけて今夜のご馳走だ！"
+"立て、兵卒ども！大戦闘だ！激情のままに任せろ！その刃で全てを殺せ！最初に血抜"
+"きをした奴は火にかけて今夜のご馳走だ！"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:184
@@ -633,25 +633,26 @@ msgid ""
 "there can be no orc south of the hills, else we'll never have peace again."
 msgstr ""
 "度胸と才覚を以って真実を狙い撃て。そうすれば勝利は我らのものだ。誰一人容赦す"
-"るな、丘陵の南側にオークを立ち入らせることはできない。さもなくば二度と平和は"
-"やって来ないと思え。"
+"るな、丘陵の南側にオークを立ち入らせてはならない。さもなくば二度と平和はやっ"
+"て来ないと思え。"
 
 #. [message]: id=Gnargha
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:196
 msgid "You won... Elf... But it changes... Nothing... (*cough*)"
-msgstr "貴様の勝ちだ……エルフ……だが何も……変わりはしない…… (ゴホッ)"
+msgstr "貴様の勝ちだ……エルフよ……だが何も……変わりはしない…… (ゴホッ)"
 
 #. [message]: id=Gnargha
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:200
 msgid ""
 "We found the way... Now... We will come in numbers... (*cough*) You can't "
 "imagine..."
-msgstr "俺達は道を見つけた……既に………… (ゴホッ) 想像もできまい……"
+msgstr ""
+"俺達は道を見つけた……既に……大軍が向かってきている…… (ゴホッ) 想像もできまい……"
 
 #. [message]: id=Gnargha
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:204
 msgid "(*cough*) I'll be waiting... Among the dead..."
-msgstr "(ゴホッ) 待っているぞ……死者の中でな……"
+msgstr "(ゴホッ) 待っているぞ……死者の列でな……"
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:215
@@ -673,6 +674,7 @@ msgstr ""
 "終わりました、閣下。逃げた者はいません。逃げようとした者もいません。私は……不"
 "安でなりません。"
 
+# [ja] 意訳
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:235
 msgid ""
@@ -680,8 +682,9 @@ msgid ""
 "ferocity when defending what they claim as their own. Have the scouts found "
 "others this side of the hills?"
 msgstr ""
-"よろしい。だが奴らが自らの保身に無頓着なのは驚きだ。自分のものだと主張してい"
-"るものを守る時の凶暴さだ。斥候隊は丘陵のこちら側で他に何か見つけたか？"
+"よろしい。だが奴らが自らの保身に無頓着なのは驚きだ。自分たちのものを死守しよ"
+"うとしているときのような凶暴さだ。斥候隊は丘陵のこちら側で他に何か見つけた"
+"か？"
 
 #. [message]: role=Adviser
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:239
@@ -737,6 +740,7 @@ msgid ""
 "country."
 msgstr "北への行軍のために取っておけ。この痩せた土地ではそうは見つからない。"
 
+# [ja] 意訳
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:305
 msgid ""
@@ -744,9 +748,9 @@ msgid ""
 "no a chance to issue last commands or farewells. Without him his wardens "
 "soon fell into confusion, and losing heart withdrew from the battle."
 msgstr ""
-"貴族の Erlornas は自身を切り伏せる刃を見ることは無かった。即死し、最後の命令"
-"も辞世の言葉も発する暇が無かった。彼なしでは巡視隊はすぐに混乱に陥り、主力を"
-"失いながらも戦闘から離脱した。"
+"貴族の Erlornas は自身を切り伏せる刃を見ることはありませんでした。即死し、最"
+"後の命令も辞世の言葉も発する暇もなかったのです。彼を失った巡視隊はすぐに混乱"
+"に陥り、ほぼ壊滅しながら戦闘から離脱しました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:310
@@ -755,9 +759,9 @@ msgid ""
 "tribe. But the threat from the north remained unresolved and loomed large "
 "over their future."
 msgstr ""
-"やっと援軍が到達した時には、エルフ族は何とかオークの部族を撃退していた。しか"
-"し北からの脅威は解決されずに残されたままで、将来にわたって大きく立ちはだかる"
-"のだった。"
+"援軍がやっと到達した時には、エルフ族は何とかオークの部族を撃退していました。"
+"しかし、北からの脅威は解決されずに残されたままで、将来にわたって大きく立ちは"
+"だかることになるのでした。"
 
 #. [message]: role=Adviser
 #: data/campaigns/An_Orcish_Incursion/scenarios/3_Wasteland.cfg:320
@@ -777,8 +781,9 @@ msgid ""
 "morning they took the field against a far larger host of orcs. The battle "
 "ended in a draw; the war raged on for years..."
 msgstr ""
-"数日後、求めていた救援が追いついた。翌朝彼らは戦場で遥かに大きなオークの軍勢"
-"と対峙した。その戦いは引き分けに終わり、戦争は勢いを増して何年も続いた……"
+"数日後、求めていた救援が追いつきました。翌朝彼らは戦場で遥かに大規模なオーク"
+"の軍勢と対峙しました。その戦いは引き分けに終わり、戦争は勢いを増して何年も続"
+"くことになるのです……"
 
 #. [scenario]: id=4_Valley_of_Trolls
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:9
@@ -810,9 +815,10 @@ msgid ""
 "This land was barren and rugged; nothing shielded them from biting northern "
 "wind as they traveled towards the mountains looming before them."
 msgstr ""
-"翌朝、エルフ族は再び出発したが、作戦行動の辛さと故郷の森の緑の安らぎへの渇望"
-"に、次第に疲れきっていった。その土地は痩せて荒涼としており、前方に不気味に迫"
-"る山々に向かって進んでいく間、身を切るような北風から遮るものもない。"
+"翌朝、エルフ族は再び出発しましたが、作戦行動の辛さと故郷の森の緑の安らぎへの"
+"渇望に、次第に疲弊していきます。その土地は痩せて荒涼としており、前方に不気味"
+"に迫る山々に向かって進んでいく間、身を切るような北風から遮るものもなかったの"
+"です。"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:125
@@ -823,10 +829,10 @@ msgid ""
 "that night and most of the elves slept uneasily. An unlucky few kept a "
 "cautious watch."
 msgstr ""
-"山脈をほぼ一直線に走る渓谷の入口に到着し、野営地を張ったのは日が落ちる頃だっ"
-"たが、斥候隊はこの辺りの地形は不利で前方の道は闇に包まれ危険だと警告してい"
-"た。その夜は歌も音楽も無く、大部分のエルフが不安げに眠りに就いた。不運な数人"
-"が寝ずの番に立った。"
+"山脈をほぼ一直線に走る渓谷の入口に到着し、野営地を張ったのは日が落ちる頃でし"
+"たが、斥候隊はこの辺りの地形は不利で前方の道は闇に包まれ危険だと警告していま"
+"した。その夜は歌も音楽も無く、大部分のエルフが不安げに眠りにつきました。そし"
+"て、不運な数人が寝ずの番に立っていました。"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:129
@@ -834,8 +840,8 @@ msgid ""
 "When sunrise came, the elves moved into battle formations. Whatever waited "
 "in the slopes ahead, it would not find them unprepared."
 msgstr ""
-"日が昇ると、エルフ族は戦闘陣形を取った。斜面の前方で待ち受けているものが何で"
-"あれ、不意を突くことはできないだろう。"
+"日が昇ると、エルフ族は戦闘陣形をとりました。斜面の前方で待ち受けているものが"
+"何であれ、不意を突くことはできないように。"
 
 #. [objectives]
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:157
@@ -880,7 +886,7 @@ msgstr ""
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:201
 msgid "And tell me... How did you sleep last night?"
-msgstr "ついでに教えてくれ……昨晩は良く眠れたか？"
+msgstr "それと……昨晩は良く眠れたか？"
 
 #. [message]: role=Advisor
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:205
@@ -983,7 +989,7 @@ msgid ""
 "all sides, scattered and fled. Their retreat to Wesmere was arduous and long."
 msgstr ""
 "Erlornas が倒れて間もなく、エルフの一行は指揮官を欠いて各方面から押され、散り"
-"散りになって逃げ出した。Wesmere への退却は困難で時間がかかった。"
+"散りになって逃げ出しました。Wesmere への退却は困難で長時間にわたりました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:307
@@ -992,8 +998,8 @@ msgid ""
 "opposite direction. Orcs were back south of the pass, and this time they "
 "were to stay for a long, long time."
 msgstr ""
-"退却の時、別の軍隊が山道を真逆の方向に移動していた。オーク族は山道を南へ戻"
-"り、今度は非常に長い時間滞在した。"
+"退却の時、別の軍隊が山道を真逆の方向に移動していました。オーク族は山道を南へ"
+"戻り、今度は非常に長い時間滞在していました。"
 
 #. [message]: role=Advisor
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:317
@@ -1035,9 +1041,9 @@ msgid ""
 "some cavalry support. When they attempted the pass again, they found not "
 "trolls but something worse - an orcish army approaching from the north."
 msgstr ""
-"数日遅れで援軍が到着した。騎兵の援護付きの一流のレンジャー部隊だった。再度山"
-"道を通過しようとした時、彼らはトロルではなくもっとまずいものを発見した――オー"
-"クの軍隊が北から接近していたのだ。"
+"数日遅れで援軍が到着しました。騎兵の援護付きの一流のレンジャー部隊です。再度"
+"山道を通過しようとした時、彼らはトロルではなくもっとまずいものを発見しました"
+"――オークの軍隊が北から接近していたのでした。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:338
@@ -1046,8 +1052,8 @@ msgid ""
 "were only the beginning of the mournful toll in a war that would rage for "
 "many years after."
 msgstr ""
-"引き続いて起こった戦闘は血みどろで終わりのないものであり、エルフ族の敗北は、"
-"その後何年も猛威を振るう戦争の弔鐘のほんの始まりでしかなかった。"
+"引き続いて起こった戦闘は血みどろで終わりのないものとなりました。エルフ族の敗"
+"北は、その後何年も猛威を振るう戦争の弔鐘のほんの始まりでしかなかったのです。"
 
 #. [scenario]: id=5_Linaera_the_Quick
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:9
@@ -1060,9 +1066,9 @@ msgid ""
 "After a day of hard-earned rest the elves marched north again. This was "
 "unknown country, not frequented even by Wesmere's furthermost-faring scouts."
 msgstr ""
-"やっと手に入れた一日の休息の後、エルフ族は再び北へ行軍を続けた。そこは未知の"
-"土地であり、Wesmere で最も遠くへ出向く斥候隊でさえ滅多に出入りする場所ではな"
-"かった。"
+"やっと手に入れた一日の休息の後、エルフ族は再び北へ行軍を続けました。そこは未"
+"知の土地であり、Wesmere で最も遠くへ出向く斥候隊でさえ滅多に出入りする場所で"
+"はありませんでした。"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:28
@@ -1071,7 +1077,7 @@ msgid ""
 "laying siege to a tower."
 msgstr ""
 "二日間の旅の後、先を行く斥候隊が、別のオークの戦闘部隊が塔を包囲していると報"
-"告してきた。"
+"告してきました。"
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:32
@@ -1080,7 +1086,7 @@ msgid ""
 "the tower valley..."
 msgstr ""
 "Erlornas は木で覆われた小さな丘の上から塔のある低地を見下ろし、包囲網を見渡し"
-"た……"
+"ました……"
 
 #. [side]: type=Orcish Warlord, id=Krughnar
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:63
@@ -1175,8 +1181,8 @@ msgid ""
 "No, lord. No traces of any construction. It looks like no bridge has ever "
 "existed there. There must be other, hidden means of access to the tower."
 msgstr ""
-"いいえ、閣下。建造物の痕跡はありません。そこに橋は存在していなかったように見"
-"えます。塔に近づく他の、隠れた方法があるはずです。"
+"いいえ、閣下。建造物の痕跡はありません。橋みたいなものは存在していなかったよ"
+"うに見えます。塔に近づく他の、隠れた方法があるはずです。"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:175
@@ -1184,8 +1190,8 @@ msgid ""
 "Interesting...Go to my personal stores and bring me a bottle of wine. And a "
 "couple of glasses."
 msgstr ""
-"興味深いことだ……私の個人的な貯蔵庫へ行ってワインのボトルを持ってきてくれ。一"
-"対のグラスもだ。"
+"興味深いことだ……私の貯蔵庫へ行ってワインのボトルを持ってきてくれ。一対のグラ"
+"スもだ。"
 
 #. [message]: role=Advisor
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:179
@@ -1208,10 +1214,11 @@ msgid ""
 "Erlornas faded and all was seemingly as before."
 msgstr ""
 "Erlornas は目を閉じて両手を前に出し、掌を合わせて空に向かって空いたカップを形"
-"作った。それはすぐに輝き始め、妖精の炎で火鉢のように燃え上がり、エルフの貴族"
-"の周囲に冷たく青い光が放たれた。不気味な炎から一筋の光が浮かび上がり、エルフ"
-"の貴族から一言二言呟く言葉が発せられると、下の塔に向かって流れていった。する"
-"と Erlornas の周りの光が薄れていき、全てが元に戻ったかのようになった。"
+"作りました。それはすぐに輝き始め、妖精の炎で火鉢のように燃え上がり、エルフの"
+"貴族の周囲に冷たく青い光が放たれたのです。不気味な炎から一筋の光が浮かび上が"
+"り、エルフの貴族から一言二言呟く言葉が発せられると、下の塔に向かって流れてい"
+"きました。すると Erlornas の周りの光が薄れていき、何事もなかったように元通り"
+"になりました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:203
@@ -1259,7 +1266,7 @@ msgstr ""
 msgid ""
 "My lord... humans cannot be trusted! They shift their allegiances with the "
 "changing of the wind!"
-msgstr "閣下……人間は信用できません！ 彼らは風向きで忠誠が変化します！"
+msgstr "閣下……人間は信用できません！ 彼らは風向き次第で忠誠が変化します！"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:300
@@ -1400,9 +1407,9 @@ msgid ""
 "Ka'lian has deliberated, and asks you to defeat Rualsha quickly before he "
 "can muster a full invasion force."
 msgstr ""
-"閣下！ 我々は追いつくために一週間以上も猛烈に馬を駆けさせてきました！ "
-"Ka'lian の審議が下されました。Rualsha が充分な侵略部隊を集める前に、速やかに"
-"これを撃破せよとのことです。"
+"閣下！ 一週間以上も猛烈に馬を駆けさせ、やっと追いつきました！ Ka'lian の審議"
+"が下されました。Rualsha が充分な侵略部隊を集める前に、速やかにこれを撃破せよ"
+"とのことです。"
 
 #. [message]: speaker=Rualsha
 #: data/campaigns/An_Orcish_Incursion/scenarios/7_Showdown.cfg:224
@@ -1429,8 +1436,9 @@ msgid ""
 "they scattered, and fled from the elves back to their fastnesses in the far "
 "north."
 msgstr ""
-"しかし、Rualsha は兵の意志の強さを過大評価していた。指揮官の死と共に、彼らは"
-"追い散らされ、そしてエルフ族の前から遠い北にある彼らの生息地へと逃げ去った。"
+"しかし、Rualsha は兵の意志の強さを過大評価していました。指揮官の死と共に、彼"
+"らは追い散らされ、そしてエルフ族の前から遠い北にある彼らの生息地へと逃げ去っ"
+"ていったのです。"
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/7_Showdown.cfg:257
